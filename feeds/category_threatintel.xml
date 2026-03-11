@@ -9,7 +9,16 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 11 Mar 2026 13:30:26 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 13:57:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown</title>
+        <link>https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html</link>
+        <description><![CDATA[Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.
+The effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon]]></description>
+        <pubDate>Wed, 11 Mar 2026 13:57:34 GMT</pubDate>
     </item>
     
 
@@ -17,15 +26,15 @@
         <title>[threat-intel] Chinese Cyber Threat Lurks In Critical Asian Sectors for Years</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors</link>
         <description><![CDATA[An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.]]></description>
-        <pubDate>Wed, 11 Mar 2026 13:30:26 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 13:57:34 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
-        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
-        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Wed, 11 Mar 2026 13:30:26 GMT</pubDate>
+        <title>[threat-intel] Law enforcement disrupted Tycoon 2FA phishing-as-a-service platform</title>
+        <link>https://securityaffairs.com/189205/cyber-crime/law-enforcement-disrupted-tycoon-2fa-phishing-as-a-service-platform.html</link>
+        <description><![CDATA[Authorities disrupted the Tycoon 2FA phishing-as-a-service platform used to send millions of phishing emails to over 500,000 orgs worldwide. The joint effort, led by Microsoft, Europol, and industry partners, aimed to target the infrastructure of Tycoon 2FA phishing-as-a-service platform responsible for tens of millions of fraudulent emails reaching over 500,000 organizations each month worldwide. By [&amp;#8230;]]]></description>
+        <pubDate>Wed, 11 Mar 2026 13:57:34 GMT</pubDate>
     </item>
     
 </channel></rss>
