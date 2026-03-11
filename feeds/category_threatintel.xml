@@ -6,19 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] The New Turing Test: How Threats Use Geometry to Prove 'Humanness'</title>
-        <link>https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/</link>
-        <description><![CDATA[Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]]]></description>
-        <pubDate>Wed, 11 Mar 2026 05:52:08 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device</title>
-        <link>https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html</link>
-        <description><![CDATA[The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency.
-The activity has been attributed with moderate confidence to the state-sponsored adversary, which is also tracked under the cryptonyms Jade Sleet, PUKCHONG, Slow Pisces, and]]></description>
-        <pubDate>Wed, 11 Mar 2026 05:52:08 GMT</pubDate>
+        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
+        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
+        <pubDate>Wed, 11 Mar 2026 06:17:12 GMT</pubDate>
     </item>
     
 
@@ -26,15 +17,7 @@ The activity has been attributed with moderate confidence to the state-sponsored
         <title>[threat-intel] Chinese Cyber Threat Lurks In Critical Asian Sectors for Years</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors</link>
         <description><![CDATA[An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.]]></description>
-        <pubDate>Wed, 11 Mar 2026 05:52:08 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Wed, 11 Mar 2026 05:52:08 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 06:17:12 GMT</pubDate>
     </item>
     
 
@@ -42,16 +25,7 @@ The activity has been attributed with moderate confidence to the state-sponsored
         <title>[threat-intel] Russia-linked hackers target Signal, WhatsApp of officials globally</title>
         <link>https://securityaffairs.com/189156/intelligence/russia-linked-hackers-target-signal-whatsapp-of-officials-globally.html</link>
         <description><![CDATA[Russia-linked hackers are targeting Signal and WhatsApp accounts of government and military officials worldwide, warns Dutch intelligence. Dutch intelligence agencies (MIVD and AIVD) warn of a global campaign by Russia-linked threat actors aiming to compromise Signal and WhatsApp accounts. The operation targets government officials, civil servants, and military personnel, highlighting growing cyber risks to sensitive [&amp;#8230;]]]></description>
-        <pubDate>Wed, 11 Mar 2026 05:52:08 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Armadin secures  $189.9 million to counter AI-driven cyber threats</title>
-        <link>https://www.helpnetsecurity.com/2026/03/10/armadin-189-9-million-funding/</link>
-        <description><![CDATA[&lt;p&gt;Armadin has raised $189.9 million in Seed and Series A funding. Led by Accel, with participation from Google Ventures, Kleiner Perkins, Menlo Ventures, In-Q-Tel, and follow-on investment from 8VC and Ballistic Ventures, this marks the largest combined Seed and Series A funding round in cybersecurity history. Armadin’s mission is to prepare organizations for the speed and scale of AI-driven threats. Closing the hyperattack gap AI-powered attackers are launching faster, more complex campaigns that overwhelm security &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/10/armadin-189-9-million-funding/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/10/armadin-189-9-million-funding/"&gt;Armadin secures  $189.9 million to counter AI-driven cyber threats&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 11 Mar 2026 05:52:08 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 06:17:12 GMT</pubDate>
     </item>
     
 </channel></rss>
