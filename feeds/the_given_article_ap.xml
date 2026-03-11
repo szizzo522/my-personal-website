@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - the_given_article_ap</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[The given article appears to be related to "general" cybersecurity topics, as it discusses CISA's directive for federal agencies to strengthen the security of their edge devices amidst rising cyber threats.
+
+Here's the JSON response:
+
+{
+  "category": "general"
+}] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 01:38:18 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[The given article appears to be related to general cybersecurity topics, specifically focusing on the adoption of post-quantum cryptography. It does not seem to fall into the categories of ransomware, vulnerability, malware, or threat intelligence. Therefore, the appropriate category for this article is "general".
+
+{
+    "category": "general"
+}] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 01:38:18 GMT</pubDate>
+    </item>
+    
+</channel></rss>

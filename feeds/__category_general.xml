@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - __category_general</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[{
+  "category": "general"
+}] White House Cyber Strategy Prioritizes Offense</title>
+        <link>https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense</link>
+        <description><![CDATA[In a seven-page strategy document, the Trump administration signaled a shift to preemption and deterrence to handling cyber threats.]]></description>
+        <pubDate>Wed, 11 Mar 2026 01:38:18 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] Are We Ready for Auto Remediation With Agentic AI?</title>
+        <link>https://www.darkreading.com/application-security/auto-remediation-agentic-ai</link>
+        <description><![CDATA[With the rapid innovations in AI, we are entering an exciting era of automated risk remediation. Learn about security team readiness to leverage agentic AI for threat and exposure management.]]></description>
+        <pubDate>Wed, 11 Mar 2026 01:38:18 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 01:38:18 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] On Moltbook</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/on-moltbook.html</link>
+        <description><![CDATA[&lt;p&gt;The &lt;i&gt;MIT Technology Review&lt;/i&gt; has a &lt;a href="https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/"&gt;good article&lt;/a&gt; on Moltbook, the supposed AI-only social network:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Many people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,&amp;#8221; says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. &amp;#8220;Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.&amp;#8221;...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
+        <pubDate>Wed, 11 Mar 2026 01:38:18 GMT</pubDate>
+    </item>
+    
+</channel></rss>
