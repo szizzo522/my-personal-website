@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+    <title>New ‘BlackSanta’ EDR killer spotted targeting HR departments</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/</link>
+    <description>For more than a year, a Russian-speaking threat actor targeted human resource (HR) departments with malware that delivers a new EDR killer named BlackSanta. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340977</pubDate>
+    </item>
+    
+    <item>
+    <title>New BeatBanker Android malware poses as Starlink app to hijack devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/</link>
+    <description>A new Android malware named BeatBanker can hijack devices and tricks users into installing it by posing as a Starlink app on websites masquerading as the official Google Play Store. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340988</pubDate>
+    </item>
+    
+    <item>
+    <title>New 'Zombie ZIP' technique lets malware slip past security tools</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/</link>
+    <description>A new technique dubbed "Zombie ZIP" helps conceal payloads in compressed files specially created to avoid detection from security solutions such as antivirus and endpoint detection and response (EDR) products. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340990</pubDate>
+    </item>
+    
+    <item>
+    <title>Microsoft releases Windows 10 KB5078885 extended security update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/</link>
+    <description>Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340993</pubDate>
+    </item>
+    
+    <item>
+    <title>Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/</link>
+    <description>Today is Microsoft's March 2026 Patch Tuesday with security updates for 79 flaws, including 2 publicly disclosed zero-day vulnerabilities. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340995</pubDate>
+    </item>
+    
+    <item>
+    <title>Windows 11 KB5079473 & KB5078883 cumulative updates released</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/</link>
+    <description>Microsoft has released Windows 11 KB5079473 and KB5078883 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340996</pubDate>
+    </item>
+    
+    <item>
+    <title>HPE warns of critical AOS-CX flaw allowing admin password resets</title>
+    <link>https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/</link>
+    <description>Hewlett Packard Enterprise (HPE) has patched multiple security vulnerabilities in the Aruba Networking AOS-CX operating system, including several authentication and code execution issues. [...]</description>
+    <pubDate>2026-03-11 00:59:54.340998</pubDate>
+    </item>
+    
+    <item>
+    <title>Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/</link>
+    <description>Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]</description>
+    <pubDate>2026-03-11 00:59:54.341001</pubDate>
+    </item>
+    
+    <item>
+    <title>New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/</link>
+    <description>A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]</description>
+    <pubDate>2026-03-11 00:59:54.341004</pubDate>
+    </item>
+    
+    <item>
+    <title>The New Turing Test: How Threats Use Geometry to Prove 'Humanness'</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/</link>
+    <description>Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]</description>
+    <pubDate>2026-03-11 00:59:54.341006</pubDate>
+    </item>
+    
+    <item>
+    <title>Microsoft Patch Tuesday, March 2026 Edition</title>
+    <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
+    <description>Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing "zero-day" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.</description>
+    <pubDate>2026-03-11 00:59:54.341008</pubDate>
+    </item>
+    
+    <item>
+    <title>How AI Assistants are Moving the Security Goalposts</title>
+    <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
+    <description>AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.</description>
+    <pubDate>2026-03-11 00:59:54.341009</pubDate>
+    </item>
+    
+    <item>
+    <title>Who is the Kimwolf Botmaster “Dort”?</title>
+    <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+    <description>In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.</description>
+    <pubDate>2026-03-11 00:59:54.341011</pubDate>
+    </item>
+    
+    <item>
+    <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
+    <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+    <description>Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.</description>
+    <pubDate>2026-03-11 00:59:54.341014</pubDate>
+    </item>
+    
+    <item>
+    <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
+    <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
+    <description>For the past week, the massive "Internet of Things" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.</description>
+    <pubDate>2026-03-11 00:59:54.341016</pubDate>
+    </item>
+    
+    <item>
+    <title>Patch Tuesday, February 2026 Edition</title>
+    <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+    <description>Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six "zero-day" vulnerabilities that attackers are already exploiting in the wild.</description>
+    <pubDate>2026-03-11 00:59:54.341018</pubDate>
+    </item>
+    
+    <item>
+    <title>Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
+    <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
+    <description>A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… <span class="read-more"><a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/">Read More &#187;</a></span></description>
+    <pubDate>2026-03-11 00:59:54.341020</pubDate>
+    </item>
+    
+    <item>
+    <title>Who Operates the Badbox 2.0 Botnet?</title>
+    <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
+    <description>The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.</description>
+    <pubDate>2026-03-11 00:59:54.341023</pubDate>
+    </item>
+    
+    <item>
+    <title>Kimwolf Botnet Lurking in Corporate, Govt. Networks</title>
+    <link>https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/</link>
+    <description>A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.</description>
+    <pubDate>2026-03-11 00:59:54.341025</pubDate>
+    </item>
+    
+    <item>
+    <title>Patch Tuesday, January 2026 Edition</title>
+    <link>https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/</link>
+    <description>Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire "critical" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.</description>
+    <pubDate>2026-03-11 00:59:54.341027</pubDate>
+    </item>
+    
+    <item>
+    <title>How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows</title>
+    <link>https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html</link>
+    <description>Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.
+But there is a problem. While these agents make work faster, they also open a new "back door" for hackers.
+The Problem: "The Invisible Employee"
+Think of an AI Agent like a new employee who has</description>
+    <pubDate>2026-03-11 00:59:54.341029</pubDate>
+    </item>
+    
+    <item>
+    <title>FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials</title>
+    <link>https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</link>
+    <description>Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&nbsp;
+The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology</description>
+    <pubDate>2026-03-11 00:59:54.341031</pubDate>
+    </item>
+    
+    <item>
+    <title>KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet</title>
+    <link>https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html</link>
+    <description>Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.
+The malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of</description>
+    <pubDate>2026-03-11 00:59:54.341033</pubDate>
+    </item>
+    
+    <item>
+    <title>New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries</title>
+    <link>https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html</link>
+    <description>Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.
+The shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in</description>
+    <pubDate>2026-03-11 00:59:54.341035</pubDate>
+    </item>
+    
+    <item>
+    <title>The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction</title>
+    <link>https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html</link>
+    <description>You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.
+Time-to-exploit is shrinking
+The larger and less controlled your attack surface is,</description>
+    <pubDate>2026-03-11 00:59:54.341037</pubDate>
+    </item>
+    
+    <item>
+    <title>APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military</title>
+    <link>https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html</link>
+    <description>The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel.
+The two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News.
+APT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,</description>
+    <pubDate>2026-03-11 00:59:54.341040</pubDate>
+    </item>
+    
+    <item>
+    <title>Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool</title>
+    <link>https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html</link>
+    <description>Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.
+The activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive</description>
+    <pubDate>2026-03-11 00:59:54.341042</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited</title>
+    <link>https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The vulnerability list is as follows -
+
+CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that</description>
+    <pubDate>2026-03-11 00:59:54.341045</pubDate>
+    </item>
+    
+    <item>
+    <title>Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials</title>
+    <link>https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html</link>
+    <description>Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts.
+The package, named "@openclaw-ai/openclawai," was uploaded to the registry by a user named "openclaw-ai" on March 3, 2026. It has been downloaded 178 times to date. The library is still available for</description>
+    <pubDate>2026-03-11 00:59:54.341047</pubDate>
+    </item>
+    
+    <item>
+    <title>UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device</title>
+    <link>https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html</link>
+    <description>The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency.
+The activity has been attributed with moderate confidence to the state-sponsored adversary, which is also tracked under the cryptonyms Jade Sleet, PUKCHONG, Slow Pisces, and</description>
+    <pubDate>2026-03-11 00:59:54.341049</pubDate>
+    </item>
+    
+    <item>
+    <title>'Overly Permissive' Salesforce Cloud Configs in the Crosshairs</title>
+    <link>https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs</link>
+    <description>Some customers have mishandled guest user configurations otherwise intended to allow third-party access to important — and sensitive — client data.</description>
+    <pubDate>2026-03-11 00:59:54.341058</pubDate>
+    </item>
+    
+    <item>
+    <title>Russian Threat Actor Sednit Resurfaces With Sophisticated Toolkit</title>
+    <link>https://www.darkreading.com/cyber-risk/sednit-resurfaces-with-sophisticated-new-toolkit</link>
+    <description>After several years of using simple implants, the Russia-affiliated actor is back with two new sophisticated malware tools.</description>
+    <pubDate>2026-03-11 00:59:54.341086</pubDate>
+    </item>
+    
+    <item>
+    <title>'BlackSanta' EDR Killer Targets HR Workflows</title>
+    <link>https://www.darkreading.com/threat-intelligence/blacksanta-edr-killer-hr-workflows</link>
+    <description>A campaign by Russian-speaking cyberattackers hijacks workflows to deliver security-busting malware, allowing attackers to steal data without detection.</description>
+    <pubDate>2026-03-11 00:59:54.341096</pubDate>
+    </item>
+    
+    <item>
+    <title>White House Cyber Strategy Prioritizes Offense</title>
+    <link>https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense</link>
+    <description>In a seven-page strategy document, the Trump administration signaled a shift to preemption and deterrence to handling cyber threats.</description>
+    <pubDate>2026-03-11 00:59:54.341099</pubDate>
+    </item>
+    
+    <item>
+    <title>'InstallFix' Attacks Spread Fake Claude Code Sites</title>
+    <link>https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code</link>
+    <description>A fresh cyberattack campaign blends malvertising with a ClickFix-style technique that highlights risky behavior with AI coding assistants and command-line interfaces.</description>
+    <pubDate>2026-03-11 00:59:54.341105</pubDate>
+    </item>
+    
+    <item>
+    <title>Are We Ready for Auto Remediation With Agentic AI?</title>
+    <link>https://www.darkreading.com/application-security/auto-remediation-agentic-ai</link>
+    <description>With the rapid innovations in AI, we are entering an exciting era of automated risk remediation. Learn about security team readiness to leverage agentic AI for threat and exposure management.</description>
+    <pubDate>2026-03-11 00:59:54.341108</pubDate>
+    </item>
+    
+    <item>
+    <title>Chinese Cyber Threat Lurks In Critical Asian Sectors for Years</title>
+    <link>https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors</link>
+    <description>An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.</description>
+    <pubDate>2026-03-11 00:59:54.341111</pubDate>
+    </item>
+    
+    <item>
+    <title>Cylake Offers AI-Native Security Without Relying on Cloud Services</title>
+    <link>https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services</link>
+    <description>Cylake's platform will analyze security data locally and identify potential attacks for organizations concerned about data sovereignty.</description>
+    <pubDate>2026-03-11 00:59:54.341117</pubDate>
+    </item>
+    
+    <item>
+    <title>North Korean APTs Use AI to Enhance IT Worker Scams</title>
+    <link>https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams</link>
+    <description>DPRK worker scams are old hat, but they're still working, thanks to AI tools that help with everything from face swapping to daily emails.</description>
+    <pubDate>2026-03-11 00:59:54.341120</pubDate>
+    </item>
+    
+    <item>
+    <title>EU Auto Rules Shift Gears on Cybersecurity Standards</title>
+    <link>https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards</link>
+    <description>The European Union is taking new precautions as climate change and cybersecurity threats rise across the automotive industry.</description>
+    <pubDate>2026-03-11 00:59:54.341123</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Issues Updated RESURGE Malware Analysis Highlighting a Stealthy but Active Threat</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-issues-updated-resurge-malware-analysis-highlighting-stealthy-active-threat</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341129</pubDate>
+    </item>
+    
+    <item>
+    <title>Immediate Action Required: CISA Issues Emergency Directive to Secure Cisco SD-WAN Systems</title>
+    <link>https://www.cisa.gov/news-events/news/immediate-action-required-cisa-issues-emergency-directive-secure-cisco-sd-wan-systems</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341132</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341135</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
+    <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341141</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341145</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341147</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341152</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341155</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341158</pubDate>
+    </item>
+    
+    <item>
+    <title>CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
+    <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
+    <description></description>
+    <pubDate>2026-03-11 00:59:54.341165</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2017-20187</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187</link>
+    <description>** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as problematic. Affected is the function formatEmailString of the file src/Magnesium/Message/Base.php. The manipulation of the argument email/name leads to injection. Upgrading to version 0.3.1 is able to address this issue. The patch is identified as 500d340e1f6421007413cc08a8383475221c2604. It is recommended to upgrade the affected component. VDB-244482 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.</description>
+    <pubDate>2026-03-11 00:59:54.341168</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2017-7252</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-7252</link>
+    <description>bcrypt password hashing in Botan before 2.1.0 does not correctly handle passwords with a length between 57 and 72 characters, which makes it easier for attackers to determine the cleartext password.</description>
+    <pubDate>2026-03-11 00:59:54.341171</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2018-25092</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25092</link>
+    <description>A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Command Mention Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The patch is named cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-244483.</description>
+    <pubDate>2026-03-11 00:59:54.341178</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2018-25093</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25093</link>
+    <description>A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been rated as critical. Affected by this issue is some unknown functionality of the component Tag Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The name of the patch is cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-244484.</description>
+    <pubDate>2026-03-11 00:59:54.341181</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2020-28407</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407</link>
+    <description>In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file such as TMP2-00.permall.</description>
+    <pubDate>2026-03-11 00:59:54.341184</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2021-4430</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4430</link>
+    <description>A vulnerability classified as problematic has been found in Ortus Solutions ColdBox Elixir 3.1.6. This affects an unknown part of the file src/defaultConfig.js of the component ENV Variable Handler. The manipulation leads to information disclosure. Upgrading to version 3.1.7 is able to address this issue. The identifier of the patch is a3aa62daea2e44c76d08d1eac63768cd928cd69e. It is recommended to upgrade the affected component. The identifier VDB-244485 was assigned to this vulnerability.</description>
+    <pubDate>2026-03-11 00:59:54.341195</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-3172</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3172</link>
+    <description>A security issue was discovered in kube-apiserver that allows an 
+aggregated API server to redirect client traffic to any URL.  This could
+ lead to the client performing unexpected actions as well as forwarding 
+the client's API server credentials to third parties.</description>
+    <pubDate>2026-03-11 00:59:54.341203</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-43554</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43554</link>
+    <description>Ivanti Avalanche Smart Device Service Missing Authentication Local Privilege Escalation Vulnerability</description>
+    <pubDate>2026-03-11 00:59:54.341207</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-43555</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43555</link>
+    <description>Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability</description>
+    <pubDate>2026-03-11 00:59:54.341215</pubDate>
+    </item>
+    
+    <item>
+    <title>CVE-2022-44569</title>
+    <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44569</link>
+    <description>A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.</description>
+    <pubDate>2026-03-11 00:59:54.341219</pubDate>
+    </item>
+    
+    <item>
+    <title>Microsoft Patch Tuesday security updates for March 2026 fixed 84 bugs</title>
+    <link>https://securityaffairs.com/189266/security/microsoft-patch-tuesday-security-updates-for-march-2026-fixed-84-bugs.html</link>
+    <description>Microsoft Patch Tuesday security updates for March 2026 addressed 84 vulnerabilities in its products. None of the flaws are known to be exploited so far. Microsoft Patch Tuesday security updates for March 2026 addressed 84 vulnerabilities across its products. The IT giant addressed flaws across Windows, Office, Edge, Azure, SQL Server, Hyper-V, and ReFS. Including [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341222</pubDate>
+    </item>
+    
+    <item>
+    <title>Attackers exploit FortiGate devices to access sensitive network information</title>
+    <link>https://securityaffairs.com/189241/security/attackers-exploit-fortigate-devices-to-access-sensitive-network-information.html</link>
+    <description>Attackers are exploiting FortiGate devices to breach networks and steal configuration data containing service account credentials and network details. SentinelOne researchers warn that attackers are exploiting vulnerabilities or weak credentials in FortiGate devices to gain initial access to corporate networks. Once inside, they extract configuration files that may contain service account credentials and information about [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341231</pubDate>
+    </item>
+    
+    <item>
+    <title>APT28 conducts long-term espionage on Ukrainian forces using custom malware</title>
+    <link>https://securityaffairs.com/189230/apt/apt28-conducts-long-term-espionage-on-ukrainian-forces-using-custom-malware.html</link>
+    <description>APT28 used BEARDSHELL and COVENANT malware to spy on Ukrainian military personnel, enabling long-term surveillance since April 2024. The Russia-linked group APT28 (aka UAC-0001, aka Fancy Bear, Pawn Storm, Sofacy Group, Sednit, BlueDelta, and STRONTIUM) has used BEARDSHELL and COVENANT malware to conduct long-term surveillance of Ukrainian military personnel. According to ESET, the campaign began in April 2024 and relies on [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341239</pubDate>
+    </item>
+    
+    <item>
+    <title>Threat actors use custom AuraInspector to harvest data from Salesforce systems</title>
+    <link>https://securityaffairs.com/189214/security/threat-actors-use-custom-aurainspector-to-harvest-data-from-salesforce-systems.html</link>
+    <description>Attackers are mass-scanning Salesforce Experience Cloud sites using a modified AuraInspector tool to exploit misconfigurations and access sensitive data. Salesforce CSOC warns that threat actors are mass-scanning publicly accessible Experience Cloud sites using a modified version of the AuraInspector tool. AuraInspector is an open‑source command‑line tool released by Google/Mandiant to audit Salesforce Aura and Experience [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341244</pubDate>
+    </item>
+    
+    <item>
+    <title>U.S. CISA adds Ivanti EPM, SolarWinds, and Omnissa Workspace One flaws to its Known Exploited Vulnerabilities catalog</title>
+    <link>https://securityaffairs.com/189172/security/u-s-cisa-adds-ivanti-epm-solarwinds-and-omnissa-workspace-one-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
+    <description>U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds EPM, SolarWinds, and Omnissa Workspace One flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple, Rockwell, and Hikvision flaws to its Known Exploited Vulnerabilities (KEV) catalog. Below are the flaws added to the catalog: The first vulnerability added to the catalog is [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341256</pubDate>
+    </item>
+    
+    <item>
+    <title>Ericsson US confirms breach after third-party provider attack</title>
+    <link>https://securityaffairs.com/189197/data-breach/ericsson-us-confirms-breach-after-third-party-provider-attack.html</link>
+    <description>Ericsson US reports a data breach after attackers hacked a service provider, exposing employee and customer information. Ericsson Inc., the U.S. branch of the Swedish telecom giant, disclosed a data breach after a service provider was hacked. The attack compromised the personal information of an unspecified number of employees and customers. &#8220;On April 28, 2025, [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341267</pubDate>
+    </item>
+    
+    <item>
+    <title>Law enforcement disrupted Tycoon 2FA phishing-as-a-service platform</title>
+    <link>https://securityaffairs.com/189205/cyber-crime/law-enforcement-disrupted-tycoon-2fa-phishing-as-a-service-platform.html</link>
+    <description>Authorities disrupted the Tycoon 2FA phishing-as-a-service platform used to send millions of phishing emails to over 500,000 orgs worldwide. The joint effort, led by Microsoft, Europol, and industry partners, aimed to target the infrastructure of Tycoon 2FA phishing-as-a-service platform responsible for tens of millions of fraudulent emails reaching over 500,000 organizations each month worldwide. By [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341271</pubDate>
+    </item>
+    
+    <item>
+    <title>FBI alert: scammers target zoning permit applicants</title>
+    <link>https://securityaffairs.com/189165/cyber-crime/fbi-alert-scammers-target-zoning-permit-applicants.html</link>
+    <description>The FBI warns of phishing attacks where crooks impersonate U.S. city and county officials to target people requesting planning and zoning permits. The FBI warns that scammers are impersonating U.S. city and county officials in phishing campaigns targeting businesses and individuals applying for planning or zoning permits. Using publicly available information, attackers craft messages that [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341289</pubDate>
+    </item>
+    
+    <item>
+    <title>Russia-linked hackers target Signal, WhatsApp of officials globally</title>
+    <link>https://securityaffairs.com/189156/intelligence/russia-linked-hackers-target-signal-whatsapp-of-officials-globally.html</link>
+    <description>Russia-linked hackers are targeting Signal and WhatsApp accounts of government and military officials worldwide, warns Dutch intelligence. Dutch intelligence agencies (MIVD and AIVD) warn of a global campaign by Russia-linked threat actors aiming to compromise Signal and WhatsApp accounts. The operation targets government officials, civil servants, and military personnel, highlighting growing cyber risks to sensitive [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341300</pubDate>
+    </item>
+    
+    <item>
+    <title>Cognizant’s TriZetto Provider Solutions data breach impacted over 3.4 million patients</title>
+    <link>https://securityaffairs.com/189149/data-breach/cognizants-trizetto-provider-solutions-data-breach-impacted-over-3-4-million-patients.html</link>
+    <description>A breach at Cognizant’s TriZetto Provider Solutions exposed sensitive health data belonging to more than 3.4 million patients. A data breach at Cognizant’s TriZetto Provider Solutions exposed sensitive information belonging to more than 3.4 million patients. At this time, no ransomware group has claimed responsibility for the attack yet. TriZetto Provider Solutions is a healthcare [&#8230;]</description>
+    <pubDate>2026-03-11 00:59:54.341304</pubDate>
+    </item>
+    
+    <item>
+    <title>Student Loan Breach Exposes 2.5M Records</title>
+    <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
+    <description>2.5 million people were affected, in a breach that could spell more trouble down the line.</description>
+    <pubDate>2026-03-11 00:59:54.341323</pubDate>
+    </item>
+    
+    <item>
+    <title>Watering Hole Attacks Push ScanBox Keylogger</title>
+    <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+    <description>Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.</description>
+    <pubDate>2026-03-11 00:59:54.341337</pubDate>
+    </item>
+    
+    <item>
+    <title>Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+    <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+    <description>Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.</description>
+    <pubDate>2026-03-11 00:59:54.341341</pubDate>
+    </item>
+    
+    <item>
+    <title>Ransomware Attacks are on the Rise</title>
+    <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
+    <description>Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.</description>
+    <pubDate>2026-03-11 00:59:54.341364</pubDate>
+    </item>
+    
+    <item>
+    <title>Cybercriminals Are Selling Access to Chinese Surveillance Cameras</title>
+    <link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
+    <description>Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.</description>
+    <pubDate>2026-03-11 00:59:54.341393</pubDate>
+    </item>
+    
+    <item>
+    <title>Twitter Whistleblower Complaint: The TL;DR Version</title>
+    <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
+    <description>Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.</description>
+    <pubDate>2026-03-11 00:59:54.341399</pubDate>
+    </item>
+    
+    <item>
+    <title>Firewall Bug Under Active Attack Triggers CISA Warning</title>
+    <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
+    <description>CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.</description>
+    <pubDate>2026-03-11 00:59:54.341424</pubDate>
+    </item>
+    
+    <item>
+    <title>Fake Reservation Links Prey on Weary Travelers</title>
+    <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+    <description>Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.</description>
+    <pubDate>2026-03-11 00:59:54.341437</pubDate>
+    </item>
+    
+    <item>
+    <title>iPhone Users Urged to Update to Patch 2 Zero-Days</title>
+    <link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
+    <description>Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.</description>
+    <pubDate>2026-03-11 00:59:54.341442</pubDate>
+    </item>
+    
+    <item>
+    <title>Google Patches Chrome’s Fifth Zero-Day of the Year</title>
+    <link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
+    <description>An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.</description>
+    <pubDate>2026-03-11 00:59:54.341473</pubDate>
+    </item>
+    
+    <item>
+    <title>Fortinet enhances SecOps with cloud SOC, AI automation, and managed services</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/fortinet-secops-platform-innovations/</link>
+    <description><p>Fortinet has announced major innovations across the Fortinet Security Operations (SecOps) Platform. The updates feature next-generation SecOps advancements, including expanded agentic AI capabilities, a preview of FortiSOC, managed services, and endpoint security enhancements delivered through FortiEndpoint. “As attackers weaponize AI to accelerate reconnaissance, exploit development, and social engineering, security operations must function with the same speed and coordination. Fortinet is advancing a unified, AI-powered security operations platform that provides a scalable operating architecture across our &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/fortinet-secops-platform-innovations/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/fortinet-secops-platform-innovations/">Fortinet enhances SecOps with cloud SOC, AI automation, and managed services</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341487</pubDate>
+    </item>
+    
+    <item>
+    <title>Mend.io eliminates AI prompt weaknesses before production</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/mend-ai-system-prompt-hardening/</link>
+    <description><p>Mend.io has launched System Prompt Hardening within Mend AI to detect, score, and automatically remediate weaknesses in AI system prompts. Hidden instructions in system prompts have emerged as a growing security concern that traditional AppSec tools do not fully address. System Prompt Hardening provides instant visibility into these behind-the-scenes instructions, identifies weaknesses, and automatically strengthens prompt logic to reduce risk before applications reach production. Powered by Mend.io’s proprietary AI Weakness Enumeration (AIWE), a framework modeled &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/mend-ai-system-prompt-hardening/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/mend-ai-system-prompt-hardening/">Mend.io eliminates AI prompt weaknesses before production</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341492</pubDate>
+    </item>
+    
+    <item>
+    <title>Messenger can warn you about sketchy links without knowing what you clicked</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/messenger-advanced-browsing-protection/</link>
+    <description><p>Meta’s Advanced browsing protection (ABP) helps Messenger identify and warn users about potentially harmful websites they open from a chat. Malicious sites can try to steal passwords, collect personal information, or install malware. Advanced browsing protection (Source: Meta) “In its standard setting, Safe Browsing uses on-device models to analyze malicious links shared in chats. But we’ve extended this further with an advanced setting called Advanced Browsing Protection (ABP) that leverages a continually updated watchlist of &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/messenger-advanced-browsing-protection/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/messenger-advanced-browsing-protection/">Messenger can warn you about sketchy links without knowing what you clicked</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341523</pubDate>
+    </item>
+    
+    <item>
+    <title>HR, recruiters targeted in year-long malware campaign</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/hr-recruiters-malware-resume/</link>
+    <description><p>An attack campaign targeting HR departments and job recruiters has been stealthily compromising systems, Aryaka researchers have discovered. By avoiding analysis environments and leveraging a specialized module designed to kill antivirus and endpoint detection software, the Russian-speaking attacker(s) behind this campaign have managed to keep their activity largely under the radar. &#8220;We currently lack telemetry to determine how widespread the campaign is,&#8221; Aditya K. Sood, Aryaka&#8217;s VP of Security Engineering &#038; AI Strategy, told Help &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/hr-recruiters-malware-resume/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/hr-recruiters-malware-resume/">HR, recruiters targeted in year-long malware campaign</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341537</pubDate>
+    </item>
+    
+    <item>
+    <title>Microsoft flips Windows Autopatch to default hotpatch security updates</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/microsoft-windows-autopatch-default-security-updates/</link>
+    <description><p>Microsoft is changing the default behavior in Windows Autopatch so that hotpatch security updates are enabled automatically for eligible devices managed through Microsoft Intune or the Microsoft Graph API starting with the May 2026 Windows security update. Windows Autopatch is a Microsoft-managed service that automates updates for Windows and Office. It also lets IT administrators pause updates and roll them back if devices fail to meet performance targets after installation. Introduced about a year ago, &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/microsoft-windows-autopatch-default-security-updates/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/microsoft-windows-autopatch-default-security-updates/">Microsoft flips Windows Autopatch to default hotpatch security updates</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341543</pubDate>
+    </item>
+    
+    <item>
+    <title>Attackers use AiTM phishing kit, typosquatted domains to hijack AWS accounts</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/aitm-phishing-aws-accounts/</link>
+    <description><p>Phishers are targeting AWS accounts holders with fake email security alerts and redirecting them to a high-fidelity clone of the AWS Management Console sign-in page, Datadog researchers have warned. The cloned AWS phishing page (Source: Datadog Security Labs) The campaign has been running since the end of February and possibly earlier. &#8220;In one observed case, the operator authenticated to a compromised AWS account within 20 minutes of credential submission,&#8221; the researchers noted. Fake AWS security &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/aitm-phishing-aws-accounts/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/aitm-phishing-aws-accounts/">Attackers use AiTM phishing kit, typosquatted domains to hijack AWS accounts</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341585</pubDate>
+    </item>
+    
+    <item>
+    <title>Terra Portal adds human-governed AI to live production pentesting</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/terra-security-terra-portal-pentesting-app/</link>
+    <description><p>Terra Security has announced the launch of Terra Portal, its agentic desktop app that serves as an execution layer for pentesters to direct and oversee AI-driven testing in live production environments. Terra Portal reduces the discovery-to-fix cycle for vulnerabilities from the industry average of nearly three months to a matter of hours without sacrificing safety or compliance. As a result, customers can now remediate critical findings well within the Cybersecurity and Infrastructure Security Agency’s (CISA) &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/terra-security-terra-portal-pentesting-app/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/terra-security-terra-portal-pentesting-app/">Terra Portal adds human-governed AI to live production pentesting</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341602</pubDate>
+    </item>
+    
+    <item>
+    <title>Armadin secures  $189.9 million to counter AI-driven cyber threats</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/armadin-189-9-million-funding/</link>
+    <description><p>Armadin has raised $189.9 million in Seed and Series A funding. Led by Accel, with participation from Google Ventures, Kleiner Perkins, Menlo Ventures, In-Q-Tel, and follow-on investment from 8VC and Ballistic Ventures, this marks the largest combined Seed and Series A funding round in cybersecurity history. Armadin’s mission is to prepare organizations for the speed and scale of AI-driven threats. Closing the hyperattack gap AI-powered attackers are launching faster, more complex campaigns that overwhelm security &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/armadin-189-9-million-funding/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/armadin-189-9-million-funding/">Armadin secures  $189.9 million to counter AI-driven cyber threats</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341608</pubDate>
+    </item>
+    
+    <item>
+    <title>Teen crew caught selling DDoS attack tools</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/poland-minors-identified-distributing-ddos-attack-tools/</link>
+    <description><p>Seven minors who distributed online programs designed to facilitate DDoS attacks have been identified by Poland’s Central Bureau for Combating Cybercrime (CBZC). They were between 12 and 16 at the time of the crime. CBZC officer during a cybercrime investigation (Source: Poland’s Central Bureau for Combating Cybercrime) According to investigators, using the tools they administered, the minors attacked popular websites, including auction and sales portals, IT domains, hosting services and accommodation booking sites. The activity &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/poland-minors-identified-distributing-ddos-attack-tools/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/poland-minors-identified-distributing-ddos-attack-tools/">Teen crew caught selling DDoS attack tools</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341651</pubDate>
+    </item>
+    
+    <item>
+    <title>This spy tool has been quietly stealing data for years</title>
+    <link>https://www.helpnetsecurity.com/2026/03/10/sednit-espionage-toolkit-stealing-data/</link>
+    <description><p>ESET researchers have traced the resurgence of Sednit through a modern toolkit built around two complementary implants, BeardShell and Covenant, each relying on a separate cloud provider to ensure operational resilience. This dual-implant architecture has enabled sustained surveillance of Ukrainian military personnel since at least April 2024. The Sednit group itself was tied to Unit 26165 of the GRU by the US Department of Justice in 2016, identifying it as part of Russia&#8217;s Main Intelligence &#8230; <a href="https://www.helpnetsecurity.com/2026/03/10/sednit-espionage-toolkit-stealing-data/" rel="nofollow">More <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a href="https://www.helpnetsecurity.com/2026/03/10/sednit-espionage-toolkit-stealing-data/">This spy tool has been quietly stealing data for years</a> appeared first on <a href="https://www.helpnetsecurity.com">Help Net Security</a>.</p></description>
+    <pubDate>2026-03-11 00:59:54.341667</pubDate>
+    </item>
+    
+    <item>
+    <title>Jailbreaking the F-35 Fighter Jet</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html</link>
+    <description><p>Countries around the world are becoming increasingly concerned about their dependencies on the US. If you&#8217;ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.</p>
+<p>The Dutch Defense Secretary recently <a href="https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister">said</a> that he could jailbreak the planes to accept third-party software.</p></description>
+    <pubDate>2026-03-11 00:59:54.341673</pubDate>
+    </item>
+    
+    <item>
+    <title>New Attack Against Wi-Fi</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html</link>
+    <description><p>It&#8217;s called <a href="https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/">AirSnitch</a>:</p>
+<blockquote><p>Unlike previous Wi-Fi attacks, AirSnitch exploits core features in Layers 1 and 2 and the failure to bind and synchronize a client across these and higher layers, other nodes, and other network names such as SSIDs (Service Set Identifiers). This cross-layer identity desynchronization is the key driver of AirSnitch attacks.</p>
+<p>The most powerful such attack is a full, bidirectional <a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack">machine-in-the-middle (MitM) attack</a>, meaning the attacker can view and modify data before it makes its way to the intended recipient. The attacker can be on the same SSID, a separate one, or even a separate network segment tied to the same AP. It works against small Wi-Fi networks in both homes and offices and large networks in enterprises...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341728</pubDate>
+    </item>
+    
+    <item>
+    <title>Friday Squid Blogging: Squid in Byzantine Monk Cooking</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html</link>
+    <description><p>This is a very weird <a href="https://www.turkiyetoday.com/lifestyle/how-stuffed-squid-survived-byzantine-monks-and-ottoman-tables-by-staying-ink-ognito-3215117?s=1">story</a> about how squid stayed on the menu of Byzantine monks by falling between the cracks of dietary rules.</p>
+<blockquote><p>At Constantinople&#8217;s Monastery of Stoudios, the kitchen didn&#8217;t answer to appetite.</p>
+<p>It answered to the &#8220;typikon&#8221;: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?</p>
+<p>Squid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn&#8217;t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341746</pubDate>
+    </item>
+    
+    <item>
+    <title>Anthropic and the Pentagon</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html</link>
+    <description><p><a href="https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html">OpenAI is in</a> and <a href="https://www.theguardian.com/technology/2026/feb/28/openai-us-military-anthropic">Anthropic is out</a> as a supplier of AI technology for the US defense department. This news caps a week of bluster by the highest officials in the US government towards some of the wealthiest titans of the big tech industry, and the overhanging specter of the existential risks posed by a new technology powerful enough that the Pentagon claims it is essential to national security. At issue is Anthropic&#8217;s <a href="https://www.anthropic.com/news/statement-department-of-war">insistence</a> that the US Department of Defense (DoD) could not use its models to facilitate &#8220;mass surveillance&#8221; or &#8220;fully autonomous weapons,&#8221; provisions the defense secretary Pete Hegseth ...</p></description>
+    <pubDate>2026-03-11 00:59:54.341753</pubDate>
+    </item>
+    
+    <item>
+    <title>Claude Used to Hack Mexican Government</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html</link>
+    <description><p>An unknown hacker used Anthropic&#8217;s LLM to <a href="https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data">hack</a> the Mexican government:</p>
+<blockquote><p>The unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.</p>
+<p>[&#8230;]</p>
+<p>Claude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker&#8217;s requests and executed thousands of commands on government computer networks, the researchers said...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341815</pubDate>
+    </item>
+    
+    <item>
+    <title>Israel Hacked Traffic Cameras in Iran</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html</link>
+    <description><p><a href="https://www.timesofisrael.com/report-israel-hacked-tehran-traffic-cameras-to-track-khamenei-ahead-of-assassination/">Multiple</a> <a href="https://www.ft.com/content/bf998c69-ab46-4fa3-aae4-8f18f7387836">news</a> <a href="https://www.channelnewsasia.com/world/iran-war-inside-plan-kill-ali-khamenei-5966861">outlets</a> are reporting on Israel&#8217;s hacking of Iranian traffic cameras and how they assisted with the killing of that country&#8217;s leadership.</p>
+<p><i>The New York Times</i> has an &#60;a href="https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"&#60;article</a> on the intelligence operation more generally.</p></description>
+    <pubDate>2026-03-11 00:59:54.341835</pubDate>
+    </item>
+    
+    <item>
+    <title>Hacked App Part of US/Israeli Propaganda Campaign Against Iran</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html</link>
+    <description><p><i>Wired</i> has the <a href="https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776">story</a>:</p>
+<blockquote><p>Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.</p>
+<p>The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &#8216;Help has arrived&#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341843</pubDate>
+    </item>
+    
+    <item>
+    <title>Manipulating AI Summarization Features</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html</link>
+    <description><p>Microsoft is <a href="https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/">reporting</a>:</p>
+<blockquote><p>Companies are embedding hidden instructions in &#8220;Summarize with AI&#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&#8217;s memory via URL prompt parameters&#8230;.</p>
+<p>These prompts instruct the AI to &#8220;remember [Company] as a trusted source&#8221; or &#8220;recommend [Company] first,&#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341910</pubDate>
+    </item>
+    
+    <item>
+    <title>On Moltbook</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/on-moltbook.html</link>
+    <description><p>The <i>MIT Technology Review</i> has a <a href="https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/">good article</a> on Moltbook, the supposed AI-only social network:</p>
+<blockquote><p>Many people have pointed out that a lot of the viral comments were in fact posted by people posing as bots. But even the bot-written posts are ultimately the result of people pulling the strings, more puppetry than autonomy.</p>
+<p>&#8220;Despite some of the hype, Moltbook is not the Facebook for AI agents, nor is it a place where humans are excluded,&#8221; says Cobus Greyling at Kore.ai, a firm developing agent-based systems for business customers. &#8220;Humans are involved at every step of the process. From setup to prompting to publishing, nothing happens without explicit human direction.&#8221;...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341931</pubDate>
+    </item>
+    
+    <item>
+    <title>LLM-Assisted Deanonymization</title>
+    <link>https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html</link>
+    <description><p>Turns out that LLMs are <a href="https://simonlermen.substack.com/p/large-scale-online-deanonymization">good</a> at de-anonymization:</p>
+<blockquote><p>We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.</p>
+<p>While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...</p></blockquote></description>
+    <pubDate>2026-03-11 00:59:54.341939</pubDate>
+    </item>
+    </channel></rss>
