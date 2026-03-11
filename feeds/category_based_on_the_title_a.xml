@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - based_on_the_title_a</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[Based on the title and the summary provided, this cybersecurity article can be categorized as "general".
+
+{
+  "category": "general"
+}] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
+    </item>
+    
+</channel></rss>

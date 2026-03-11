@@ -11,7 +11,7 @@
 }] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 
@@ -21,7 +21,7 @@
 }] Who Operates the Badbox 2.0 Botnet?</title>
         <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
         <description><![CDATA[The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 
@@ -31,7 +31,17 @@
 }] Chinese Cyber Threat Lurks In Critical Asian Sectors for Years</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors</link>
         <description><![CDATA[An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "threat-intel"
+}] Law enforcement disrupted Tycoon 2FA phishing-as-a-service platform</title>
+        <link>https://securityaffairs.com/189205/cyber-crime/law-enforcement-disrupted-tycoon-2fa-phishing-as-a-service-platform.html</link>
+        <description><![CDATA[Authorities disrupted the Tycoon 2FA phishing-as-a-service platform used to send millions of phishing emails to over 500,000 orgs worldwide. The joint effort, led by Microsoft, Europol, and industry partners, aimed to target the infrastructure of Tycoon 2FA phishing-as-a-service platform responsible for tens of millions of fraudulent emails reaching over 500,000 organizations each month worldwide. By [&amp;#8230;]]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 
@@ -41,7 +51,7 @@
 }] Russia-linked hackers target Signal, WhatsApp of officials globally</title>
         <link>https://securityaffairs.com/189156/intelligence/russia-linked-hackers-target-signal-whatsapp-of-officials-globally.html</link>
         <description><![CDATA[Russia-linked hackers are targeting Signal and WhatsApp accounts of government and military officials worldwide, warns Dutch intelligence. Dutch intelligence agencies (MIVD and AIVD) warn of a global campaign by Russia-linked threat actors aiming to compromise Signal and WhatsApp accounts. The operation targets government officials, civil servants, and military personnel, highlighting growing cyber risks to sensitive [&amp;#8230;]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 
@@ -51,7 +61,7 @@
 }] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 
@@ -62,7 +72,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/10/sednit-espionage-toolkit-stealing-data/</link>
         <description><![CDATA[&lt;p&gt;ESET researchers have traced the resurgence of Sednit through a modern toolkit built around two complementary implants, BeardShell and Covenant, each relying on a separate cloud provider to ensure operational resilience. This dual-implant architecture has enabled sustained surveillance of Ukrainian military personnel since at least April 2024. The Sednit group itself was tied to Unit 26165 of the GRU by the US Department of Justice in 2016, identifying it as part of Russia&amp;#8217;s Main Intelligence &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/10/sednit-espionage-toolkit-stealing-data/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/10/sednit-espionage-toolkit-stealing-data/"&gt;This spy tool has been quietly stealing data for years&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 </channel></rss>

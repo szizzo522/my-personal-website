@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - general</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[{] FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials</title>
+        <link>https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</link>
+        <description><![CDATA[Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&amp;nbsp;
+The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
+    </item>
+    
+</channel></rss>

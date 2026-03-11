@@ -6,18 +6,28 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[The given article appears to fall under the "general" category of cybersecurity.
+        <title>[The given article appears to be related to general cybersecurity topics, specifically around the adoption of post-quantum cryptography. It does not seem to fall under the specific categories of ransomware, vulnerability, malware, or threat intelligence. Therefore, the appropriate category for this article would be "general".
+
+{
+  "category": "general"
+}] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[The given article appears to belong to the "general" category of cybersecurity topics. The article discusses the collaboration between CISA, UK NCSC, and FBI to unveil principles for combating cyber risks in operational technology (OT) environments, which is a broad and general topic in cybersecurity.
 
 Here is the JSON response:
 
 {
     "category": "general"
-}
-
-The article discusses CISA's (Cybersecurity and Infrastructure Security Agency) order for federal agencies to strengthen the security of their edge devices, which are devices connected to the network at the network's edge, such as routers, switches, and wireless access points. This is in response to the rising cyber threats that organizations face. The article does not focus on a specific type of cybersecurity threat, such as ransomware, vulnerability, or malware. Instead, it addresses the general need to improve the security of network edge devices to enhance overall cybersecurity posture.] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+}] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:46:48 GMT</pubDate>
     </item>
     
 </channel></rss>
