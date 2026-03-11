@@ -8,76 +8,23 @@
     <item>
         <title>[{
   "category": "vulnerability"
-}] Microsoft releases Windows 10 KB5078885 extended security update</title>
-        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/</link>
-        <description><![CDATA[Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+}] CVE-2020-28407</title>
+        <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407</link>
+        <description><![CDATA[In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file such as TMP2-00.permall.]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
     <item>
         <title>[{
   "category": "vulnerability"
-}] FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials</title>
-        <link>https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</link>
-        <description><![CDATA[Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&amp;nbsp;
-The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-  "category": "vulnerability"
-}] CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited</title>
-        <link>https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html</link>
-        <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerability list is as follows -
-
-CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-  "category": "vulnerability"
-}] CVE-2017-20187</title>
-        <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187</link>
-        <description><![CDATA[** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as problematic. Affected is the function formatEmailString of the file src/Magnesium/Message/Base.php. The manipulation of the argument email/name leads to injection. Upgrading to version 0.3.1 is able to address this issue. The patch is identified as 500d340e1f6421007413cc08a8383475221c2604. It is recommended to upgrade the affected component. VDB-244482 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-  "category": "vulnerability"
-}] Attackers exploit FortiGate devices to access sensitive network information</title>
-        <link>https://securityaffairs.com/189241/security/attackers-exploit-fortigate-devices-to-access-sensitive-network-information.html</link>
-        <description><![CDATA[Attackers are exploiting FortiGate devices to breach networks and steal configuration data containing service account credentials and network details. SentinelOne researchers warn that attackers are exploiting vulnerabilities or weak credentials in FortiGate devices to gain initial access to corporate networks. Once inside, they extract configuration files that may contain service account credentials and information about [&amp;#8230;]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-  "category": "vulnerability"
-}] Firewall Bug Under Active Attack Triggers CISA Warning</title>
-        <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
-        <description><![CDATA[CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-  "category": "vulnerability"
-}] Manipulating AI Summarization Features</title>
-        <link>https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html</link>
-        <description><![CDATA[&lt;p&gt;Microsoft is &lt;a href="https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/"&gt;reporting&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Companies are embedding hidden instructions in &amp;#8220;Summarize with AI&amp;#8221; buttons that, when clicked, attempt to inject persistence commands into an AI assistant&amp;#8217;s memory via URL prompt parameters&amp;#8230;.&lt;/p&gt;
-&lt;p&gt;These prompts instruct the AI to &amp;#8220;remember [Company] as a trusted source&amp;#8221; or &amp;#8220;recommend [Company] first,&amp;#8221; aiming to bias future responses toward their products or services. We identified over 50 unique prompts from 31 companies across 14 industries, with freely available tooling making this technique trivially easy to deploy. This matters because compromised AI assistants can provide subtly biased recommendations on critical topics including health, finance, and security without users knowing their AI has been manipulated...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+}] Claude Used to Hack Mexican Government</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html</link>
+        <description><![CDATA[&lt;p&gt;An unknown hacker used Anthropic&amp;#8217;s LLM to &lt;a href="https://www.bloomberg.com/news/articles/2026-02-25/hacker-used-anthropic-s-claude-to-steal-sensitive-mexican-data"&gt;hack&lt;/a&gt; the Mexican government:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The unknown Claude user wrote Spanish-language prompts for the chatbot to act as an elite hacker, finding vulnerabilities in government networks, writing computer scripts to exploit them and determining ways to automate data theft, Israeli cybersecurity startup Gambit Security said in research published Wednesday.&lt;/p&gt;
+&lt;p&gt;[&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;Claude initially warned the unknown user of malicious intent during their conversation about the Mexican government, but eventually complied with the attacker&amp;#8217;s requests and executed thousands of commands on government computer networks, the researchers said...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 </channel></rss>

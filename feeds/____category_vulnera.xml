@@ -8,10 +8,20 @@
     <item>
         <title>[{
     "category": "vulnerability"
+}] Microsoft releases Windows 10 KB5078885 extended security update</title>
+        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/</link>
+        <description><![CDATA[Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
 }] Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/</link>
         <description><![CDATA[Today is Microsoft's March 2026 Patch Tuesday with security updates for 79 flaws, including 2 publicly disclosed zero-day vulnerabilities. [...]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -21,7 +31,7 @@
 }] Windows 11 KB5079473 &amp; KB5078883 cumulative updates released</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/</link>
         <description><![CDATA[Microsoft has released Windows 11 KB5079473 and KB5078883 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -31,7 +41,7 @@
 }] HPE warns of critical AOS-CX flaw allowing admin password resets</title>
         <link>https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/</link>
         <description><![CDATA[Hewlett Packard Enterprise (HPE) has patched multiple security vulnerabilities in the Aruba Networking AOS-CX operating system, including several authentication and code execution issues. [...]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -41,7 +51,7 @@
 }] Microsoft Patch Tuesday, March 2026 Edition</title>
         <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
         <description><![CDATA[Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing "zero-day" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -51,7 +61,7 @@
 }] Patch Tuesday, February 2026 Edition</title>
         <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
         <description><![CDATA[Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six "zero-day" vulnerabilities that attackers are already exploiting in the wild.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -61,7 +71,18 @@
 }] Patch Tuesday, January 2026 Edition</title>
         <link>https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/</link>
         <description><![CDATA[Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire "critical" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials</title>
+        <link>https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html</link>
+        <description><![CDATA[Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&amp;nbsp;
+The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -72,7 +93,7 @@
         <link>https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html</link>
         <description><![CDATA[Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.
 The shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -84,7 +105,7 @@ The shortcomings have been collectively named LeakyLooker by Tenable. There is n
         <description><![CDATA[You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.
 Time-to-exploit is shrinking
 The larger and less controlled your attack surface is,]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -95,7 +116,20 @@ The larger and less controlled your attack surface is,]]></description>
         <link>https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html</link>
         <description><![CDATA[Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.
 The activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited</title>
+        <link>https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html</link>
+        <description><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The vulnerability list is as follows -
+
+CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -105,7 +139,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] Microsoft Patches 83 CVEs in March Update</title>
         <link>https://www.darkreading.com/application-security/microsoft-patches-83-cves-march-update</link>
         <description><![CDATA[For a change, there's little in this month's Patch Tuesday that should cause panic, according to security experts.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -115,7 +149,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] 'Overly Permissive' Salesforce Cloud Configs in the Crosshairs</title>
         <link>https://www.darkreading.com/application-security/overly-permissive-salesforce-cloud-configs-crosshairs</link>
         <description><![CDATA[Some customers have mishandled guest user configurations otherwise intended to allow third-party access to important — and sensitive — client data.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -125,7 +159,17 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] Immediate Action Required: CISA Issues Emergency Directive to Secure Cisco SD-WAN Systems</title>
         <link>https://www.cisa.gov/news-events/news/immediate-action-required-cisa-issues-emergency-directive-secure-cisco-sd-wan-systems</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] CVE-2017-20187</title>
+        <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187</link>
+        <description><![CDATA[** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as problematic. Affected is the function formatEmailString of the file src/Magnesium/Message/Base.php. The manipulation of the argument email/name leads to injection. Upgrading to version 0.3.1 is able to address this issue. The patch is identified as 500d340e1f6421007413cc08a8383475221c2604. It is recommended to upgrade the affected component. VDB-244482 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -135,7 +179,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] CVE-2017-7252</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-7252</link>
         <description><![CDATA[bcrypt password hashing in Botan before 2.1.0 does not correctly handle passwords with a length between 57 and 72 characters, which makes it easier for attackers to determine the cleartext password.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -145,7 +189,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] CVE-2018-25092</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25092</link>
         <description><![CDATA[A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Command Mention Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The patch is named cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-244483.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -155,17 +199,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] CVE-2018-25093</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25093</link>
         <description><![CDATA[A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been rated as critical. Affected by this issue is some unknown functionality of the component Tag Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The name of the patch is cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-244484.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-    "category": "vulnerability"
-}] CVE-2020-28407</title>
-        <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407</link>
-        <description><![CDATA[In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file such as TMP2-00.permall.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -175,7 +209,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 }] CVE-2021-4430</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4430</link>
         <description><![CDATA[A vulnerability classified as problematic has been found in Ortus Solutions ColdBox Elixir 3.1.6. This affects an unknown part of the file src/defaultConfig.js of the component ENV Variable Handler. The manipulation leads to information disclosure. Upgrading to version 3.1.7 is able to address this issue. The identifier of the patch is a3aa62daea2e44c76d08d1eac63768cd928cd69e. It is recommended to upgrade the affected component. The identifier VDB-244485 was assigned to this vulnerability.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -188,7 +222,7 @@ The activity, per the company, involves the exploitation of customers' overly pe
 aggregated API server to redirect client traffic to any URL.  This could
  lead to the client performing unexpected actions as well as forwarding 
 the client's API server credentials to third parties.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -198,7 +232,7 @@ the client's API server credentials to third parties.]]></description>
 }] CVE-2022-43554</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43554</link>
         <description><![CDATA[Ivanti Avalanche Smart Device Service Missing Authentication Local Privilege Escalation Vulnerability]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -208,7 +242,7 @@ the client's API server credentials to third parties.]]></description>
 }] CVE-2022-43555</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43555</link>
         <description><![CDATA[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -218,7 +252,27 @@ the client's API server credentials to third parties.]]></description>
 }] CVE-2022-44569</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44569</link>
         <description><![CDATA[A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] Microsoft Patch Tuesday security updates for March 2026 fixed 84 bugs</title>
+        <link>https://securityaffairs.com/189266/security/microsoft-patch-tuesday-security-updates-for-march-2026-fixed-84-bugs.html</link>
+        <description><![CDATA[Microsoft Patch Tuesday security updates for March 2026 addressed 84 vulnerabilities in its products. None of the flaws are known to be exploited so far. Microsoft Patch Tuesday security updates for March 2026 addressed 84 vulnerabilities across its products. The IT giant addressed flaws across Windows, Office, Edge, Azure, SQL Server, Hyper-V, and ReFS. Including [&amp;#8230;]]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] Attackers exploit FortiGate devices to access sensitive network information</title>
+        <link>https://securityaffairs.com/189241/security/attackers-exploit-fortigate-devices-to-access-sensitive-network-information.html</link>
+        <description><![CDATA[Attackers are exploiting FortiGate devices to breach networks and steal configuration data containing service account credentials and network details. SentinelOne researchers warn that attackers are exploiting vulnerabilities or weak credentials in FortiGate devices to gain initial access to corporate networks. Once inside, they extract configuration files that may contain service account credentials and information about [&amp;#8230;]]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -228,7 +282,7 @@ the client's API server credentials to third parties.]]></description>
 }] Threat actors use custom AuraInspector to harvest data from Salesforce systems</title>
         <link>https://securityaffairs.com/189214/security/threat-actors-use-custom-aurainspector-to-harvest-data-from-salesforce-systems.html</link>
         <description><![CDATA[Attackers are mass-scanning Salesforce Experience Cloud sites using a modified AuraInspector tool to exploit misconfigurations and access sensitive data. Salesforce CSOC warns that threat actors are mass-scanning publicly accessible Experience Cloud sites using a modified version of the AuraInspector tool. AuraInspector is an open‑source command‑line tool released by Google/Mandiant to audit Salesforce Aura and Experience [&amp;#8230;]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -238,27 +292,7 @@ the client's API server credentials to third parties.]]></description>
 }] U.S. CISA adds Ivanti EPM, SolarWinds, and Omnissa Workspace One flaws to its Known Exploited Vulnerabilities catalog</title>
         <link>https://securityaffairs.com/189172/security/u-s-cisa-adds-ivanti-epm-solarwinds-and-omnissa-workspace-one-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
         <description><![CDATA[U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds EPM, SolarWinds, and Omnissa Workspace One flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added Apple, Rockwell, and Hikvision flaws to its Known Exploited Vulnerabilities (KEV) catalog. Below are the flaws added to the catalog: The first vulnerability added to the catalog is [&amp;#8230;]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-    "category": "vulnerability"
-}] Cognizant’s TriZetto Provider Solutions data breach impacted over 3.4 million patients</title>
-        <link>https://securityaffairs.com/189149/data-breach/cognizants-trizetto-provider-solutions-data-breach-impacted-over-3-4-million-patients.html</link>
-        <description><![CDATA[A breach at Cognizant’s TriZetto Provider Solutions exposed sensitive health data belonging to more than 3.4 million patients. A data breach at Cognizant’s TriZetto Provider Solutions exposed sensitive information belonging to more than 3.4 million patients. At this time, no ransomware group has claimed responsibility for the attack yet. TriZetto Provider Solutions is a healthcare [&amp;#8230;]]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-    "category": "vulnerability"
-}] Student Loan Breach Exposes 2.5M Records</title>
-        <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
-        <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -268,7 +302,17 @@ the client's API server credentials to third parties.]]></description>
 }] Cybercriminals Are Selling Access to Chinese Surveillance Cameras</title>
         <link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
         <description><![CDATA[Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] Firewall Bug Under Active Attack Triggers CISA Warning</title>
+        <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
+        <description><![CDATA[CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -278,7 +322,7 @@ the client's API server credentials to third parties.]]></description>
 }] iPhone Users Urged to Update to Patch 2 Zero-Days</title>
         <link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
         <description><![CDATA[Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -288,7 +332,7 @@ the client's API server credentials to third parties.]]></description>
 }] Google Patches Chrome’s Fifth Zero-Day of the Year</title>
         <link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
         <description><![CDATA[An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -299,18 +343,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/10/mend-ai-system-prompt-hardening/</link>
         <description><![CDATA[&lt;p&gt;Mend.io has launched System Prompt Hardening within Mend AI to detect, score, and automatically remediate weaknesses in AI system prompts. Hidden instructions in system prompts have emerged as a growing security concern that traditional AppSec tools do not fully address. System Prompt Hardening provides instant visibility into these behind-the-scenes instructions, identifies weaknesses, and automatically strengthens prompt logic to reduce risk before applications reach production. Powered by Mend.io’s proprietary AI Weakness Enumeration (AIWE), a framework modeled &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/10/mend-ai-system-prompt-hardening/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/10/mend-ai-system-prompt-hardening/"&gt;Mend.io eliminates AI prompt weaknesses before production&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[{
-    "category": "vulnerability"
-}] Messenger can warn you about sketchy links without knowing what you clicked</title>
-        <link>https://www.helpnetsecurity.com/2026/03/10/messenger-advanced-browsing-protection/</link>
-        <description><![CDATA[&lt;p&gt;Meta’s Advanced browsing protection (ABP) helps Messenger identify and warn users about potentially harmful websites they open from a chat. Malicious sites can try to steal passwords, collect personal information, or install malware. Advanced browsing protection (Source: Meta) “In its standard setting, Safe Browsing uses on-device models to analyze malicious links shared in chats. But we’ve extended this further with an advanced setting called Advanced Browsing Protection (ABP) that leverages a continually updated watchlist of &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/10/messenger-advanced-browsing-protection/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/10/messenger-advanced-browsing-protection/"&gt;Messenger can warn you about sketchy links without knowing what you clicked&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 
@@ -322,7 +355,19 @@ the client's API server credentials to third parties.]]></description>
         <description><![CDATA[&lt;p&gt;It&amp;#8217;s called &lt;a href="https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"&gt;AirSnitch&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Unlike previous Wi-Fi attacks, AirSnitch exploits core features in Layers 1 and 2 and the failure to bind and synchronize a client across these and higher layers, other nodes, and other network names such as SSIDs (Service Set Identifiers). This cross-layer identity desynchronization is the key driver of AirSnitch attacks.&lt;/p&gt;
 &lt;p&gt;The most powerful such attack is a full, bidirectional &lt;a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack"&gt;machine-in-the-middle (MitM) attack&lt;/a&gt;, meaning the attacker can view and modify data before it makes its way to the intended recipient. The attacker can be on the same SSID, a separate one, or even a separate network segment tied to the same AP. It works against small Wi-Fi networks in both homes and offices and large networks in enterprises...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 11 Mar 2026 02:30:23 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+    "category": "vulnerability"
+}] LLM-Assisted Deanonymization</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html</link>
+        <description><![CDATA[&lt;p&gt;Turns out that LLMs are &lt;a href="https://simonlermen.substack.com/p/large-scale-online-deanonymization"&gt;good&lt;/a&gt; at de-anonymization:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;We show that LLM agents can figure out who you are from your anonymous online posts. Across Hacker News, Reddit, LinkedIn, and anonymized interview transcripts, our method identifies users with high precision ­ and scales to tens of thousands of candidates.&lt;/p&gt;
+&lt;p&gt;While it has been known that individuals can be uniquely identified by surprisingly few attributes, this was often practically limited. Data is often only available in unstructured form and deanonymization used to require human investigators to search and reason based on clues. We show that from a handful of comments, LLMs can infer where you live, what you do, and your interests&amp;#8212;then search for you on the web. In our new research, we show that this is not only possible but increasingly practical...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:38:34 GMT</pubDate>
     </item>
     
 </channel></rss>
