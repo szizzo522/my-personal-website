@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - __category_general</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[{
+  "category": "general"
+}] White House Cyber Strategy Prioritizes Offense</title>
+        <link>https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense</link>
+        <description><![CDATA[In a seven-page strategy document, the Trump administration signaled a shift to preemption and deterrence to handling cyber threats.]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] Are We Ready for Auto Remediation With Agentic AI?</title>
+        <link>https://www.darkreading.com/application-security/auto-remediation-agentic-ai</link>
+        <description><![CDATA[With the rapid innovations in AI, we are entering an exciting era of automated risk remediation. Learn about security team readiness to leverage agentic AI for threat and exposure management.]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] Anthropic and the Pentagon</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/anthropic-and-the-pentagon.html</link>
+        <description><![CDATA[&lt;p&gt;&lt;a href="https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"&gt;OpenAI is in&lt;/a&gt; and &lt;a href="https://www.theguardian.com/technology/2026/feb/28/openai-us-military-anthropic"&gt;Anthropic is out&lt;/a&gt; as a supplier of AI technology for the US defense department. This news caps a week of bluster by the highest officials in the US government towards some of the wealthiest titans of the big tech industry, and the overhanging specter of the existential risks posed by a new technology powerful enough that the Pentagon claims it is essential to national security. At issue is Anthropic&amp;#8217;s &lt;a href="https://www.anthropic.com/news/statement-department-of-war"&gt;insistence&lt;/a&gt; that the US Department of Defense (DoD) could not use its models to facilitate &amp;#8220;mass surveillance&amp;#8221; or &amp;#8220;fully autonomous weapons,&amp;#8221; provisions the defense secretary Pete Hegseth ...&lt;/p&gt;]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[{
+  "category": "general"
+}] Hacked App Part of US/Israeli Propaganda Campaign Against Iran</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html</link>
+        <description><![CDATA[&lt;p&gt;&lt;i&gt;Wired&lt;/i&gt; has the &lt;a href="https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776"&gt;story&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.&lt;/p&gt;
+&lt;p&gt;The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &amp;#8216;Help has arrived&amp;#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - the_given_article_ap</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[The given article appears to fall under the "general" category of cybersecurity.
+
+Here is the JSON response:
+
+{
+    "category": "general"
+}
+
+The article discusses CISA's (Cybersecurity and Infrastructure Security Agency) order for federal agencies to strengthen the security of their edge devices, which are devices connected to the network at the network's edge, such as routers, switches, and wireless access points. This is in response to the rising cyber threats that organizations face. The article does not focus on a specific type of cybersecurity threat, such as ransomware, vulnerability, or malware. Instead, it addresses the general need to improve the security of network edge devices to enhance overall cybersecurity posture.] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 11 Mar 2026 02:42:52 GMT</pubDate>
+    </item>
+    
+</channel></rss>
