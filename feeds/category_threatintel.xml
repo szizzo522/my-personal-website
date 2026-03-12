@@ -9,25 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 12 Mar 2026 14:49:05 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack &amp; More</title>
-        <link>https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html</link>
-        <description><![CDATA[Another Thursday, another pile of weird security stuff that somehow happened in just seven days. Some of it is clever. Some of it is lazy. A few bits fall into that uncomfortable category of “yeah… this is probably going to show up in real incidents sooner than we’d like.”
-The pattern this week feels familiar in a slightly annoying way. Old tricks are getting polished. New research shows how]]></description>
-        <pubDate>Thu, 12 Mar 2026 14:49:05 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown</title>
-        <link>https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html</link>
-        <description><![CDATA[Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.
-The effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon]]></description>
-        <pubDate>Thu, 12 Mar 2026 14:49:05 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 15:20:45 GMT</pubDate>
     </item>
     
 
@@ -35,15 +17,7 @@ The effort also led to 21 arrests made by the Royal Thai Police, the company sai
         <title>[threat-intel] Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict</link>
         <description><![CDATA[Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.]]></description>
-        <pubDate>Thu, 12 Mar 2026 14:49:05 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Thu, 12 Mar 2026 14:49:05 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 15:20:45 GMT</pubDate>
     </item>
     
 
@@ -53,7 +27,7 @@ The effort also led to 21 arrests made by the Royal Thai Police, the company sai
         <description><![CDATA[&lt;p&gt;&lt;i&gt;Wired&lt;/i&gt; has the &lt;a href="https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/?_sp=cac71a7f-c88a-42bc-b4ca-23c1ce88f702.1772641675776"&gt;story&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Shortly after the first set of explosions, Iranians received bursts of notifications on their phones. They came not from the government advising caution, but from an apparently hacked prayer-timing app called BadeSaba Calendar that has been downloaded more than 5 million times from the Google Play Store.&lt;/p&gt;
 &lt;p&gt;The messages arrived in quick succession over a period of 30 minutes, starting with the phrase &amp;#8216;Help has arrived&amp;#8217; at 9:52 am Tehran time, shortly after the first set of explosions. No party has claimed responsibility for the hacks...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 12 Mar 2026 14:49:05 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 15:20:45 GMT</pubDate>
     </item>
     
 </channel></rss>
