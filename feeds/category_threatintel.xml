@@ -6,26 +6,44 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
+        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
+        <pubDate>Thu, 12 Mar 2026 08:47:54 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown</title>
+        <link>https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html</link>
+        <description><![CDATA[Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.
+The effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon]]></description>
+        <pubDate>Thu, 12 Mar 2026 08:47:54 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict</link>
         <description><![CDATA[Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.]]></description>
-        <pubDate>Thu, 12 Mar 2026 08:23:45 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 08:47:54 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Thu, 12 Mar 2026 08:23:45 GMT</pubDate>
+        <title>[threat-intel] Pro-Palestinian hacktivist group Handala targets Stryker in global disruption</title>
+        <link>https://securityaffairs.com/189304/hacktivism/pro-palestinian-hacktivist-group-handala-targets-stryker-in-global-disruption.html</link>
+        <description><![CDATA[Pro-Palestinian hacktivist group Handala claims a cyberattack on Stryker, alleging it wiped 200,000 systems and disrupted global operations. Pro-Palestinian hacktivist group Handala claims responsibility for a disruptive cyberattack against medical technology firm Stryker. &amp;#8220;Medical technology giant Stryker is experiencing a global outage across its systems after a cyberattack early Wednesday. Staff and contractors report that [&amp;#8230;]]]></description>
+        <pubDate>Thu, 12 Mar 2026 08:47:54 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
-        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
-        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Thu, 12 Mar 2026 08:23:45 GMT</pubDate>
+        <title>[threat-intel] Agentic attack chains advance as infostealers flood criminal markets</title>
+        <link>https://www.helpnetsecurity.com/2026/03/12/agentic-attack-chains-infostealers-criminal-markets/</link>
+        <description><![CDATA[&lt;p&gt;Cybercriminals spent much of 2025 automating their operations, shifting from one-off attacks to systems that can run entire intrusion cycles with minimal human input. Data collected from criminal forums, illicit marketplaces, and underground chat services shows a threat environment where stolen identity data, unpatched vulnerabilities, and ransomware operations are interdependent. The findings come from Flashpoint&amp;#8217;s 2026 Global Threat Intelligence Report, pulling data directly from sources across open and restricted online spaces. AI is moving from &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/12/agentic-attack-chains-infostealers-criminal-markets/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/12/agentic-attack-chains-infostealers-criminal-markets/"&gt;Agentic attack chains advance as infostealers flood criminal markets&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 12 Mar 2026 08:47:54 GMT</pubDate>
     </item>
     
 </channel></rss>
