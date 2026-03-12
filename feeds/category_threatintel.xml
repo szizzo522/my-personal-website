@@ -9,7 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 12 Mar 2026 16:50:47 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 17:21:07 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[threat-intel] Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict</link>
         <description><![CDATA[Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.]]></description>
-        <pubDate>Thu, 12 Mar 2026 16:50:47 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 17:21:07 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,23 @@
         <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 12 Mar 2026 16:50:47 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 17:21:07 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Watering Hole Attacks Push ScanBox Keylogger</title>
+        <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+        <description><![CDATA[Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.]]></description>
+        <pubDate>Thu, 12 Mar 2026 17:21:07 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Thu, 12 Mar 2026 17:21:07 GMT</pubDate>
     </item>
     
 </channel></rss>
