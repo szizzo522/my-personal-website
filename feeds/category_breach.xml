@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[breach] Telus Digital confirms breach after hacker claims 1 petabyte data theft</title>
-        <link>https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/</link>
-        <description><![CDATA[Canadian business process outsourcing giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nearly 1 petabyte of data from the company in a multi-month breach. [...]]]></description>
-        <pubDate>Thu, 12 Mar 2026 23:54:42 GMT</pubDate>
+        <title>[breach] Canadian retail giant Loblaw notifies customers of data breach</title>
+        <link>https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/</link>
+        <description><![CDATA[Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log in again. [...]]]></description>
+        <pubDate>Fri, 13 Mar 2026 00:15:49 GMT</pubDate>
     </item>
     
 </channel></rss>
