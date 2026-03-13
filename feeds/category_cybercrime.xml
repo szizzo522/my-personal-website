@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - cybercrime</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[cybercrime] Police sinkholes 45,000 IP addresses in cybercrime crackdown</title>
+        <link>https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/</link>
+        <description><![CDATA[An international law enforcement action codenamed "Operation Synergia III" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide. [...]]]></description>
+        <pubDate>Fri, 13 Mar 2026 15:53:06 GMT</pubDate>
+    </item>
+    
+</channel></rss>
