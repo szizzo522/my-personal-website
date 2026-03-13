@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
-        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Fri, 13 Mar 2026 06:37:32 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Fri, 13 Mar 2026 06:37:32 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 07:09:04 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[threat-intel] Chinese Nexus Actors Shift Focus to Qatar Amid Iranian Conflict</title>
         <link>https://www.darkreading.com/threat-intelligence/chinese-nexus-actors-shift-focus-qatar-iranian-conflict</link>
         <description><![CDATA[Two attacks on Qatari entities signal a shift in focus for China-backed actors and demonstrate how quickly they can pivot in response to geopolitical events.]]></description>
-        <pubDate>Fri, 13 Mar 2026 06:37:32 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 07:09:04 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Fri, 13 Mar 2026 06:37:32 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 07:09:04 GMT</pubDate>
     </item>
     
 </channel></rss>
