@@ -9,7 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 14 Mar 2026 21:08:32 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 21:26:09 GMT</pubDate>
     </item>
     
 
@@ -17,23 +17,16 @@
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Sat, 14 Mar 2026 21:08:32 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 21:26:09 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Hackers targeted Poland’s National Centre for Nuclear Research</title>
-        <link>https://securityaffairs.com/189399/security/hackers-targeted-polands-national-centre-for-nuclear-research.html</link>
-        <description><![CDATA[Hackers targeted Poland’s National Centre for Nuclear Research, but security systems detected and blocked the attack before any damage. The National Centre for Nuclear Research in Poland reported a cyberattack on its IT infrastructure. The intrusion attempt was quickly detected by security systems, allowing staff to secure the targeted systems and prevent any operational impact. [&amp;#8230;]]]></description>
-        <pubDate>Sat, 14 Mar 2026 21:08:32 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
-        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
-        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Sat, 14 Mar 2026 21:08:32 GMT</pubDate>
+        <title>[threat-intel] Accertify’s Attack State targets credential stuffing and ATO attacks</title>
+        <link>https://www.helpnetsecurity.com/2026/03/13/accertify-attack-state/</link>
+        <description><![CDATA[&lt;p&gt;Accertify has announced the launch of Attack State, a new capability in its Account Protection solution designed to help organizations detect and respond to coordinated login attacks and other automated threats targeting customer accounts. Attack State analyzes login activity continuously and compares it to the organization’s broader traffic patterns to determine when a client’s environment may be under active attack. By comparing expected network behavior with real-time activity, the capability identifies anomalies associated with bot-driven &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/13/accertify-attack-state/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/13/accertify-attack-state/"&gt;Accertify’s Attack State targets credential stuffing and ATO attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Sat, 14 Mar 2026 21:26:09 GMT</pubDate>
     </item>
     
 </channel></rss>
