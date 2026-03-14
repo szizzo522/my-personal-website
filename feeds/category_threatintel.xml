@@ -6,26 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Police sinkholes 45,000 IP addresses in cybercrime crackdown</title>
-        <link>https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/</link>
-        <description><![CDATA[An international law enforcement action codenamed "Operation Synergia III" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide. [...]]]></description>
-        <pubDate>Sat, 14 Mar 2026 23:43:17 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 14 Mar 2026 23:43:17 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Who Operates the Badbox 2.0 Botnet?</title>
-        <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
-        <description><![CDATA[The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.]]></description>
-        <pubDate>Sat, 14 Mar 2026 23:43:17 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 23:55:11 GMT</pubDate>
     </item>
     
 
@@ -33,7 +17,31 @@
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Sat, 14 Mar 2026 23:43:17 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 23:55:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Sat, 14 Mar 2026 23:55:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Hackers targeted Poland’s National Centre for Nuclear Research</title>
+        <link>https://securityaffairs.com/189399/security/hackers-targeted-polands-national-centre-for-nuclear-research.html</link>
+        <description><![CDATA[Hackers targeted Poland’s National Centre for Nuclear Research, but security systems detected and blocked the attack before any damage. The National Centre for Nuclear Research in Poland reported a cyberattack on its IT infrastructure. The intrusion attempt was quickly detected by security systems, allowing staff to secure the targeted systems and prevent any operational impact. [&amp;#8230;]]]></description>
+        <pubDate>Sat, 14 Mar 2026 23:55:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sat, 14 Mar 2026 23:55:11 GMT</pubDate>
     </item>
     
 </channel></rss>
