@@ -9,7 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 14 Mar 2026 20:26:16 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 20:44:55 GMT</pubDate>
     </item>
     
 
@@ -17,15 +17,23 @@
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Sat, 14 Mar 2026 20:26:16 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 20:44:55 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Interpol – Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide</title>
-        <link>https://securityaffairs.com/189420/cyber-crime/interpol-operation-synergia-iii-leads-to-45000-malicious-ips-dismantled-and-94-arrests-worldwide.html</link>
-        <description><![CDATA[INTERPOL dismantled 45,000 malicious IPs and servers and arrested 94 suspects in a global cybercrime operation. INTERPOL announced a global cybercrime operation (codenamed Operation Synergia III) involving 72 countries that dismantled 45,000 malicious IP addresses and servers linked to phishing, malware, and ransomware. The international law enforcement operation led to 94 arrests, 110 ongoing investigations, [&amp;#8230;]]]></description>
-        <pubDate>Sat, 14 Mar 2026 20:26:16 GMT</pubDate>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Sat, 14 Mar 2026 20:44:55 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sat, 14 Mar 2026 20:44:55 GMT</pubDate>
     </item>
     
 </channel></rss>
