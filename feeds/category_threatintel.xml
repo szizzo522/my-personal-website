@@ -9,7 +9,15 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sun, 15 Mar 2026 05:37:05 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 06:09:44 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
+        <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
+        <description><![CDATA[A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &lt;span class="read-more"&gt;&lt;a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/span&gt;]]></description>
+        <pubDate>Sun, 15 Mar 2026 06:09:44 GMT</pubDate>
     </item>
     
 
@@ -17,23 +25,7 @@
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Sun, 15 Mar 2026 05:37:05 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Interpol – Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide</title>
-        <link>https://securityaffairs.com/189420/cyber-crime/interpol-operation-synergia-iii-leads-to-45000-malicious-ips-dismantled-and-94-arrests-worldwide.html</link>
-        <description><![CDATA[INTERPOL dismantled 45,000 malicious IPs and servers and arrested 94 suspects in a global cybercrime operation. INTERPOL announced a global cybercrime operation (codenamed Operation Synergia III) involving 72 countries that dismantled 45,000 malicious IP addresses and servers linked to phishing, malware, and ransomware. The international law enforcement operation led to 94 arrests, 110 ongoing investigations, [&amp;#8230;]]]></description>
-        <pubDate>Sun, 15 Mar 2026 05:37:05 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Hackers targeted Poland’s National Centre for Nuclear Research</title>
-        <link>https://securityaffairs.com/189399/security/hackers-targeted-polands-national-centre-for-nuclear-research.html</link>
-        <description><![CDATA[Hackers targeted Poland’s National Centre for Nuclear Research, but security systems detected and blocked the attack before any damage. The National Centre for Nuclear Research in Poland reported a cyberattack on its IT infrastructure. The intrusion attempt was quickly detected by security systems, allowing staff to secure the targeted systems and prevent any operational impact. [&amp;#8230;]]]></description>
-        <pubDate>Sun, 15 Mar 2026 05:37:05 GMT</pubDate>
+        <pubDate>Sun, 15 Mar 2026 06:09:44 GMT</pubDate>
     </item>
     
 </channel></rss>
