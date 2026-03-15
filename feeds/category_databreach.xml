@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] Starbucks discloses data breach affecting hundreds of employees</title>
-        <link>https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/</link>
-        <description><![CDATA[Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]]]></description>
-        <pubDate>Sun, 15 Mar 2026 13:48:30 GMT</pubDate>
+        <title>[data-breach] Starbucks data breach impacts 889 employees</title>
+        <link>https://securityaffairs.com/189438/security/starbucks-data-breach-impacts-889-employees.html</link>
+        <description><![CDATA[Starbucks disclosed a breach after phishing attacks on its employee portal led to unauthorized access to Partner Central accounts, exposing staff data. Starbucks reported a data breach affecting hundreds of employees after phishing attacks targeted its Partner Central employee portal. The security breach was detected on February 6, the incident involved unauthorized access to staff [&amp;#8230;]]]></description>
+        <pubDate>Sun, 15 Mar 2026 14:45:22 GMT</pubDate>
     </item>
     
 </channel></rss>
