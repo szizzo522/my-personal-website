@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - supplychain</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[supply-chain] GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers</title>
+        <link>https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html</link>
+        <description><![CDATA[Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a "significant escalation" in how it propagates through the Open VSX registry.
+"Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive]]></description>
+        <pubDate>Sun, 15 Mar 2026 21:26:43 GMT</pubDate>
+    </item>
+    
+</channel></rss>
