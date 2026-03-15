@@ -4,7 +4,7 @@
 This repository hosts my personal website and research hub where I publish content related to cybersecurity, programming, threat intelligence, and technical experiments.
 
 🌐 **Visit the website:**  
-https://szizzo522.github.io
+https://isamuel.dev
 
 The site includes research pages covering topics such as:
 
