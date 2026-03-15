@@ -24,7 +24,7 @@ You can subscribe to the site's RSS feeds to automatically receive updates whene
 
 RSS allows your phone, computer, or feed reader to automatically pull new content without needing to check the website manually.
 
-## Setup O
+## Setup
 
 1. Install an RSS reader such as:
 
