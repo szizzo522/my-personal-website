@@ -37,7 +37,7 @@ RSS allows your phone, computer, or feed reader to automatically pull new conten
 3. Tap **Add Feed**.
 
 4. Paste the feed URL from this repository. Example:
-bash'''
+'''bash
 https://szizzo522.github.io/feeds/all.xml
 '''
 The feed will automatically update when new posts are published.
