@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - security</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[security] Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse</title>
+        <link>https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html</link>
+        <description><![CDATA[Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.
+The change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.
+AAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened]]></description>
+        <pubDate>Mon, 16 Mar 2026 17:25:07 GMT</pubDate>
+    </item>
+    
+</channel></rss>
