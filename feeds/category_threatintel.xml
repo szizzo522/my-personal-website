@@ -9,7 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 16 Mar 2026 17:52:21 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 18:21:23 GMT</pubDate>
     </item>
     
 
@@ -17,16 +17,23 @@
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Mon, 16 Mar 2026 17:52:21 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 18:21:23 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Hackers tried to breach Poland’s nuclear research centre</title>
-        <link>https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/</link>
-        <description><![CDATA[&lt;p&gt;Poland’s National Centre for Nuclear Research (NCBJ) thwarted a cyberattack targeting its IT infrastructure. The attempted intrusion was detected and blocked before attackers could compromise systems or disrupt operations. &amp;#8220;No production, operational, or research processes were disrupted, and the MARIA reactor is operating safely and smoothly, at full power,&amp;#8221; said Prof. Jakub Kupecki, Director of the National Centre for Nuclear Research. The National Centre for Nuclear Research is one of the largest scientific institutes in &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/"&gt;Hackers tried to breach Poland’s nuclear research centre&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 16 Mar 2026 17:52:21 GMT</pubDate>
+        <title>[threat-intel] Interpol – Operation Synergia III leads to 45,000 malicious IPs dismantled and 94 arrests worldwide</title>
+        <link>https://securityaffairs.com/189420/cyber-crime/interpol-operation-synergia-iii-leads-to-45000-malicious-ips-dismantled-and-94-arrests-worldwide.html</link>
+        <description><![CDATA[INTERPOL dismantled 45,000 malicious IPs and servers and arrested 94 suspects in a global cybercrime operation. INTERPOL announced a global cybercrime operation (codenamed Operation Synergia III) involving 72 countries that dismantled 45,000 malicious IP addresses and servers linked to phishing, malware, and ransomware. The international law enforcement operation led to 94 arrests, 110 ongoing investigations, [&amp;#8230;]]]></description>
+        <pubDate>Mon, 16 Mar 2026 18:21:23 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Mon, 16 Mar 2026 18:21:23 GMT</pubDate>
     </item>
     
 </channel></rss>
