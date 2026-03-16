@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Poland's nuclear research centre targeted by cyberattack</title>
-        <link>https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/</link>
-        <description><![CDATA[Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 11:08:27 GMT</pubDate>
     </item>
     
 
@@ -26,7 +18,7 @@
         <link>https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html</link>
         <description><![CDATA[INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to dismantle criminal networks, disrupt emerging threats, and safeguard victims from scams.
 The effort is part of an international law enforcement operation that involved 72 countries and territories.]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 11:08:27 GMT</pubDate>
     </item>
     
 
@@ -34,23 +26,15 @@ The effort is part of an international law enforcement operation that involved 7
         <title>[threat-intel] Iran MOIS Colludes With Criminals to Boost Cyberattacks</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks</link>
         <description><![CDATA[Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 11:08:27 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Hackers targeted Poland’s National Centre for Nuclear Research</title>
-        <link>https://securityaffairs.com/189399/security/hackers-targeted-polands-national-centre-for-nuclear-research.html</link>
-        <description><![CDATA[Hackers targeted Poland’s National Centre for Nuclear Research, but security systems detected and blocked the attack before any damage. The National Centre for Nuclear Research in Poland reported a cyberattack on its IT infrastructure. The intrusion attempt was quickly detected by security systems, allowing staff to secure the targeted systems and prevent any operational impact. [&amp;#8230;]]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Mon, 16 Mar 2026 11:08:27 GMT</pubDate>
     </item>
     
 
@@ -59,7 +43,7 @@ The effort is part of an international law enforcement operation that involved 7
         <link>https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/</link>
         <description><![CDATA[&lt;p&gt;Poland’s National Centre for Nuclear Research (NCBJ) thwarted a cyberattack targeting its IT infrastructure. The attempted intrusion was detected and blocked before attackers could compromise systems or disrupt operations. &amp;#8220;No production, operational, or research processes were disrupted, and the MARIA reactor is operating safely and smoothly, at full power,&amp;#8221; said Prof. Jakub Kupecki, Director of the National Centre for Nuclear Research. The National Centre for Nuclear Research is one of the largest scientific institutes in &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/"&gt;Hackers tried to breach Poland’s nuclear research centre&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 16 Mar 2026 10:39:29 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 11:08:27 GMT</pubDate>
     </item>
     
 </channel></rss>
