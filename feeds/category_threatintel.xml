@@ -9,15 +9,15 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 16 Mar 2026 21:04:46 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 21:28:59 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Russia-linked APT uses DRILLAPP backdoor to spy on Ukrainian targets</title>
-        <link>https://securityaffairs.com/189519/malware/russia-linked-apt-uses-drillapp-backdoor-to-spy-on-ukrainian-targets.html</link>
-        <description><![CDATA[Russia-linked threat actors target Ukrainian entities with DRILLAPP backdoor and use Edge debugging for stealth. A new DRILLAPP backdoor campaign targets Ukrainian organizations, abusing Microsoft Edge debugging to evade detection. Observed in February 2026, it shows links to previous Russian-aligned operations by Laundry Bear APT group (aka UAC-0190, Void Blizzard) using the PLUGGYAPE malware family [&amp;#8230;]]]></description>
-        <pubDate>Mon, 16 Mar 2026 21:04:46 GMT</pubDate>
+        <title>[threat-intel] Who Operates the Badbox 2.0 Botnet?</title>
+        <link>https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/</link>
+        <description><![CDATA[The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.]]></description>
+        <pubDate>Mon, 16 Mar 2026 21:28:59 GMT</pubDate>
     </item>
     
 
@@ -26,7 +26,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/</link>
         <description><![CDATA[&lt;p&gt;Poland’s National Centre for Nuclear Research (NCBJ) thwarted a cyberattack targeting its IT infrastructure. The attempted intrusion was detected and blocked before attackers could compromise systems or disrupt operations. &amp;#8220;No production, operational, or research processes were disrupted, and the MARIA reactor is operating safely and smoothly, at full power,&amp;#8221; said Prof. Jakub Kupecki, Director of the National Centre for Nuclear Research. The National Centre for Nuclear Research is one of the largest scientific institutes in &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/16/poland-nuclear-research-centre-cyberattack/"&gt;Hackers tried to breach Poland’s nuclear research centre&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 16 Mar 2026 21:04:46 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 21:28:59 GMT</pubDate>
     </item>
     
 </channel></rss>
