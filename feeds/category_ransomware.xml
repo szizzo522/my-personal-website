@@ -9,7 +9,7 @@
         <title>[ransomware] LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks</title>
         <link>https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/</link>
         <description><![CDATA[The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. [...]]]></description>
-        <pubDate>Tue, 17 Mar 2026 12:50:20 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 13:33:51 GMT</pubDate>
     </item>
     
 
@@ -17,15 +17,7 @@
         <title>[ransomware] Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
         <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
         <description><![CDATA[A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &lt;span class="read-more"&gt;&lt;a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/span&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 12:50:20 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[ransomware] Attack on Stryker’s Microsoft environment wiped employee devices without malware</title>
-        <link>https://securityaffairs.com/189535/hacking/attack-on-stryker-s-microsoft-environment-wiped-employee-devices-without-malware.html</link>
-        <description><![CDATA[The recent cyberattack on Stryker wiped tens of thousands of employee devices through its Microsoft environment, and systems are still offline. A recent cyberattack on medical technology giant Stryker targeted its internal Microsoft environment and remotely wiped tens of thousands of employee devices without using malware. The company confirmed that its medical devices were not [&amp;#8230;]]]></description>
-        <pubDate>Tue, 17 Mar 2026 12:50:20 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 13:33:51 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[ransomware] Payload Ransomware claims the hack of Royal Bahrain Hospital</title>
         <link>https://securityaffairs.com/189467/cyber-crime/payload-ransomware-claims-the-hack-of-royal-bahrain-hospital.html</link>
         <description><![CDATA[The Payload Ransomware group claims to have breached the Royal Bahrain Hospital (RBH), a leading healthcare facility in Bahrain. The Payload Ransomware group claims to have hacked the Royal Bahrain Hospital (RBH) and stolen 110 GB of data. The ransomware gang added the healthcare facility to its Tor data leak site and published the images [&amp;#8230;]]]></description>
-        <pubDate>Tue, 17 Mar 2026 12:50:20 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 13:33:51 GMT</pubDate>
     </item>
     
 
@@ -41,7 +33,7 @@
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Tue, 17 Mar 2026 12:50:20 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 13:33:51 GMT</pubDate>
     </item>
     
 </channel></rss>
