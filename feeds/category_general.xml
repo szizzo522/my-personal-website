@@ -9,7 +9,7 @@
         <title>[general] Top 5 Things CISOs Need to Do Today to Secure AI Agents</title>
         <link>https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/</link>
         <description><![CDATA[AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,15 @@
         <title>[general] Microsoft stops force-installing the Microsoft 365 Copilot app</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/</link>
         <description><![CDATA[Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps. [...]]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Microsoft shares fix for Windows C: drive access issues on Samsung PCs</title>
+        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/</link>
+        <description><![CDATA[Microsoft has shared guidance to fix C:&amp;#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2. [...]]]></description>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -25,7 +33,7 @@
         <title>[general] Stryker attack wiped tens of thousands of devices, no malware needed</title>
         <link>https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/</link>
         <description><![CDATA[Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -33,7 +41,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -42,7 +50,7 @@
         <link>https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html</link>
         <description><![CDATA[A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera.
 The report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -51,7 +59,7 @@ The report, based on a survey of 300 US CISOs and senior security leaders, exami
         <link>https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html</link>
         <description><![CDATA[Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.
 This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -59,7 +67,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Why Security Validation Is Becoming Agentic</title>
         <link>https://thehackernews.com/2026/03/why-security-validation-is-becoming.html</link>
         <description><![CDATA[If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -67,7 +75,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026</title>
         <link>https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026</link>
         <description><![CDATA[Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Games from evolving threats.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -75,7 +83,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] The Data Gap: Why Nonprofit Cyber Incidents Go Underreported</title>
         <link>https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported</link>
         <description><![CDATA[Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -83,7 +91,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Cyberattackers Don't Care About Good Causes</title>
         <link>https://www.darkreading.com/cyber-risk/cyberattackers-dont-care-about-good-causes</link>
         <description><![CDATA[Sightline Security's founder and advisory board discuss how cybersecurity poses significant problems for nonprofits and suggest ways the industry can help.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -91,7 +99,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Will AI Save Consumers From Smartphone-Based Phishing Attacks?</title>
         <link>https://www.darkreading.com/mobile-security/will-ai-save-consumers-smartphone-phishing-attacks</link>
         <description><![CDATA[Sophisticated phishing attacks are bypassing on-device protections with troubling frequency, making it more critical than ever for users to protect themselves from potential threats, new research from Omdia shows.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -99,7 +107,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -107,7 +115,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -115,7 +123,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -123,7 +131,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -131,7 +139,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -139,7 +147,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -147,23 +155,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Attack on Stryker’s Microsoft environment wiped employee devices without malware</title>
-        <link>https://securityaffairs.com/189535/hacking/attack-on-stryker-s-microsoft-environment-wiped-employee-devices-without-malware.html</link>
-        <description><![CDATA[The recent cyberattack on Stryker wiped tens of thousands of employee devices through its Microsoft environment, and systems are still offline. A recent cyberattack on medical technology giant Stryker targeted its internal Microsoft environment and remotely wiped tens of thousands of employee devices without using malware. The company confirmed that its medical devices were not [&amp;#8230;]]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Former Germany’s foreign intelligence VP hit in Signal account takeover campaign</title>
-        <link>https://securityaffairs.com/189509/intelligence/former-germanys-foreign-intelligence-vp-hit-in-signal-account-takeover-campaign.html</link>
-        <description><![CDATA[Former BND VP Arndt Freytag von Loringhoven was targeted in a Signal cyberattack, part of a wave hitting officials and politicians in Germany. A cyberattack targeting Signal and WhatsApp users has hit high-ranking German officials, including former BND Vice President Arndt Freytag von Loringhoven. The official reported being contacted by someone posing as Signal support [&amp;#8230;]]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -171,7 +163,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Student Loan Breach Exposes 2.5M Records</title>
         <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
         <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -179,15 +171,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
-        <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
-        <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -196,7 +180,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/ctg-cyber-resilience-scoring-dashboard/</link>
         <description><![CDATA[&lt;p&gt;CTG has announced the launch of a cyber resilience scoring dashboard that helps organizations quantify risk, prioritize remediation, and track measurable improvement over time. The dashboard is part of the Group’s Cegeka Security Advisory Framework (CSAF), a modular approach that combines assessments and advisory services to help organizations continuously improve their security strategy. By translating assessment outcomes into a single score and clear trends, the dashboard provides immediate visibility into cyber risk, program maturity, and &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/ctg-cyber-resilience-scoring-dashboard/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/ctg-cyber-resilience-scoring-dashboard/"&gt;CTG unveils cyber resilience scoring dashboard for measurable risk reduction&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -205,7 +189,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/secure-code-warrior-trust-agent-ai-governance/</link>
         <description><![CDATA[&lt;p&gt;Secure Code Warrior has announced SCW Trust Agent: AI, a governance solution designed to make AI influence in software development visible, attributable, and enforceable at the point of commit, enabling enterprises to scale AI coding tools with measurable control over software risk. Organizations can trace which AI models influenced specific commits, correlate that influence with vulnerability exposure, and take corrective action before insecure code reaches production. According to Sonar’s 2026 State of Code Developer Survey, &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/secure-code-warrior-trust-agent-ai-governance/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/secure-code-warrior-trust-agent-ai-governance/"&gt;SCW Trust Agent: AI tracks AI influence in code to reduce software risk&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -214,7 +198,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/xm-cyber-cemp-ai-security/</link>
         <description><![CDATA[&lt;p&gt;XM Cyber has enhanced its Continuous Exposure Management Platform to help organizations adopt AI without exposing themselves to new and emerging threats. The release introduces three major capabilities that enable organizations to embrace AI-driven innovation at full speed, without giving attackers a roadmap to their most critical assets. &amp;#8220;Rapid AI adoption has created a dilemma for security leaders: innovate at speed, or maintain the controls needed to stay secure. Our new functionality eliminates this friction &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/xm-cyber-cemp-ai-security/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/xm-cyber-cemp-ai-security/"&gt;XM Cyber advances AI security with enhanced exposure and attack path visibility&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -223,7 +207,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/sailpoint-shadow-ai-remediation/</link>
         <description><![CDATA[&lt;p&gt;SailPoint has announced the launch of SailPoint Shadow AI Remediation, the latest component of its real-time AI governance and security framework. This solution enables organizations to discover, monitor, and secure the use of unauthorized AI tools, known as “shadow AI,” helping to mitigate the security and compliance risks associated with the rapid growth of artificial intelligence. As employees turn to AI platforms like ChatGPT, Claude, Gemini, and others to enhance productivity, they often do so &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/sailpoint-shadow-ai-remediation/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/sailpoint-shadow-ai-remediation/"&gt;SailPoint improves visibility and control over unauthorized AI use&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -232,7 +216,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/pindrop-protect-fraud-assist/</link>
         <description><![CDATA[&lt;p&gt;Pindrop has announced Pindrop Protect Fraud Assist, the agentic fraud investigation and case management solution for real-time phone conversations. As AI fraud attacks surge across contact centers, Pindrop Protect Fraud Assist embeds agentic AI directly into the fraud investigation workflow, helping analysts investigate smarter, close cases faster and keep pace with rising fraud volumes, without adding headcount. As an AI assistant to the fraud analyst, the agent delivers real-time call summaries, deep risk insights and &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/pindrop-protect-fraud-assist/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/pindrop-protect-fraud-assist/"&gt;Pindrop Fraud Assist uses AI to analyze calls and strengthen fraud prevention&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -241,7 +225,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/huntress-managed-espm-ispm/</link>
         <description><![CDATA[&lt;p&gt;Huntress has announced Managed Endpoint Security Posture Management (ESPM) and Managed Identity Security Posture Management (ISPM), expanding its Agentic Security Platform to deliver end-to-end protection across endpoints, identities, and human risk. Huntress built Managed ESPM from the ground up and developed Managed ISPM in less than four months by leveraging expertise and capabilities from its Inside Agent acquisition in November 2025. These products empower customers to proactively close common security gaps like misconfigurations, excessive permissions, &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/huntress-managed-espm-ispm/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/huntress-managed-espm-ispm/"&gt;Huntress adds tools to its Agentic Security Platform to detect, fix, and prevent endpoint and identity risks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -250,7 +234,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/kore-ai-agent-management-platform/</link>
         <description><![CDATA[&lt;p&gt;Kore.ai has announced the launch of its Agent Management Platform, a unified command center designed to govern, monitor, and manage AI agents and AI systems across the enterprise. As organizations deploy AI and multi-agent systems, many are encountering “AI sprawl,” a phenomena analysts describe as dozens of AI initiatives across different teams, tools, and clouds without centralized visibility or governance. Gartner predicts that by 2028, enterprises will operate thousands of AI agents across various business &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/kore-ai-agent-management-platform/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/kore-ai-agent-management-platform/"&gt;Kore.ai debuts Agent Management Platform to govern enterprise AI ecosystems&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -259,7 +243,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/kingston-digital-ironkey-locker-50-g2/</link>
         <description><![CDATA[&lt;p&gt;Kingston Digital has announced the launch of the next-generation IronKey Locker+ 50 G2 (LP50 G2) hardware-encrypted USB flash drive. The drive provides enterprise-grade security with FIPS 197 and AES 256-bit hardware encryption in XTS mode. It also safeguards against BadUSB with digitally signed firmware and against brute force password attacks. LP50G2 features a premium space grey metal casing and supports both Admin and User passwords with options for Complex or Passphrase modes. Complex mode allows &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/kingston-digital-ironkey-locker-50-g2/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/kingston-digital-ironkey-locker-50-g2/"&gt;New Kingston IronKey USB drive delivers enterprise-grade data security&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -268,7 +252,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.helpnetsecurity.com/2026/03/17/intel-471-cyber-threat-exposure-bundle/</link>
         <description><![CDATA[&lt;p&gt;Intel 471 has announced its latest product offering, the Cyber Threat Exposure Bundle, on its Verity471 platform. This new bundle combines Attack Surface Exposure, Third-Party Exposure, and Brand Exposure into a single solution, providing users with a standardized view to identify, prioritize, and remediate external risks. By integrating these solutions, organizations are better equipped to tackle a sophisticated threat landscape with enhanced visibility and intelligence, without disrupting business operations. “Since launching Verity471 in 2025, we &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/17/intel-471-cyber-threat-exposure-bundle/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/17/intel-471-cyber-threat-exposure-bundle/"&gt;Intel 471 debuts integrated platform for external threat management&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -276,7 +260,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <title>[general] Possible New Result in Quantum Factorization</title>
         <link>https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</link>
         <description><![CDATA[&lt;p&gt;I&amp;#8217;m skeptical about&amp;#8212;and not qualified to review&amp;#8212;this &lt;a href="https://www.preprints.org/manuscript/202510.1649"&gt;new result&lt;/a&gt; in factorization with a quantum computer, but if it&amp;#8217;s true it&amp;#8217;s a &lt;a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/"&gt;theoretical improvement&lt;/a&gt; in the speed of factoring large numbers with a quantum computer.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -289,7 +273,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rsaconference.com/usa"&gt;RSAC 2026&lt;/a&gt; in San Francisco, California, USA, on Wednesday, March 25, 2026.&lt;/li&gt;
 &lt;li&gt;I’m part of an event on “Canada and AI Sovereignty,” hosted by the University of Toronto’s &lt;a href="https://munkschool.utoronto.ca/event/canada-and-ai-sovereignty"&gt;Munk School of Global Affairs &amp;#38; Public Policy&lt;/a&gt;, which will be held online via Zoom at 4:00 PM ET on Monday, March 30, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.democracyxchange.org/"&gt;DemocracyXChange 2026...&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -299,7 +283,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <description><![CDATA[&lt;p&gt;Some &lt;a href="https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/"&gt;good news&lt;/a&gt;: squid stocks seem to be recovering in the waters off the Falkland Islands.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -308,7 +292,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html</link>
         <description><![CDATA[&lt;p&gt;In 2025, Google, Amazon, Microsoft and Meta collectively spent US$380 billion on building artificial-intelligence tools. That number is expected to surge still higher this year, to $650 billion, to fund the building of physical infrastructure, such as data centers (see &lt;a href="https://go.nature.com/3lzf79q"&gt;go.nature.com/3lzf79q&lt;/a&gt;). Moreover, these firms are spending lavishly on one particular segment: top technical talent.&lt;/p&gt;
 &lt;p&gt;Meta reportedly offered a single AI researcher, who had cofounded a start-up firm focused on training AI agents to use computers, a compensation package of $250 million over four years (see ...&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -319,7 +303,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
 &lt;blockquote&gt;&lt;p&gt;&amp;#8230;iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings&amp;#8212;a level of government certification no other consumer mobile device has met.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This is out of the box, no modifications required.&lt;/p&gt;
 &lt;p&gt;Boing Boing &lt;a href="https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html"&gt;post&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -328,7 +312,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html</link>
         <description><![CDATA[&lt;p&gt;Canada has a choice to make about its artificial intelligence future. The Carney administration is investing $2-billion over five years in its &lt;a href="https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy"&gt;Sovereign AI Compute Strategy&lt;/a&gt;. Will any value generated by &amp;#8220;sovereign AI&amp;#8221; be captured in Canada, making a difference in the lives of Canadians, or is this just a passthrough to investment in American Big Tech?&lt;/p&gt;
 &lt;p&gt;Forcing the question is OpenAI, the company behind ChatGPT, which has been pushing an &amp;#8220;OpenAI for Countries&amp;#8221; initiative. It is not the only one eyeing its share of the $2-billion, but it appears to be the most aggressive. OpenAI&amp;#8217;s top lobbyist in the region has met with Ottawa officials, including Artificial Intelligence Minister Evan Solomon...&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -337,7 +321,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
         <link>https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html</link>
         <description><![CDATA[&lt;p&gt;Countries around the world are becoming increasingly concerned about their dependencies on the US. If you&amp;#8217;ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.&lt;/p&gt;
 &lt;p&gt;The Dutch Defense Secretary recently &lt;a href="https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister"&gt;said&lt;/a&gt; that he could jailbreak the planes to accept third-party software.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 
@@ -348,7 +332,7 @@ This week has that energy. Fresh messes, old problems getting sharper, and resea
 &lt;blockquote&gt;&lt;p&gt;At Constantinople&amp;#8217;s Monastery of Stoudios, the kitchen didn&amp;#8217;t answer to appetite.&lt;/p&gt;
 &lt;p&gt;It answered to the &amp;#8220;typikon&amp;#8221;: a manual for ensuring that nothing unexpected happened at mealtimes. Meat: forbidden. Dairy: forbidden. Eggs: forbidden. Fish: feast-day only. Oil: regulated. But squid?&lt;/p&gt;
 &lt;p&gt;Squid had eight arms, no bones, and a gift for changing color. Nobody had bothered writing a regulation for that. This wasn&amp;#8217;t a loophole born of legal creativity but an oversight rooted in taxonomic confusion. Medieval monks, confronted with a creature that was neither fish nor fowl, gave up and let it pass...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Tue, 17 Mar 2026 18:08:16 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 18:36:33 GMT</pubDate>
     </item>
     
 </channel></rss>
