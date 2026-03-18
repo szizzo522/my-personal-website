@@ -9,7 +9,7 @@
         <title>[ransomware] LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks</title>
         <link>https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/</link>
         <description><![CDATA[The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. [...]]]></description>
-        <pubDate>Wed, 18 Mar 2026 14:57:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:30:33 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[ransomware] Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
         <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
         <description><![CDATA[A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &lt;span class="read-more"&gt;&lt;a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/span&gt;]]></description>
-        <pubDate>Wed, 18 Mar 2026 14:57:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:30:33 GMT</pubDate>
     </item>
     
 
@@ -26,7 +26,7 @@
         <link>https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html</link>
         <description><![CDATA[The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.
 The use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials]]></description>
-        <pubDate>Wed, 18 Mar 2026 14:57:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:30:33 GMT</pubDate>
     </item>
     
 
@@ -34,7 +34,7 @@ The use of ClickFix, where users are tricked into manually running malicious com
         <title>[ransomware] Less Lucrative Ransomware Market Makes Attackers Alter Methods</title>
         <link>https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods</link>
         <description><![CDATA[Ransomware actors are ditching Cobalt Strike in favor of native Windows tools, as payment rates hit record lows and data theft surges.]]></description>
-        <pubDate>Wed, 18 Mar 2026 14:57:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:30:33 GMT</pubDate>
     </item>
     
 
@@ -42,7 +42,7 @@ The use of ClickFix, where users are tricked into manually running malicious com
         <title>[ransomware] Warlock Ransomware Group Augments Post-Exploitation Activities</title>
         <link>https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities</link>
         <description><![CDATA[In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.]]></description>
-        <pubDate>Wed, 18 Mar 2026 14:57:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:30:33 GMT</pubDate>
     </item>
     
 
@@ -50,7 +50,7 @@ The use of ClickFix, where users are tricked into manually running malicious com
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Wed, 18 Mar 2026 14:57:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 15:30:33 GMT</pubDate>
     </item>
     
 </channel></rss>
