@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[phishing] Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish</title>
-        <link>https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish</link>
-        <description><![CDATA[In an unsuccessful phishing attack, threat actors leveraged trusted brands and domains to try to redirect a C-suite executive at Outpost24 to give up his credentials.]]></description>
-        <pubDate>Wed, 18 Mar 2026 00:20:18 GMT</pubDate>
+        <title>[phishing] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
+        <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+        <description><![CDATA[Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.]]></description>
+        <pubDate>Wed, 18 Mar 2026 00:59:09 GMT</pubDate>
     </item>
     
 </channel></rss>
