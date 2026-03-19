@@ -9,7 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 19 Mar 2026 06:11:26 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
     </item>
     
 
@@ -18,7 +18,7 @@
         <link>https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html</link>
         <description><![CDATA[The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs.
 "The North Korean]]></description>
-        <pubDate>Thu, 19 Mar 2026 06:11:26 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
     </item>
     
 
@@ -26,7 +26,7 @@
         <title>[threat-intel] SideWinder Espionage Campaign Expands Across Southeast Asia</title>
         <link>https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</link>
         <description><![CDATA[The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.]]></description>
-        <pubDate>Thu, 19 Mar 2026 06:11:26 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
     </item>
     
 
@@ -34,7 +34,7 @@
         <title>[threat-intel] EU sanctions Chinese and Iranian actors over cyberattacks on critical infrastructure</title>
         <link>https://securityaffairs.com/189585/security/eu-sanctions-chinese-and-iranian-actors-over-cyberattacks-on-critical-infrastructure.html</link>
         <description><![CDATA[EU sanctions Chinese and Iranian firms and individuals for cyberattacks targeting critical infrastructure and over 65,000 devices across member states. The Council of the European Union has imposed sanctions on three companies and two individuals linked to cyberattacks against EU countries and partners. &amp;#8220;The Council adopted today restrictive measures against three entities and two individuals responsible for cyber-attacks carried [&amp;#8230;]]]></description>
-        <pubDate>Thu, 19 Mar 2026 06:11:26 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
     </item>
     
 
@@ -42,7 +42,7 @@
         <title>[threat-intel] CL-STA-1087 targets military capabilities since 2020</title>
         <link>https://securityaffairs.com/189553/apt/cl-sta-1087-targets-military-capabilities-since-2020.html</link>
         <description><![CDATA[China-linked APT group CL-STA-1087 has targeted Southeast Asian militaries since 2020 using AppleChris and MemFun. A suspected China-linked espionage campaign, tracked as CL-STA-1087, has targeted Southeast Asian military organizations since at least 2020, using AppleChris and MemFun malware. &amp;#8220;The activity demonstrated strategic operational patience and a focus on highly targeted intelligence collection, rather than bulk [&amp;#8230;]]]></description>
-        <pubDate>Thu, 19 Mar 2026 06:11:26 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
     </item>
     
 
@@ -51,7 +51,25 @@
         <link>https://www.helpnetsecurity.com/2026/03/19/north-korean-remote-it-workers-corporate-infiltration-scheme/</link>
         <description><![CDATA[&lt;p&gt;Increased federal activity, including indictments over the past year, has drawn attention to a pattern that has been unfolding inside corporate hiring pipelines. North Korean nationals are securing roles as remote IT contractors and full-time staff within organizations across North America and Western Europe, using standard hiring channels to get in. Research by IBM X-Force and Flare outlines how these workers operate within a broader state-backed system tied to revenue generation and access to corporate &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/north-korean-remote-it-workers-corporate-infiltration-scheme/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/north-korean-remote-it-workers-corporate-infiltration-scheme/"&gt;Elite members of North Korean society fake their way into Western paychecks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 06:11:26 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Your APIs are under siege, and attackers are just getting warmed up</title>
+        <link>https://www.helpnetsecurity.com/2026/03/19/akamai-api-attack-trends-report/</link>
+        <description><![CDATA[&lt;p&gt;Internet-facing systems are handling sustained levels of malicious traffic across APIs, web applications, and DDoS channels. Akamai’s State of the Internet security report places these patterns within the same operating environment, with activity increasing across each area through 2025. The number of web attacks against apps and APIs continued an upward trajectory from January 2024 to December 2025, demonstrating their prevalence as a major threat to organizations (Source: Akamai) API activity centers on how applications &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/akamai-api-attack-trends-report/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/akamai-api-attack-trends-report/"&gt;Your APIs are under siege, and attackers are just getting warmed up&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Dropzone AI releases autonomous Threat Hunting agent for continuous SOC detection</title>
+        <link>https://www.helpnetsecurity.com/2026/03/18/dropzone-ai-ai-threat-hunting/</link>
+        <description><![CDATA[&lt;p&gt;Dropzone AI has released the AI Threat Hunter, its newest AI agent that enables security teams to proactively search for threats across their environments around the clock. The AI Threat Hunter is the next agent joining the Dropzone’s Agentic SOC team, expanding what AI agents can do across the full spectrum of detection and response. This new capability is designed to work seamlessly alongside SOC analysts, both human and autonomous, expanding security analytical capacity across &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/18/dropzone-ai-ai-threat-hunting/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/18/dropzone-ai-ai-threat-hunting/"&gt;Dropzone AI releases autonomous Threat Hunting agent for continuous SOC detection&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 19 Mar 2026 06:39:50 GMT</pubDate>
     </item>
     
 </channel></rss>
