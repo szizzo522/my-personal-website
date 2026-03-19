@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[general] Aura confirms data breach exposing 900,000 marketing contacts</title>
-        <link>https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/</link>
-        <description><![CDATA[Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[general] The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms</title>
         <link>https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/</link>
         <description><![CDATA[Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -34,7 +26,7 @@
         <link>https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html</link>
         <description><![CDATA[Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls.
 Claude Code, Anthropic's AI coding agent, is now running across engineering organizations at scale. It reads files, executes shell commands, calls external APIs,]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -45,7 +37,15 @@ Claude Code, Anthropic's AI coding agent, is now running across engineering orga
 Yet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context:&amp;nbsp;
 Q: Which exposures, misconfigurations, and vulnerabilities chain together to create viable attack paths to crown jewels?
 Even the most mature security teams can’t answer that]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] EU Sanctions Companies in China, Iran for Cyberattacks</title>
+        <link>https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks</link>
+        <description><![CDATA[Already sanctioned in the US and the UK, these rulings prohibit companies and a couple of principals from entering or doing business in the European Union.]]></description>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -53,7 +53,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] Researchers: Meta, TikTok Steal Personal &amp;amp; Financial Info When Users Click Ads</title>
         <link>https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii</link>
         <description><![CDATA[Tracking pixels let social media companies spy on their users even after they click over to advertiser sites, gleaning credit card info, geolocations, and more, according to an analysis.]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -61,7 +61,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] Clear Communication: The Missing Link in Cybersecurity Success</title>
         <link>https://www.darkreading.com/cybersecurity-operations/clear-communication-missing-link-cybersecurity-success</link>
         <description><![CDATA[When technical expertise meets clear communication, cybersecurity teams thrive. Learn how to foster trust and collaboration across diverse working groups.]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -69,7 +69,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -77,7 +77,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -85,7 +85,15 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -93,7 +101,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -101,7 +109,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -109,7 +117,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -117,7 +125,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -125,7 +133,7 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] Tracking the Iran War: A Month of Escalation and Regional Impact</title>
         <link>https://securityaffairs.com/189604/cyber-warfare-2/tracking-the-iran-war-a-month-of-escalation-and-regional-impact.html</link>
         <description><![CDATA[Iran war likely prolonged, increasing cyber threats, energy disruption, and instability, with companies in the Middle East facing higher risk. Follow me on Twitter:&amp;#160;@securityaffairs&amp;#160;and&amp;#160;Facebook&amp;#160;and&amp;#160;Mastodon Pierluigi&amp;#160;Paganini (SecurityAffairs – hacking, Iran)]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -133,7 +141,16 @@ Even the most mature security teams can’t answer that]]></description>
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] 900,000 contact records exposed in Aura data breach</title>
+        <link>https://www.helpnetsecurity.com/2026/03/19/aura-data-breach-900000-records/</link>
+        <description><![CDATA[&lt;p&gt;Aura, the online safety service, confirmed that an unauthorized party accessed about 900,000 records, mostly names and email addresses from a marketing tool linked to a company it acquired in 2021. The incident occurred as a result of a targeted phone phishing attack that tricked one of the employees. Aura believes that contact information related to less than 20,000 active customers and less than 15,000 former customers was accessed. According to Have I Been Pwned, &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/aura-data-breach-900000-records/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/aura-data-breach-900000-records/"&gt;900,000 contact records exposed in Aura data breach&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -142,7 +159,7 @@ Even the most mature security teams can’t answer that]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/19/keysight-sbom-manager/</link>
         <description><![CDATA[&lt;p&gt;Keysight Technologies has launched Keysight SBOM Manager, a new solution designed to help organizations meet growing global cybersecurity and software transparency requirements, led by the European Union’s Cyber Resilience Act (CRA). The solution provides a unified approach to generating, managing, and using Software Bill of Materials (SBOMs) for digital products, enabling organizations to meet regulatory obligations with greater accuracy, confidence, and consistency across the product lifecycle. Cybersecurity regulations worldwide are converging on a common expectation: &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/keysight-sbom-manager/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/keysight-sbom-manager/"&gt;Keysight SBOM Manager simplifies global cybersecurity compliance and software transparency&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -151,16 +168,16 @@ Even the most mature security teams can’t answer that]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/19/java-26-security-features/</link>
         <description><![CDATA[&lt;p&gt;Oracle released JDK 26, the 17th consecutive feature release delivered under the six-month cadence the project adopted in 2018. The release includes ten JDK Enhancement Proposals spanning language changes, garbage collection improvements, cryptographic tooling, and network protocol support. PEM encoding API targets cryptographic integration JEP 524 introduces a second preview of a PEM encoding API for cryptographic objects. The API converts keys, certificates, and certificate revocation lists into Privacy-Enhanced Mail format and decodes them back &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/java-26-security-features/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/java-26-security-features/"&gt;Java 26 ships with new cryptography API and HTTP/3 support&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] AI got it wrong with high confidence. Now what?</title>
-        <link>https://www.helpnetsecurity.com/2026/03/19/christian-debes-spryfox-ai-explainability-accountability/</link>
-        <description><![CDATA[&lt;p&gt;In this Help Net Security interview, Christian Debes, Head of Data Analytics &amp;#038; AI at SPRYFOX, talks about the growing gap between what AI models do and what their operators can explain. He argues this gap is already a liability, particularly when decisions affect people or money and no one can say why a model produced a certain output. Debes walks through how responsible teams approach confident wrong answers, why procurement leaders bear accountability when &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/christian-debes-spryfox-ai-explainability-accountability/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/christian-debes-spryfox-ai-explainability-accountability/"&gt;AI got it wrong with high confidence. Now what?&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <title>[general] Omnix AI Advisor brings real-time credential threat insights to enterprise security teams</title>
+        <link>https://www.helpnetsecurity.com/2026/03/19/dashlane-omnix-ai-advisor/</link>
+        <description><![CDATA[&lt;p&gt;Dashlane has unveiled Omnix AI Advisor, a natural-language AI security assistant embedded into the Dashlane Omnix platform. Built upon Omnix’s advanced credential protection and visibility capabilities, Omnix AI Advisor accelerates enterprises’ transition to a proactive security posture by turning real-time credential risk data, such as dark web exposure and phishing logs, into contextual, actionable intelligence. Security teams are inundated with data, making it difficult to know what matters most. Omnix AI Advisor correlates multiple data &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/19/dashlane-omnix-ai-advisor/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/19/dashlane-omnix-ai-advisor/"&gt;Omnix AI Advisor brings real-time credential threat insights to enterprise security teams&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -170,19 +187,7 @@ Even the most mature security teams can’t answer that]]></description>
         <description><![CDATA[&lt;p&gt;Surprising no one, Meta&amp;#8217;s new AI glasses are a &lt;a href="https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster"&gt;privacy disaster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not sure what can be done here. This is a technology that will exist, whether we like it or not.&lt;/p&gt;
 &lt;p&gt;Meanwhile, there is a new Android app that &lt;a href="https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"&gt;detects&lt;/a&gt; when there are smart glasses nearby.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] South Korean Police Accidentally Post Cryptocurrency Wallet Password</title>
-        <link>https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html</link>
-        <description><![CDATA[&lt;p&gt;An expensive &lt;a href="https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/"&gt;mistake&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;
-Someone jumped at the opportunity to steal $4.4 million in crypto assets after South Korea&amp;#8217;s National Tax Service exposed publicly the mnemonic recovery phrase of a seized cryptocurrency wallet.&lt;/p&gt;
-&lt;p&gt;The funds were stored in a Ledger cold wallet seized in law enforcement raids at 124 high-value tax evaders that resulted in confiscating digital assets worth 8.1 billion won (currently approximately $5.6 million).&lt;/p&gt;
-&lt;p&gt;When announcing the success of the operation, the agency released photos of a Ledger device, a popular hardware wallet for crypto storage and management...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -190,7 +195,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
         <title>[general] Possible New Result in Quantum Factorization</title>
         <link>https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</link>
         <description><![CDATA[&lt;p&gt;I&amp;#8217;m skeptical about&amp;#8212;and not qualified to review&amp;#8212;this &lt;a href="https://www.preprints.org/manuscript/202510.1649"&gt;new result&lt;/a&gt; in factorization with a quantum computer, but if it&amp;#8217;s true it&amp;#8217;s a &lt;a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/"&gt;theoretical improvement&lt;/a&gt; in the speed of factoring large numbers with a quantum computer.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -203,7 +208,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rsaconference.com/usa"&gt;RSAC 2026&lt;/a&gt; in San Francisco, California, USA, on Wednesday, March 25, 2026.&lt;/li&gt;
 &lt;li&gt;I’m part of an event on “Canada and AI Sovereignty,” hosted by the University of Toronto’s &lt;a href="https://munkschool.utoronto.ca/event/canada-and-ai-sovereignty"&gt;Munk School of Global Affairs &amp;#38; Public Policy&lt;/a&gt;, which will be held online via Zoom at 4:00 PM ET on Monday, March 30, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.democracyxchange.org/"&gt;DemocracyXChange 2026...&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -213,7 +218,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
         <description><![CDATA[&lt;p&gt;Some &lt;a href="https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/"&gt;good news&lt;/a&gt;: squid stocks seem to be recovering in the waters off the Falkland Islands.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -222,7 +227,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
         <link>https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html</link>
         <description><![CDATA[&lt;p&gt;In 2025, Google, Amazon, Microsoft and Meta collectively spent US$380 billion on building artificial-intelligence tools. That number is expected to surge still higher this year, to $650 billion, to fund the building of physical infrastructure, such as data centers (see &lt;a href="https://go.nature.com/3lzf79q"&gt;go.nature.com/3lzf79q&lt;/a&gt;). Moreover, these firms are spending lavishly on one particular segment: top technical talent.&lt;/p&gt;
 &lt;p&gt;Meta reportedly offered a single AI researcher, who had cofounded a start-up firm focused on training AI agents to use computers, a compensation package of $250 million over four years (see ...&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -233,7 +238,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
 &lt;blockquote&gt;&lt;p&gt;&amp;#8230;iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings&amp;#8212;a level of government certification no other consumer mobile device has met.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This is out of the box, no modifications required.&lt;/p&gt;
 &lt;p&gt;Boing Boing &lt;a href="https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html"&gt;post&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -242,7 +247,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
         <link>https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html</link>
         <description><![CDATA[&lt;p&gt;Canada has a choice to make about its artificial intelligence future. The Carney administration is investing $2-billion over five years in its &lt;a href="https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy"&gt;Sovereign AI Compute Strategy&lt;/a&gt;. Will any value generated by &amp;#8220;sovereign AI&amp;#8221; be captured in Canada, making a difference in the lives of Canadians, or is this just a passthrough to investment in American Big Tech?&lt;/p&gt;
 &lt;p&gt;Forcing the question is OpenAI, the company behind ChatGPT, which has been pushing an &amp;#8220;OpenAI for Countries&amp;#8221; initiative. It is not the only one eyeing its share of the $2-billion, but it appears to be the most aggressive. OpenAI&amp;#8217;s top lobbyist in the region has met with Ottawa officials, including Artificial Intelligence Minister Evan Solomon...&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 
@@ -251,7 +256,7 @@ Someone jumped at the opportunity to steal $4.4 million in crypto assets after S
         <link>https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html</link>
         <description><![CDATA[&lt;p&gt;Countries around the world are becoming increasingly concerned about their dependencies on the US. If you&amp;#8217;ve purchase US-made F-35 fighter jets, you are dependent on the US for software maintenance.&lt;/p&gt;
 &lt;p&gt;The Dutch Defense Secretary recently &lt;a href="https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister"&gt;said&lt;/a&gt; that he could jailbreak the planes to accept third-party software.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 19 Mar 2026 11:16:57 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 11:31:52 GMT</pubDate>
     </item>
     
 </channel></rss>
