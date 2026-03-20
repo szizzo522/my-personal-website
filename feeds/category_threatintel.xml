@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] International joint action disrupts world’s largest DDoS botnets</title>
+        <link>https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/</link>
+        <description><![CDATA[Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things (IoT) devices. [...]]]></description>
+        <pubDate>Fri, 20 Mar 2026 11:04:36 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Bitrefill blames North Korean Lazarus group for cyberattack</title>
         <link>https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/</link>
         <description><![CDATA[Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]]]></description>
-        <pubDate>Fri, 20 Mar 2026 10:47:51 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 11:04:36 GMT</pubDate>
     </item>
     
 
@@ -17,15 +25,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Fri, 20 Mar 2026 10:47:51 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] EU Sanctions Companies in China, Iran for Cyberattacks</title>
-        <link>https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks</link>
-        <description><![CDATA[These rulings prohibit the entities from entering or doing business in the European Union.]]></description>
-        <pubDate>Fri, 20 Mar 2026 10:47:51 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 11:04:36 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,7 @@
         <title>[threat-intel] SideWinder Espionage Campaign Expands Across Southeast Asia</title>
         <link>https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</link>
         <description><![CDATA[The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.]]></description>
-        <pubDate>Fri, 20 Mar 2026 10:47:51 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 11:04:36 GMT</pubDate>
     </item>
     
 
@@ -41,7 +41,15 @@
         <title>[threat-intel] Russia establishes Vienna as key western spy hub targeting NATO</title>
         <link>https://securityaffairs.com/189653/intelligence/russia-establishes-vienna-as-key-western-spy-hub-targeting-nato.html</link>
         <description><![CDATA[Russia uses Vienna as its largest Western spy hub, monitoring NATO and other sensitive communications via diplomatic sites and satellite dishes. Western intelligence reports that Russia has transformed Vienna into its largest Western spy hub, steadily expanding surveillance over the past two years. Using diplomatic compounds and rooftop satellite clusters, Russia monitors sensitive communications across [&amp;#8230;]]]></description>
-        <pubDate>Fri, 20 Mar 2026 10:47:51 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 11:04:36 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Fri, 20 Mar 2026 11:04:36 GMT</pubDate>
     </item>
     
 </channel></rss>
