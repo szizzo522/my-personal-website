@@ -6,18 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] International joint action disrupts world’s largest DDoS botnets</title>
-        <link>https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/</link>
-        <description><![CDATA[Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things (IoT) devices. [...]]]></description>
-        <pubDate>Fri, 20 Mar 2026 23:03:30 GMT</pubDate>
+        <title>[threat-intel] FBI links Signal phishing attacks to Russian intelligence services</title>
+        <link>https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/</link>
+        <description><![CDATA[The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]]]></description>
+        <pubDate>Fri, 20 Mar 2026 23:13:26 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Fri, 20 Mar 2026 23:03:30 GMT</pubDate>
+        <title>[threat-intel] Ex-data analyst stole company data in $2.5M extortion scheme</title>
+        <link>https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/</link>
+        <description><![CDATA[A North Carolina man was found guilty of extorting a D.C.-based technology company while still being employed as a data analyst contractor. [...]]]></description>
+        <pubDate>Fri, 20 Mar 2026 23:13:26 GMT</pubDate>
     </item>
     
 
@@ -26,7 +26,16 @@
         <link>https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html</link>
         <description><![CDATA[The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.
 The effort also saw authorities from Canada and Germany targeting the operators behind these botnets, with a number of private]]></description>
-        <pubDate>Fri, 20 Mar 2026 23:03:30 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 23:13:26 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish &amp; More</title>
+        <link>https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html</link>
+        <description><![CDATA[ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn&amp;rsquo;t work anymore but still do.
+Some of it looks simple, almost sloppy, until you see how well it lands. Other bits feel a little too practical, like they&amp;rsquo;re already closer to real-world use than anyone]]></description>
+        <pubDate>Fri, 20 Mar 2026 23:13:26 GMT</pubDate>
     </item>
     
 
@@ -34,7 +43,16 @@ The effort also saw authorities from Canada and Germany targeting the operators 
         <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Fri, 20 Mar 2026 23:03:30 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 23:13:26 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Authorities disrupt four IoT botnets behind record DDoS attacks</title>
+        <link>https://www.helpnetsecurity.com/2026/03/20/us-disrupts-iot-botnets-ddos-attacks-aisuru-kimwolf/</link>
+        <description><![CDATA[&lt;p&gt;The U.S. Justice Department and international partners have disrupted four IoT botnets linked to DDoS attacks that reached 30 terabits per second, among the largest ever recorded.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/us-disrupts-iot-botnets-ddos-attacks-aisuru-kimwolf/"&gt;Authorities disrupt four IoT botnets behind record DDoS attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Fri, 20 Mar 2026 23:13:26 GMT</pubDate>
     </item>
     
 </channel></rss>
