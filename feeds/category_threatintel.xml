@@ -6,18 +6,19 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Fri, 20 Mar 2026 03:38:07 GMT</pubDate>
+        <title>[threat-intel] Bitrefill blames North Korean Lazarus group for cyberattack</title>
+        <link>https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/</link>
+        <description><![CDATA[Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]]]></description>
+        <pubDate>Fri, 20 Mar 2026 04:27:14 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
-        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Fri, 20 Mar 2026 03:38:07 GMT</pubDate>
+        <title>[threat-intel] ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish &amp; More</title>
+        <link>https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html</link>
+        <description><![CDATA[ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn&amp;rsquo;t work anymore but still do.
+Some of it looks simple, almost sloppy, until you see how well it lands. Other bits feel a little too practical, like they&amp;rsquo;re already closer to real-world use than anyone]]></description>
+        <pubDate>Fri, 20 Mar 2026 04:27:14 GMT</pubDate>
     </item>
     
 
@@ -26,7 +27,15 @@
         <link>https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html</link>
         <description><![CDATA[The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs.
 "The North Korean]]></description>
-        <pubDate>Fri, 20 Mar 2026 03:38:07 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 04:27:14 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] EU Sanctions Companies in China, Iran for Cyberattacks</title>
+        <link>https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks</link>
+        <description><![CDATA[These rulings prohibit the entities from entering or doing business in the European Union.]]></description>
+        <pubDate>Fri, 20 Mar 2026 04:27:14 GMT</pubDate>
     </item>
     
 
@@ -34,7 +43,7 @@
         <title>[threat-intel] SideWinder Espionage Campaign Expands Across Southeast Asia</title>
         <link>https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia</link>
         <description><![CDATA[The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.]]></description>
-        <pubDate>Fri, 20 Mar 2026 03:38:07 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 04:27:14 GMT</pubDate>
     </item>
     
 
@@ -42,7 +51,7 @@
         <title>[threat-intel] Russia establishes Vienna as key western spy hub targeting NATO</title>
         <link>https://securityaffairs.com/189653/intelligence/russia-establishes-vienna-as-key-western-spy-hub-targeting-nato.html</link>
         <description><![CDATA[Russia uses Vienna as its largest Western spy hub, monitoring NATO and other sensitive communications via diplomatic sites and satellite dishes. Western intelligence reports that Russia has transformed Vienna into its largest Western spy hub, steadily expanding surveillance over the past two years. Using diplomatic compounds and rooftop satellite clusters, Russia monitors sensitive communications across [&amp;#8230;]]]></description>
-        <pubDate>Fri, 20 Mar 2026 03:38:07 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 04:27:14 GMT</pubDate>
     </item>
     
 </channel></rss>
