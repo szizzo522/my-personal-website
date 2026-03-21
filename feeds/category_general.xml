@@ -9,7 +9,7 @@
         <title>[general] Google adds ‘Advanced Flow’ for safe APK sideloading on Android</title>
         <link>https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/</link>
         <description><![CDATA[Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[general] Police take down 373,000 fake CSAM sites in Operation Alice</title>
         <link>https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/</link>
         <description><![CDATA[An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[general] How CISOs Can Survive the Era of Geopolitical Cyberattacks</title>
         <link>https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/</link>
         <description><![CDATA[Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,7 @@
         <title>[general] Musician admits to $10M streaming royalty fraud using AI bots</title>
         <link>https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/</link>
         <description><![CDATA[North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -41,16 +41,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams</title>
-        <link>https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html</link>
-        <description><![CDATA[Google on Thursday announced a new "advanced flow" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety.
-The new changes come against the backdrop of a developer verification mandate the tech giant announced last year that requires all Android apps to be registered by verified developers to]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -58,7 +49,15 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks</title>
         <link>https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html</link>
         <description><![CDATA[Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional detection by impersonating normal user activity and bypassing legacy security models. As a result,]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] AI Conundrum: Why MCP Security Can't Be Patched Away</title>
+        <link>https://www.darkreading.com/application-security/mcp-security-patched</link>
+        <description><![CDATA[RSAC Conference Preview: MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says.]]></description>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -66,7 +65,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] With Government's Role Uncertain, Businesses Unite to Combat Fraud</title>
         <link>https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud</link>
         <description><![CDATA[Major industry leaders agree to share information and collaborate to boost defenses in the wake of distressing online scams.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -74,7 +73,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] Native Launches With Security Control Plane for Multicloud</title>
         <link>https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud</link>
         <description><![CDATA[The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -82,15 +81,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] Post-Quantum Web Could be Safer, Faster</title>
         <link>https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster</link>
         <description><![CDATA[Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to one-tenth their previous size, decreasing latency and adding transparency.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] EU Sanctions Companies in China, Iran for Cyberattacks</title>
-        <link>https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks</link>
-        <description><![CDATA[These rulings prohibit the entities from entering or doing business in the European Union.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -98,7 +89,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -106,7 +97,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -114,7 +105,15 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -122,7 +121,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -130,7 +129,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -138,15 +137,15 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] Navia data breach impacts nearly 2.7 Million people</title>
-        <link>https://securityaffairs.com/189726/data-breach/navia-data-breach-impacts-nearly-2-7-million-people.html</link>
-        <description><![CDATA[Navia Benefit Solutions data breach exposed 2.7M people after attackers accessed systems from December 2025 to January 2026. Navia Benefit Solutions disclosed a data breach affecting 2,697,540 individuals. The company detected suspicious activity on January 23, 2026 and quickly launched an investigation to assess the incident. Navia Benefit Solutions is a U.S.-based company that provides [&amp;#8230;]]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <title>[general] 7,500+ Magento sites defaced in global hacking campaign</title>
+        <link>https://securityaffairs.com/189734/hacking/7500-magento-sites-defaced-in-global-hacking-campaign.html</link>
+        <description><![CDATA[Hackers defaced 7,500 Magento sites since Feb 27, uploading files across 15,000 hostnames, mostly opportunistic attacks. Since February 27, a large-scale campaign has defaced over 7,500 Magento sites, targeting e-commerce platforms, global brands, and government services. According to cybersecurity firm Netcraft, attackers placed plaintext defacement files across more than 15,000 hostnames, directly compromising affected infrastructure. [&amp;#8230;]]]></description>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -154,7 +153,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] French aircraft carrier Charles de Gaulle tracked via Strava activity in OPSEC failure</title>
         <link>https://securityaffairs.com/189696/intelligence/french-aircraft-carrier-charles-de-gaulle-tracked-via-strava-activity-in-opsec-failure.html</link>
         <description><![CDATA[A French aircraft carrier was tracked in real time via a sailor’s Strava activity, exposing a persistent operational security flaw. Le Monde revealed that France’s aircraft carrier Charles de Gaulle was tracked in real time through an officer’s activity on the Strava app. A sailor unknowingly shared running data from the ship, exposing its location [&amp;#8230;]]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -162,7 +161,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] Student Loan Breach Exposes 2.5M Records</title>
         <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
         <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -170,25 +169,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Google slows Android sideloading to trip up scammers</title>
-        <link>https://www.helpnetsecurity.com/2026/03/20/android-advanced-flow-sideloading-steps/</link>
-        <description><![CDATA[&lt;p&gt;Google’s advanced flow for Android changes how apps from unverified developers are installed, adding steps to reduce scam-driven sideloading. The feature is aimed at experienced users and allows sideloading through a controlled, one-time setup. It addresses scam scenarios where attackers pressure individuals to install malicious software. In these cases, scammers often stay on the phone and guide victims step by step, pushing them to bypass security warnings and disable protections before they can pause or &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/20/android-advanced-flow-sideloading-steps/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/android-advanced-flow-sideloading-steps/"&gt;Google slows Android sideloading to trip up scammers&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Authorities disrupt four IoT botnets behind record DDoS attacks</title>
-        <link>https://www.helpnetsecurity.com/2026/03/20/us-disrupts-iot-botnets-ddos-attacks-aisuru-kimwolf/</link>
-        <description><![CDATA[&lt;p&gt;The U.S. Justice Department and international partners have disrupted four IoT botnets linked to DDoS attacks that reached 30 terabits per second, among the largest ever recorded.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/us-disrupts-iot-botnets-ddos-attacks-aisuru-kimwolf/"&gt;Authorities disrupt four IoT botnets behind record DDoS attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -197,7 +178,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <link>https://www.helpnetsecurity.com/2026/03/20/ai-music-streaming-fraud-guilty-plea/</link>
         <description><![CDATA[&lt;p&gt;Michael Smith, 54, of Cornelius, North Carolina, has pleaded guilty in federal court to running a scheme that exploited music streaming platforms and diverted royalty payments from artists. He admitted to one count of conspiracy to commit wire fraud, which carries a maximum sentence of five years in prison, and agreed to forfeit $8,091,843.64. According to U.S. Attorney for the Southern District of New York Jay Clayton, Smith used AI to generate hundreds of thousands &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/20/ai-music-streaming-fraud-guilty-plea/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/ai-music-streaming-fraud-guilty-plea/"&gt;Fake AI songs streamed billions of times, netting fraudster $10 million&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -206,7 +187,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <link>https://www.helpnetsecurity.com/2026/03/20/conductorone-ai-access-management-extension/</link>
         <description><![CDATA[&lt;p&gt;ConductorOne has announced its AI Access Management product extension, a unified control plane for managing access to AI tools, agents, and MCP connections across the enterprise. The platform enables organizations to accelerate AI adoption while maintaining full visibility, policy enforcement, and compliance. As AI tools proliferate across the enterprise, organizations face a critical challenge: 75% of knowledge workers use AI tools today, and 78% bring their own, creating massive shadow AI risk. Meanwhile, only 18% &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/20/conductorone-ai-access-management-extension/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/conductorone-ai-access-management-extension/"&gt;ConductorOne unveils AI Access Management to accelerate secure, compliant AI adoption&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -215,7 +196,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <link>https://www.helpnetsecurity.com/2026/03/20/bonfy-adaptive-content-security-acs-2-0-platform/</link>
         <description><![CDATA[&lt;p&gt;Bonfy.AI announced Bonfy Adaptive Content Security (Bonfy ACS) 2.0, a platform built to secure enterprise content across all systems, applications, and AI agents &amp;#8211; anywhere data moves, resides, or is processed. As organizations race to deploy copilots, custom AI apps, and increasingly autonomous AI agents, security leaders are struggling with blind spots around how these systems access, transform, and share sensitive data, gaps that legacy DLP and DSPM tools were never designed to handle. By &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/20/bonfy-adaptive-content-security-acs-2-0-platform/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/bonfy-adaptive-content-security-acs-2-0-platform/"&gt;Bonfy ACS 2.0 helps organizations control data use in AI environments&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -225,7 +206,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <description><![CDATA[&lt;p&gt;The population needs &lt;a href="https://www.pew.org/en/research-and-analysis/articles/2026/02/23/jumbo-flying-squid-need-conservation-action"&gt;better&lt;/a&gt; conservation.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -234,7 +215,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <link>https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html</link>
         <description><![CDATA[&lt;p&gt;404 Media has a &lt;a href="https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/"&gt;story&lt;/a&gt; about Proton Mail giving subscriber data to the Swiss government, who passed the information to the FBI.&lt;/p&gt;
 &lt;p&gt;It&amp;#8217;s metadata&amp;#8212;payment information related to a particular account&amp;#8212;but still important knowledge. This sort of thing happens, even to privacy-centric companies like Proton Mail.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -244,7 +225,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <description><![CDATA[&lt;p&gt;Surprising no one, Meta&amp;#8217;s new AI glasses are a &lt;a href="https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster"&gt;privacy disaster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not sure what can be done here. This is a technology that will exist, whether we like it or not.&lt;/p&gt;
 &lt;p&gt;Meanwhile, there is a new Android app that &lt;a href="https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"&gt;detects&lt;/a&gt; when there are smart glasses nearby.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -252,7 +233,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <title>[general] Possible New Result in Quantum Factorization</title>
         <link>https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</link>
         <description><![CDATA[&lt;p&gt;I&amp;#8217;m skeptical about&amp;#8212;and not qualified to review&amp;#8212;this &lt;a href="https://www.preprints.org/manuscript/202510.1649"&gt;new result&lt;/a&gt; in factorization with a quantum computer, but if it&amp;#8217;s true it&amp;#8217;s a &lt;a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/"&gt;theoretical improvement&lt;/a&gt; in the speed of factoring large numbers with a quantum computer.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -265,7 +246,7 @@ The new changes come against the backdrop of a developer verification mandate th
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rsaconference.com/usa"&gt;RSAC 2026&lt;/a&gt; in San Francisco, California, USA, on Wednesday, March 25, 2026.&lt;/li&gt;
 &lt;li&gt;I’m part of an event on “Canada and AI Sovereignty,” hosted by the University of Toronto’s &lt;a href="https://munkschool.utoronto.ca/event/canada-and-ai-sovereignty"&gt;Munk School of Global Affairs &amp;#38; Public Policy&lt;/a&gt;, which will be held online via Zoom at 4:00 PM ET on Monday, March 30, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.democracyxchange.org/"&gt;DemocracyXChange 2026...&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -275,7 +256,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <description><![CDATA[&lt;p&gt;Some &lt;a href="https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/"&gt;good news&lt;/a&gt;: squid stocks seem to be recovering in the waters off the Falkland Islands.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -284,7 +265,7 @@ The new changes come against the backdrop of a developer verification mandate th
         <link>https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html</link>
         <description><![CDATA[&lt;p&gt;In 2025, Google, Amazon, Microsoft and Meta collectively spent US$380 billion on building artificial-intelligence tools. That number is expected to surge still higher this year, to $650 billion, to fund the building of physical infrastructure, such as data centers (see &lt;a href="https://go.nature.com/3lzf79q"&gt;go.nature.com/3lzf79q&lt;/a&gt;). Moreover, these firms are spending lavishly on one particular segment: top technical talent.&lt;/p&gt;
 &lt;p&gt;Meta reportedly offered a single AI researcher, who had cofounded a start-up firm focused on training AI agents to use computers, a compensation package of $250 million over four years (see ...&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 
@@ -295,7 +276,7 @@ The new changes come against the backdrop of a developer verification mandate th
 &lt;blockquote&gt;&lt;p&gt;&amp;#8230;iPhone and iPad are the first and only consumer devices in compliance with the information assurance requirements of NATO nations. This enables iPhone and iPad to be used with classified information up to the NATO restricted level without requiring special software or settings&amp;#8212;a level of government certification no other consumer mobile device has met.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;This is out of the box, no modifications required.&lt;/p&gt;
 &lt;p&gt;Boing Boing &lt;a href="https://boingboing.net/2026/02/27/apples-iphones-and-ipads-are-the-first-consumer-devices-certified-for-nato-classified-data-without-any-modifications.html"&gt;post&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 21 Mar 2026 18:08:07 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 18:27:03 GMT</pubDate>
     </item>
     
 </channel></rss>
