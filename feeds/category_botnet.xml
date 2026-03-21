@@ -6,11 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[botnet] Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries</title>
-        <link>https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html</link>
-        <description><![CDATA[A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud.
-"SocksEscort infected home and small business internet routers with malware," the U.S. Department of Justice (DoJ) said. "The malware allowed SocksEscort to direct internet]]></description>
-        <pubDate>Sun, 15 Mar 2026 12:28:12 GMT</pubDate>
+        <title>[botnet] DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks</title>
+        <link>https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html</link>
+        <description><![CDATA[The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.
+The effort also saw authorities from Canada and Germany targeting the operators behind these botnets, with a number of private]]></description>
+        <pubDate>Sat, 21 Mar 2026 17:08:32 GMT</pubDate>
     </item>
     
 </channel></rss>
