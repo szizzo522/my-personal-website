@@ -9,7 +9,7 @@
         <title>[threat-intel] FBI links Signal phishing attacks to Russian intelligence services</title>
         <link>https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/</link>
         <description><![CDATA[The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]]]></description>
-        <pubDate>Sun, 22 Mar 2026 07:31:29 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 07:49:05 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sun, 22 Mar 2026 07:31:29 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 07:49:05 GMT</pubDate>
     </item>
     
 
@@ -26,7 +26,23 @@
         <link>https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</link>
         <description><![CDATA[Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.
 "The campaign]]></description>
-        <pubDate>Sun, 22 Mar 2026 07:31:29 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 07:49:05 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Sun, 22 Mar 2026 07:49:05 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Watering Hole Attacks Push ScanBox Keylogger</title>
+        <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+        <description><![CDATA[Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.]]></description>
+        <pubDate>Sun, 22 Mar 2026 07:49:05 GMT</pubDate>
     </item>
     
 </channel></rss>
