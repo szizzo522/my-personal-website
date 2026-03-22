@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] FBI links Signal phishing attacks to Russian intelligence services</title>
-        <link>https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/</link>
-        <description><![CDATA[The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]]]></description>
-        <pubDate>Sun, 22 Mar 2026 22:07:02 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Sun, 22 Mar 2026 22:07:02 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 22:25:53 GMT</pubDate>
     </item>
     
 
@@ -26,16 +18,23 @@
         <link>https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html</link>
         <description><![CDATA[The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.
 The effort also saw authorities from Canada and Germany targeting the operators behind these botnets, with a number of private]]></description>
-        <pubDate>Sun, 22 Mar 2026 22:07:02 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 22:25:53 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Authorities disrupt four IoT botnets behind record DDoS attacks</title>
-        <link>https://www.helpnetsecurity.com/2026/03/20/us-disrupts-iot-botnets-ddos-attacks-aisuru-kimwolf/</link>
-        <description><![CDATA[&lt;p&gt;The U.S. Justice Department and international partners have disrupted four IoT botnets linked to DDoS attacks that reached 30 terabits per second, among the largest ever recorded.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/20/us-disrupts-iot-botnets-ddos-attacks-aisuru-kimwolf/"&gt;Authorities disrupt four IoT botnets behind record DDoS attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sun, 22 Mar 2026 22:07:02 GMT</pubDate>
+        <title>[threat-intel] Russia-linked actors target WhatsApp and Signal in phishing campaign</title>
+        <link>https://securityaffairs.com/189808/intelligence/russia-linked-actors-target-whatsapp-and-signal-in-phishing-campaign.html</link>
+        <description><![CDATA[Russia-linked actors target WhatsApp and Signal accounts of officials and journalists via phishing, gaining access to messages and contacts. Threat actors linked to Russian Intelligence Services are running phishing campaigns to hijack high-value accounts on messaging apps like WhatsApp and Signal, the FBI warns. &amp;#8220;The FBI has identified cyber actors associated with Russian Intelligence Services targeting [&amp;#8230;]]]></description>
+        <pubDate>Sun, 22 Mar 2026 22:25:53 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sun, 22 Mar 2026 22:25:53 GMT</pubDate>
     </item>
     
 </channel></rss>
