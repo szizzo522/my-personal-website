@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] FBI warns of Handala hackers using Telegram in malware attacks</title>
+        <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/</link>
+        <description><![CDATA[The U.S. Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks. [...]]]></description>
+        <pubDate>Mon, 23 Mar 2026 22:16:04 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Mon, 23 Mar 2026 22:00:50 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 22:16:04 GMT</pubDate>
     </item>
     
 
@@ -17,15 +25,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 23 Mar 2026 22:00:50 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Mon, 23 Mar 2026 22:00:50 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 22:16:04 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,15 @@
         <title>[threat-intel] Pro-Iranian Nasir Security is targeting energy companies in the Gulf</title>
         <link>https://securityaffairs.com/189865/cyber-warfare-2/pro-iranian-nasir-security-is-targeting-energy-companies-in-the-gulf.html</link>
         <description><![CDATA[Resecurity tracks Iran-linked Nasir Security targeting Middle East energy firms amid ongoing regional cyber and military threats. Resecurity (USA) is tracking a relatively new cybercriminal group called Nasir Security, presumably associated with Iran, that is targeting energy organizations in the Middle East. The energy sector is one of the most impacted areas because of the [&amp;#8230;]]]></description>
-        <pubDate>Mon, 23 Mar 2026 22:00:50 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 22:16:04 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] International police Operation Alice take down 373,000 dark web sites exploiting children</title>
+        <link>https://securityaffairs.com/189828/uncategorized/international-police-operation-alice-take-down-373000-dark-web-sites-exploiting-children.html</link>
+        <description><![CDATA[Operation Alice: Police dismantle a massive dark web network with 373,000 fake sites luring users seeking child sexual abuse material. An international law enforcement operation, code named Operation Alice, shut down one of the largest dark web scams, uncovering over 373,000 fake sites tricking users seeking child sexual abuse content. The operation, first investigated in [&amp;#8230;]]]></description>
+        <pubDate>Mon, 23 Mar 2026 22:16:04 GMT</pubDate>
     </item>
     
 
@@ -41,16 +49,7 @@
         <title>[threat-intel] Russia-linked actors target WhatsApp and Signal in phishing campaign</title>
         <link>https://securityaffairs.com/189808/intelligence/russia-linked-actors-target-whatsapp-and-signal-in-phishing-campaign.html</link>
         <description><![CDATA[Russia-linked actors target WhatsApp and Signal accounts of officials and journalists via phishing, gaining access to messages and contacts. Threat actors linked to Russian Intelligence Services are running phishing campaigns to hijack high-value accounts on messaging apps like WhatsApp and Signal, the FBI warns. &amp;#8220;The FBI has identified cyber actors associated with Russian Intelligence Services targeting [&amp;#8230;]]]></description>
-        <pubDate>Mon, 23 Mar 2026 22:00:50 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Apiiro introduces AI Threat Modeling to identify risks before code exists</title>
-        <link>https://www.helpnetsecurity.com/2026/03/23/apiiro-ai-threat-modeling/</link>
-        <description><![CDATA[&lt;p&gt;Apiiro has announced AI Threat Modeling, a new capability within Apiiro Guardian Agent that automatically generates architecture-aware threat models to identify security and compliance risks before code exists. AI Threat Modeling allows enterprises to prevent risks at the speed of AI, whether developing first-party applications, delivering third-party applications to the cloud, or addressing the new attack surface created by AI capabilities embedded directly into these applications. Legacy threat modeling is broken. AI coding agents made &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/23/apiiro-ai-threat-modeling/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/23/apiiro-ai-threat-modeling/"&gt;Apiiro introduces AI Threat Modeling to identify risks before code exists&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 23 Mar 2026 22:00:50 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 22:16:04 GMT</pubDate>
     </item>
     
 </channel></rss>
