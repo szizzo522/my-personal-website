@@ -9,7 +9,15 @@
         <title>[threat-intel] FBI links Signal phishing attacks to Russian intelligence services</title>
         <link>https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/</link>
         <description><![CDATA[The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]]]></description>
-        <pubDate>Mon, 23 Mar 2026 09:23:00 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 09:51:27 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Mon, 23 Mar 2026 09:51:27 GMT</pubDate>
     </item>
     
 
@@ -17,7 +25,24 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 23 Mar 2026 09:23:00 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 09:51:27 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks</title>
+        <link>https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html</link>
+        <description><![CDATA[Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.
+"The campaign]]></description>
+        <pubDate>Mon, 23 Mar 2026 09:51:27 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Russia-linked actors target WhatsApp and Signal in phishing campaign</title>
+        <link>https://securityaffairs.com/189808/intelligence/russia-linked-actors-target-whatsapp-and-signal-in-phishing-campaign.html</link>
+        <description><![CDATA[Russia-linked actors target WhatsApp and Signal accounts of officials and journalists via phishing, gaining access to messages and contacts. Threat actors linked to Russian Intelligence Services are running phishing campaigns to hijack high-value accounts on messaging apps like WhatsApp and Signal, the FBI warns. &amp;#8220;The FBI has identified cyber actors associated with Russian Intelligence Services targeting [&amp;#8230;]]]></description>
+        <pubDate>Mon, 23 Mar 2026 09:51:27 GMT</pubDate>
     </item>
     
 
@@ -26,7 +51,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/23/russian-hackers-signal-phishing-campaign/</link>
         <description><![CDATA[&lt;p&gt;Russian intelligence-linked hackers are targeting commercial messaging platforms, with Signal a primary focus, the FBI and CISA warn. The campaign is aimed at individuals of intelligence interest, including government personnel, journalists, and others with access to sensitive communications. It is believed that the campaign has compromised thousands of commercial messaging applications accounts. People who use these applications can develop a false sense of security, believing they are protected from hacking. Criminals exploit this through phishing &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/23/russian-hackers-signal-phishing-campaign/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/23/russian-hackers-signal-phishing-campaign/"&gt;Russian hackers go after high-value targets through Signal&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 23 Mar 2026 09:23:00 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 09:51:27 GMT</pubDate>
     </item>
     
 </channel></rss>
