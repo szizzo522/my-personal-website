@@ -9,7 +9,7 @@
         <title>[general] Firefox now has a free built-in VPN with 50GB monthly data limit</title>
         <link>https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/</link>
         <description><![CDATA[Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[general] Microsoft fixes bug causing Classic Outlook sync issues with Gmail</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/</link>
         <description><![CDATA[​Microsoft has fixed a known issue causing Gmail and Yahoo email synchronization and connection problems for classic Outlook users. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[general] Zero Trust: Bridging the Gap Between Authentication and Trust</title>
         <link>https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/</link>
         <description><![CDATA[Passing MFA doesn't mean a session is safe, attackers can hijack tokens and bypass identity checks. Specops Software explains why Zero Trust must verify both user identity and device health. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -33,15 +33,7 @@
         <title>[general] HackerOne discloses employee data breach after Navia hack</title>
         <link>https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/</link>
         <description><![CDATA[Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U.S. benefits administrators. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Dutch Ministry of Finance discloses breach affecting employees</title>
-        <link>https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/</link>
-        <description><![CDATA[The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -49,7 +41,7 @@
         <title>[general] OpenAI rolls out ChatGPT Library to store your personal files</title>
         <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/</link>
         <description><![CDATA[OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -57,7 +49,15 @@
         <title>[general] Mazda discloses security breach exposing employee and partner data</title>
         <link>https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/</link>
         <description><![CDATA[Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -65,7 +65,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -73,7 +73,7 @@
         <title>[general] 5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents</title>
         <link>https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html</link>
         <description><![CDATA[On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, “a Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -82,7 +82,7 @@
         <link>https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html</link>
         <description><![CDATA[Cybersecurity has changed fast. Roles are more&amp;nbsp;specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. 
 These challenges do not]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -90,7 +90,7 @@ These challenges do not]]></description>
         <title>[general] How a Large Bank Uses AI Digital Twins for Threat Hunting</title>
         <link>https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting</link>
         <description><![CDATA[JPMorgan Chase uses digital fingerprints and digital twins to spot online attackers and malicious behaviors while also reducing pesky false alerts.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -98,7 +98,7 @@ These challenges do not]]></description>
         <title>[general] Microsoft Proposes Better Identity, Guardrails for AI Agents</title>
         <link>https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents</link>
         <description><![CDATA[Companies need better controls to manage key threats rising from the growth of agentic AI. These new features provide a starting point.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -106,7 +106,7 @@ These challenges do not]]></description>
         <title>[general] AI in the SOC: What Could Go Wrong?</title>
         <link>https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong</link>
         <description><![CDATA[Two cybersecurity leaders tested out AI in their respective SOCs for six months — and here's what they learned.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -114,7 +114,7 @@ These challenges do not]]></description>
         <title>[general] CISOs Debate Human Role in AI-Powered Security</title>
         <link>https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security</link>
         <description><![CDATA[The idea of a &amp;quot;human in the loop&amp;quot; in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -122,7 +122,7 @@ These challenges do not]]></description>
         <title>[general] AI Dominates RSAC Innovation Sandbox</title>
         <link>https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox</link>
         <description><![CDATA[Ten finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -130,7 +130,7 @@ These challenges do not]]></description>
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -138,7 +138,7 @@ These challenges do not]]></description>
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -146,7 +146,23 @@ These challenges do not]]></description>
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -154,7 +170,7 @@ These challenges do not]]></description>
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -162,7 +178,7 @@ These challenges do not]]></description>
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -170,15 +186,7 @@ These challenges do not]]></description>
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Data breach at Dutch Ministry of Finance impacts staff following cyberattack</title>
-        <link>https://securityaffairs.com/189929/data-breach/data-breach-at-dutch-ministry-of-finance-impacts-staff-following-cyberattack.html</link>
-        <description><![CDATA[Dutch Ministry of Finance disclosed a data breach affecting some employees following a cyberattack, investigation is ongoing. The Dutch Ministry of Finance disclosed a cyberattack detected on March 19 after a third-party alert. Attackers breached some internal systems, the incident impacted a &amp;#8220;portion of the employees&amp;#8221;. Authorities are still investigating the incident and its full [&amp;#8230;]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -186,7 +194,15 @@ These challenges do not]]></description>
         <title>[general] QualDerm Partners December 2025 data breach impacts over 3 Million people</title>
         <link>https://securityaffairs.com/189917/data-breach/qualderm-partners-december-2025-data-breach-impacts-over-3-million-people.html</link>
         <description><![CDATA[Over 3.1M people affected as QualDerm Partners suffered a December 2025 breach, exposing personal, medical, and health insurance data. Over 3.1 million people are affected by a December 2025 data breach at QualDerm Partners, where hackers stole personal, medical, and health insurance information from the company’s internal systems. QualDerm Partners is a U.S.-based healthcare management [&amp;#8230;]]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] International police Operation Alice take down 373,000 dark web sites exploiting children</title>
+        <link>https://securityaffairs.com/189828/uncategorized/international-police-operation-alice-take-down-373000-dark-web-sites-exploiting-children.html</link>
+        <description><![CDATA[Operation Alice: Police dismantle a massive dark web network with 373,000 fake sites luring users seeking child sexual abuse material. An international law enforcement operation, code named Operation Alice, shut down one of the largest dark web scams, uncovering over 373,000 fake sites tricking users seeking child sexual abuse content. The operation, first investigated in [&amp;#8230;]]]></description>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -194,7 +210,15 @@ These challenges do not]]></description>
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
+        <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+        <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -203,7 +227,7 @@ These challenges do not]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/24/united-states-foreign-routers-ban/</link>
         <description><![CDATA[&lt;p&gt;The US Federal Communications Commission (FCC) has imposed a ban on all new routers manufactured overseas being imported into and sold within the United States.&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/united-states-foreign-routers-ban/"&gt;Uncle Sam closes the door on all new foreign-made routers&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -212,16 +236,7 @@ These challenges do not]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/24/ai-agent-identity-security-systems/</link>
         <description><![CDATA[&lt;p&gt;Organizations have spent years accumulating fragmented identity systems: too many roles, too many credentials, too many disconnected tools. For a workforce of humans, that fragmentation was manageable. Humans log in, log out, and make decisions slowly enough that gaps in control rarely turned into immediate incidents. AI agents operate differently. &amp;#8220;AI agents change that completely,&amp;#8221; said Ev Kontsevoy, CEO of Teleport. &amp;#8220;Now you&amp;#8217;re introducing non-deterministic actors that don&amp;#8217;t sleep, don&amp;#8217;t follow predictable paths, and can &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/ai-agent-identity-security-systems/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/ai-agent-identity-security-systems/"&gt;The AI safety conversation is focused on the wrong layer&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Mimecast expands Incydr with runtime data security for AI and human risk</title>
-        <link>https://www.helpnetsecurity.com/2026/03/24/mimecast-runtime-data-security/</link>
-        <description><![CDATA[&lt;p&gt;Mimecast has announced a major expansion of its Incydr offering with new data security capabilities and a preview of the Agent Risk Center. These enhancements deliver runtime data security through a unified approach to detect, govern, and remediate data exposure in real time, whether driven by employees or agents acting on their behalf. Eighty percent of Fortune 500 companies now run active AI agents, yet only 14% have full security approval for them1. Enterprise data &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/mimecast-runtime-data-security/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/mimecast-runtime-data-security/"&gt;Mimecast expands Incydr with runtime data security for AI and human risk&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -230,7 +245,7 @@ These challenges do not]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/24/darktrace-managed-email-security-offering/</link>
         <description><![CDATA[&lt;p&gt;Darktrace has launched its managed security service for MSSPs, enabling partners to deliver AI-native email security with real-time detection, investigation, and response across the email ecosystem. The launch is supported by updates to the Darktrace Defenders Partner Program designed to provide flexibility and scalability for partners at every stage of their services maturity, helping them expand security offerings and deliver AI-native protection to customers around the world. Email threats continue to grow in sophistication as &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/darktrace-managed-email-security-offering/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/darktrace-managed-email-security-offering/"&gt;Darktrace expands MSSP offering with AI-driven managed email security&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -240,7 +255,7 @@ These challenges do not]]></description>
         <description><![CDATA[&lt;p&gt;Japan’s &lt;a href="https://theconversation.com/japans-ruling-party-secures-historic-election-victory-but-challenges-lie-ahead-275279" rel="noopener" target="_blank"&gt;election&lt;/a&gt; last month and the rise of the country’s newest and most innovative political party, &lt;a href="https://team-mir.ai/" rel="noopener" target="_blank"&gt;Team Mirai&lt;/a&gt;, illustrates the viability of a different way to do politics.&lt;/p&gt;
 &lt;p&gt;In this model, technology is used to make democratic processes stronger, instead of undermining them. It is harnessed to root out corruption, instead of serving as a cash cow for campaign donations.&lt;/p&gt;
 &lt;p&gt;Imagine an election where every voter has the opportunity to opine directly to politicians on precisely the issues they care about. They’re not expected to spend hours becoming policy experts. Instead, an ...&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -250,7 +265,7 @@ These challenges do not]]></description>
         <description><![CDATA[&lt;p&gt;The population needs &lt;a href="https://www.pew.org/en/research-and-analysis/articles/2026/02/23/jumbo-flying-squid-need-conservation-action"&gt;better&lt;/a&gt; conservation.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -259,7 +274,7 @@ These challenges do not]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html</link>
         <description><![CDATA[&lt;p&gt;404 Media has a &lt;a href="https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/"&gt;story&lt;/a&gt; about Proton Mail giving subscriber data to the Swiss government, who passed the information to the FBI.&lt;/p&gt;
 &lt;p&gt;It&amp;#8217;s metadata&amp;#8212;payment information related to a particular account&amp;#8212;but still important knowledge. This sort of thing happens, even to privacy-centric companies like Proton Mail.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -269,7 +284,7 @@ These challenges do not]]></description>
         <description><![CDATA[&lt;p&gt;Surprising no one, Meta&amp;#8217;s new AI glasses are a &lt;a href="https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster"&gt;privacy disaster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not sure what can be done here. This is a technology that will exist, whether we like it or not.&lt;/p&gt;
 &lt;p&gt;Meanwhile, there is a new Android app that &lt;a href="https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"&gt;detects&lt;/a&gt; when there are smart glasses nearby.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -277,7 +292,7 @@ These challenges do not]]></description>
         <title>[general] Possible New Result in Quantum Factorization</title>
         <link>https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</link>
         <description><![CDATA[&lt;p&gt;I&amp;#8217;m skeptical about&amp;#8212;and not qualified to review&amp;#8212;this &lt;a href="https://www.preprints.org/manuscript/202510.1649"&gt;new result&lt;/a&gt; in factorization with a quantum computer, but if it&amp;#8217;s true it&amp;#8217;s a &lt;a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/"&gt;theoretical improvement&lt;/a&gt; in the speed of factoring large numbers with a quantum computer.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -290,7 +305,7 @@ These challenges do not]]></description>
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rsaconference.com/usa"&gt;RSAC 2026&lt;/a&gt; in San Francisco, California, USA, on Wednesday, March 25, 2026.&lt;/li&gt;
 &lt;li&gt;I’m part of an event on “Canada and AI Sovereignty,” hosted by the University of Toronto’s &lt;a href="https://munkschool.utoronto.ca/event/canada-and-ai-sovereignty"&gt;Munk School of Global Affairs &amp;#38; Public Policy&lt;/a&gt;, which will be held online via Zoom at 4:00 PM ET on Monday, March 30, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.democracyxchange.org/"&gt;DemocracyXChange 2026...&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 
@@ -300,7 +315,7 @@ These challenges do not]]></description>
         <description><![CDATA[&lt;p&gt;Some &lt;a href="https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/"&gt;good news&lt;/a&gt;: squid stocks seem to be recovering in the waters off the Falkland Islands.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 20:21:25 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 20:47:40 GMT</pubDate>
     </item>
     
 </channel></rss>
