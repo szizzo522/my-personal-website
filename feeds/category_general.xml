@@ -9,7 +9,7 @@
         <title>[general] OpenAI rolls out ChatGPT Library to store your personal files</title>
         <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/</link>
         <description><![CDATA[OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[general] Varonis Atlas: Securing AI and the Data That Powers It</title>
         <link>https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/</link>
         <description><![CDATA[AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[general] Microsoft Exchange Online service change causes email access issues</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/</link>
         <description><![CDATA[Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. [...]]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,16 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills</title>
+        <link>https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html</link>
+        <description><![CDATA[Cybersecurity has changed fast. Roles are more&amp;nbsp;specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. 
+These challenges do not]]></description>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -42,7 +51,7 @@
         <link>https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html</link>
         <description><![CDATA[Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.
 This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -50,7 +59,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] AI in the SOC: What Could Go Wrong?</title>
         <link>https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong</link>
         <description><![CDATA[Two cybersecurity leaders tested out AI in their respective SOCs for six months — and here's what they learned.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -58,7 +67,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISOs Debate Human Role in AI-Powered Security</title>
         <link>https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security</link>
         <description><![CDATA[The idea of a &amp;quot;human in the loop&amp;quot; in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -66,15 +75,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] AI Dominates RSAC Innovation Sandbox</title>
         <link>https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox</link>
         <description><![CDATA[The 10 finalists will each have three minutes to make their case for being the most innovative, promising young security company of the year.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] AI Conundrum: Why MCP Security Can't Be Patched Away</title>
-        <link>https://www.darkreading.com/application-security/mcp-security-patched</link>
-        <description><![CDATA[RSAC Conference Preview: MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -82,7 +83,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -90,7 +91,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -98,7 +99,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -106,7 +107,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -114,7 +115,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -122,7 +123,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -130,7 +131,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -138,7 +139,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] International police Operation Alice take down 373,000 dark web sites exploiting children</title>
         <link>https://securityaffairs.com/189828/uncategorized/international-police-operation-alice-take-down-373000-dark-web-sites-exploiting-children.html</link>
         <description><![CDATA[Operation Alice: Police dismantle a massive dark web network with 373,000 fake sites luring users seeking child sexual abuse material. An international law enforcement operation, code named Operation Alice, shut down one of the largest dark web scams, uncovering over 373,000 fake sites tricking users seeking child sexual abuse content. The operation, first investigated in [&amp;#8230;]]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -146,15 +147,34 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
-        <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
-        <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <title>[general] SecurityScorecard automates third-party risk management with TITAN AI</title>
+        <link>https://www.helpnetsecurity.com/2026/03/24/securityscorecard-titan-ai/</link>
+        <description><![CDATA[&lt;p&gt;SecurityScorecard has introduced TITAN AI to automate third-party risk management, replacing manual processes with continuous, AI-driven intelligence. TITAN AI is built on top of SecurityScorecard’s Ratings and TPRM platform with AI-driven technology and enhanced threat intelligence, delivering a powerful solution built for the demands of today’s risk landscape. With TITAN AI, organizations will be able to automate the majority of the work traditionally required to manage vendor risk. TPRM, security, and risk teams will reclaim &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/securityscorecard-titan-ai/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/securityscorecard-titan-ai/"&gt;SecurityScorecard automates third-party risk management with TITAN AI&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Lumu enhances Defender to detect compromise across network, cloud, endpoint, and identity</title>
+        <link>https://www.helpnetsecurity.com/2026/03/24/lumu-enhances-defender-to-detect-compromise-across-network-cloud-endpoint-and-identity/</link>
+        <description><![CDATA[&lt;p&gt;Lumu has upgraded its Lumu Defender NDR solution, extending Continuous Compromise Assessment beyond the network to include endpoints, cloud environments, and user behavior for unified visibility. The past year marks a strategic shift in attack methods, with threat actors pivoting from high-profile malware to increasingly sophisticated, stealth-based tactics. The increase of AI-driven security attacks, attackers using legitimate tools instead of malware, and attackers quietly using cloud applications for exfiltration, creates more opportunities for criminals to &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/lumu-enhances-defender-to-detect-compromise-across-network-cloud-endpoint-and-identity/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/lumu-enhances-defender-to-detect-compromise-across-network-cloud-endpoint-and-identity/"&gt;Lumu enhances Defender to detect compromise across network, cloud, endpoint, and identity&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Tuskira replaces centralized detection model with real-time, distributed approach</title>
+        <link>https://www.helpnetsecurity.com/2026/03/24/tuskira-federated-detection-engin/</link>
+        <description><![CDATA[&lt;p&gt;Tuskira has released its Federated Detection Engine, a new capability within its Agentic SecOps platform that enables real-time threat detection across cloud, identity, endpoint, network, SaaS, infrastructure, and legacy SIEM environments, without relying on centralized logging. Detection engineering still depends on centralized log architectures and manual rule authoring. That model is expensive to scale, slow to adapt, and increasingly misaligned with how modern attacks move across distributed environments. Tuskira takes a different approach by bringing &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/tuskira-federated-detection-engin/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/tuskira-federated-detection-engin/"&gt;Tuskira replaces centralized detection model with real-time, distributed approach&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -163,7 +183,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <link>https://www.helpnetsecurity.com/2026/03/24/zenity-ai-agents-contextual-security/</link>
         <description><![CDATA[&lt;p&gt;Zenity has unveiled continuous, contextual security for AI agents, a new approach that transforms how enterprise AI systems are secured and sets the foundation for Guardian Agents. According to Gartner, “Guardian Agents represent the next evolution in AI governance, shifting from passive monitoring to active, real-time protection of AI systems.” Zenity’s continuous, contextual security delivers the foundational capabilities required to enable this shift. AI agent risk doesn’t emerge in a single moment. It develops over &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/zenity-ai-agents-contextual-security/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/zenity-ai-agents-contextual-security/"&gt;Zenity advances context-aware security for AI agents&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -172,7 +192,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <link>https://www.helpnetsecurity.com/2026/03/24/coro-expanded-ai-driven-security-operations-capabilities/</link>
         <description><![CDATA[&lt;p&gt;Coro has expanded AI-driven security operations capabilities that automate the full lifecycle of threat detection and response, enabling organizations to identify, investigate, and remediate security incidents without manual intervention. The announcement builds on Coro’s intrinsic use of AI across its platform and introduces deeper automation across security workflows, including cross-module response actions and SOC-level task execution. Over the past year, 92.3% of all security tickets generated globally on the Coro platform were automatically handled and &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/coro-expanded-ai-driven-security-operations-capabilities/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/coro-expanded-ai-driven-security-operations-capabilities/"&gt;Coro automates security operations with end-to-end threat detection and response&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -181,7 +201,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <link>https://www.helpnetsecurity.com/2026/03/24/zerotier-quantum/</link>
         <description><![CDATA[&lt;p&gt;ZeroTier has launched ZeroTier Quantum, a software-defined networking platform designed for data center–level performance and built with quantum-resistant cryptography aligned with NIST and NSA CNSA 2.0 standards. Organizations operate far beyond network boundaries, autonomous devices, machines, vehicles, agents, and infrastructure span continents, oceans, and remote environments, constantly transmitting sensitive data that must stay secure. At the same time, AI leverage and quantum computing are ushering in a new class of risk: encrypted data captured today &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/zerotier-quantum/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/zerotier-quantum/"&gt;ZeroTier Quantum brings quantum-resistant security to high-performance global networking&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -190,7 +210,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <link>https://www.helpnetsecurity.com/2026/03/24/dell-cyber-resilience-capabilities/</link>
         <description><![CDATA[&lt;p&gt;Dell Technologies has introduced new security by design and cyber resilience capabilities to help organizations secure, detect and recover from next-generation threats. The enhancements address emerging risks from quantum computing and AI by hardening device foundations, strengthening cyber resilience when incidents occur and extending threat detection into AI data platforms. Why it matters AI is creating more valuable data and giving attackers new ways to move faster. Quantum computing will accelerate that shift by weakening &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/dell-cyber-resilience-capabilities/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/dell-cyber-resilience-capabilities/"&gt;Dell expands security stack with quantum-ready protections and AI threat detection&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -199,34 +219,17 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <link>https://www.helpnetsecurity.com/2026/03/24/cisco-ai-security-solutions/</link>
         <description><![CDATA[&lt;p&gt;Cisco has introduced solutions to address AI security issues and remove a top barrier to agent adoption. By establishing trusted identities, enforcing strict zero trust Access controls, hardening agents before deployment, enforcing guardrails at runtime, and giving SOC teams the tools to stop threats at machine speed, Cisco is building security into the foundation of the emerging AI economy. “AI agents aren&amp;#8217;t just making existing work faster; they&amp;#8217;re a new workforce of co-workers that dramatically &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/cisco-ai-security-solutions/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/cisco-ai-security-solutions/"&gt;Cisco builds security framework for safe enterprise adoption of AI agents&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] RSA ID Plus Sovereign Deployment delivers full-stack identity for  high-risk environments</title>
-        <link>https://www.helpnetsecurity.com/2026/03/24/rsa-id-plus-sovereign-deployment/</link>
-        <description><![CDATA[&lt;p&gt;RSA has unveiled RSA ID Plus Sovereign Deployment, a high-assurance identity solution built for organizations requiring continuous availability, data sovereignty, and resilience against advanced threats. RSA ID Plus Sovereign Deployment is the next evolution in RSA ID Plus, the identity and access management (IAM) security platform featuring complete multi-factor authentication (MFA), SSO, and access capabilities. RSA ID Plus Sovereign Deployment features a new “deploy anywhere” capability that allows government agencies, financial services, critical infrastructure, and &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/rsa-id-plus-sovereign-deployment/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/rsa-id-plus-sovereign-deployment/"&gt;RSA ID Plus Sovereign Deployment delivers full-stack identity for  high-risk environments&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Palo Alto Networks’ Prisma AIRS 3.0 closes visibility gaps in autonomous AI systems</title>
-        <link>https://www.helpnetsecurity.com/2026/03/24/palo-alto-networks-prisma-airs-3-0-closes-visibility-gaps-in-autonomous-ai-systems/</link>
-        <description><![CDATA[&lt;p&gt;Palo Alto Networks has advanced its AI security platform with Prisma AIRS 3.0, securing the agentic AI lifecycle and enabling enterprises to move from observation to safe autonomous execution. The shift toward an AI-powered enterprise introduces systemic security challenges, ranging from unmanaged shadow AI to the critical new frontiers of agentic identity, runtime security, and automated governance. While many enterprises monitor what AI says, they remain blind to what AI does. Prisma AIRS 3.0 closes &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/palo-alto-networks-prisma-airs-3-0-closes-visibility-gaps-in-autonomous-ai-systems/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/palo-alto-networks-prisma-airs-3-0-closes-visibility-gaps-in-autonomous-ai-systems/"&gt;Palo Alto Networks’ Prisma AIRS 3.0 closes visibility gaps in autonomous AI systems&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Relyance AI’s Lyo addresses data security gaps in autonomous systems</title>
-        <link>https://www.helpnetsecurity.com/2026/03/24/relyance-ai-lyo/</link>
-        <description><![CDATA[&lt;p&gt;Relyance AI has announced the commercial availability of Lyo, an autonomous data defense engineer that monitors and secures how AI agents interact with enterprise data. Lyo emerges at an inflection point for the cybersecurity industry as autonomous AI agents spread across enterprise environments, gaining access to sensitive data, triggering workflows, provisioning infrastructure, and calling APIs at machine speed. The challenge is no longer locating sensitive data, but understanding how it is being used in real &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/24/relyance-ai-lyo/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/24/relyance-ai-lyo/"&gt;Relyance AI’s Lyo addresses data security gaps in autonomous systems&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <title>[general] Team Mirai and Democracy</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html</link>
+        <description><![CDATA[&lt;p&gt;Japan’s &lt;a href="https://theconversation.com/japans-ruling-party-secures-historic-election-victory-but-challenges-lie-ahead-275279" rel="noopener" target="_blank"&gt;election&lt;/a&gt; last month and the rise of the country’s newest and most innovative political party, &lt;a href="https://team-mir.ai/" rel="noopener" target="_blank"&gt;Team Mirai&lt;/a&gt;, illustrates the viability of a different way to do politics.&lt;/p&gt;
+&lt;p&gt;In this model, technology is used to make democratic processes stronger, instead of undermining them. It is harnessed to root out corruption, instead of serving as a cash cow for campaign donations.&lt;/p&gt;
+&lt;p&gt;Imagine an election where every voter has the opportunity to opine directly to politicians on precisely the issues they care about. They’re not expected to spend hours becoming policy experts. Instead, an ...&lt;/p&gt;]]></description>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -236,7 +239,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <description><![CDATA[&lt;p&gt;The population needs &lt;a href="https://www.pew.org/en/research-and-analysis/articles/2026/02/23/jumbo-flying-squid-need-conservation-action"&gt;better&lt;/a&gt; conservation.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -245,7 +248,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <link>https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html</link>
         <description><![CDATA[&lt;p&gt;404 Media has a &lt;a href="https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/"&gt;story&lt;/a&gt; about Proton Mail giving subscriber data to the Swiss government, who passed the information to the FBI.&lt;/p&gt;
 &lt;p&gt;It&amp;#8217;s metadata&amp;#8212;payment information related to a particular account&amp;#8212;but still important knowledge. This sort of thing happens, even to privacy-centric companies like Proton Mail.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -255,7 +258,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <description><![CDATA[&lt;p&gt;Surprising no one, Meta&amp;#8217;s new AI glasses are a &lt;a href="https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster"&gt;privacy disaster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not sure what can be done here. This is a technology that will exist, whether we like it or not.&lt;/p&gt;
 &lt;p&gt;Meanwhile, there is a new Android app that &lt;a href="https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"&gt;detects&lt;/a&gt; when there are smart glasses nearby.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -263,7 +266,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <title>[general] Possible New Result in Quantum Factorization</title>
         <link>https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html</link>
         <description><![CDATA[&lt;p&gt;I&amp;#8217;m skeptical about&amp;#8212;and not qualified to review&amp;#8212;this &lt;a href="https://www.preprints.org/manuscript/202510.1649"&gt;new result&lt;/a&gt; in factorization with a quantum computer, but if it&amp;#8217;s true it&amp;#8217;s a &lt;a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/"&gt;theoretical improvement&lt;/a&gt; in the speed of factoring large numbers with a quantum computer.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -276,7 +279,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rsaconference.com/usa"&gt;RSAC 2026&lt;/a&gt; in San Francisco, California, USA, on Wednesday, March 25, 2026.&lt;/li&gt;
 &lt;li&gt;I’m part of an event on “Canada and AI Sovereignty,” hosted by the University of Toronto’s &lt;a href="https://munkschool.utoronto.ca/event/canada-and-ai-sovereignty"&gt;Munk School of Global Affairs &amp;#38; Public Policy&lt;/a&gt;, which will be held online via Zoom at 4:00 PM ET on Monday, March 30, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.democracyxchange.org/"&gt;DemocracyXChange 2026...&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 
@@ -286,16 +289,7 @@ This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, 
         <description><![CDATA[&lt;p&gt;Some &lt;a href="https://www.undercurrentnews.com/2026/02/26/encouraging-scientific-survey-boosts-hopes-for-south-atlantic-squid-fishery/"&gt;good news&lt;/a&gt;: squid stocks seem to be recovering in the waters off the Falkland Islands.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Academia and the “AI Brain Drain”</title>
-        <link>https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html</link>
-        <description><![CDATA[&lt;p&gt;In 2025, Google, Amazon, Microsoft and Meta collectively spent US$380 billion on building artificial-intelligence tools. That number is expected to surge still higher this year, to $650 billion, to fund the building of physical infrastructure, such as data centers (see &lt;a href="https://go.nature.com/3lzf79q"&gt;go.nature.com/3lzf79q&lt;/a&gt;). Moreover, these firms are spending lavishly on one particular segment: top technical talent.&lt;/p&gt;
-&lt;p&gt;Meta reportedly offered a single AI researcher, who had cofounded a start-up firm focused on training AI agents to use computers, a compensation package of $250 million over four years (see ...&lt;/p&gt;]]></description>
-        <pubDate>Tue, 24 Mar 2026 10:35:12 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 11:07:11 GMT</pubDate>
     </item>
     
 </channel></rss>
