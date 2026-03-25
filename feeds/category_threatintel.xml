@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Wed, 25 Mar 2026 22:46:59 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 25 Mar 2026 22:46:59 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 23:03:32 GMT</pubDate>
     </item>
     
 
@@ -26,7 +18,15 @@
         <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
         <description><![CDATA[In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.
 This incident is worrying, but there's a scenario that should]]></description>
-        <pubDate>Wed, 25 Mar 2026 22:46:59 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 23:03:32 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Cybercrime group Lapsus$ claims the hack of pharma giant AstraZeneca</title>
+        <link>https://securityaffairs.com/189936/data-breach/cybercrime-group-lapsus-claims-the-hack-of-pharma-giant-astrazeneca.html</link>
+        <description><![CDATA[Cybercrime group Lapsus$ claims it hacked AstraZeneca, stealing 3GB of data including credentials, code, and employee information. The Lapsus$ group claims it breached AstraZeneca, stealing about 3GB of sensitive data. The alleged leak includes credentials, tokens, internal code repositories (Java, Angular, Python), and employee information, though the company has not yet confirmed the breach. Even [&amp;#8230;]]]></description>
+        <pubDate>Wed, 25 Mar 2026 23:03:32 GMT</pubDate>
     </item>
     
 
@@ -35,7 +35,7 @@ This incident is worrying, but there's a scenario that should]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/25/google-dark-web-intelligence-capability/</link>
         <description><![CDATA[&lt;p&gt;To help teams make faster and more accurate decisions on emerging threats, Google has introduced a dark web intelligence capability in Google Threat Intelligence. Powered by Gemini, the feature analyzes millions of dark web events each day and surfaces threats relevant to an organization’s operations. “Instead of requiring your team to manually input and update keywords, our new dark web intelligence capability uses Gemini to autonomously build an organizational profile that is specific to your &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/25/google-dark-web-intelligence-capability/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/25/google-dark-web-intelligence-capability/"&gt;Gemini picks up criminal activity buried in dark web noise&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 25 Mar 2026 22:46:59 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 23:03:32 GMT</pubDate>
     </item>
     
 </channel></rss>
