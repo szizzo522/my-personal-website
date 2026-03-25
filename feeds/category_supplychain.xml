@@ -10,7 +10,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/25/teampcp-supply-chain-attacks/</link>
         <description><![CDATA[&lt;p&gt;A slew of supply chain attacks against popular open source tools and packages appears to have been orchestrated by TeamPCP, a cybercriminal group that rose to prominence in late 2025. The latest victim of the group is BerryAI&amp;#8217;s popular LiteLLM library, a unified interface that makes it easier for apps to switch between various LLMs: on March 24, TeamPCP uploaded two compromised versions (1.82.7 and 1.82.8) on PyPI that included a credential stealer and a &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/25/teampcp-supply-chain-attacks/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/25/teampcp-supply-chain-attacks/"&gt;LiteLLM PyPI packages compromised in expanding TeamPCP supply chain attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 25 Mar 2026 16:28:09 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 17:24:40 GMT</pubDate>
     </item>
     
 </channel></rss>
