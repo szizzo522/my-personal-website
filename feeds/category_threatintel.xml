@@ -6,10 +6,26 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Infinite Campus warns of breach after ShinyHunters claims data theft</title>
+        <link>https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/</link>
+        <description><![CDATA[Infinite Campus, a widely used K-12 student information system, is warning customers of a data breach following an extortion attempt by a threat actor. [...]]]></description>
+        <pubDate>Wed, 25 Mar 2026 09:36:32 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Wed, 25 Mar 2026 09:36:32 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 25 Mar 2026 09:06:56 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 09:36:32 GMT</pubDate>
     </item>
     
 
@@ -17,7 +33,27 @@
         <title>[threat-intel] Pro-Iranian Nasir Security is targeting energy companies in the Gulf</title>
         <link>https://securityaffairs.com/189865/cyber-warfare-2/pro-iranian-nasir-security-is-targeting-energy-companies-in-the-gulf.html</link>
         <description><![CDATA[Resecurity tracks Iran-linked Nasir Security targeting Middle East energy firms amid ongoing regional cyber and military threats. Resecurity (USA) is tracking a relatively new cybercriminal group called Nasir Security, presumably associated with Iran, that is targeting energy organizations in the Middle East. The energy sector is one of the most impacted areas because of the [&amp;#8230;]]]></description>
-        <pubDate>Wed, 25 Mar 2026 09:06:56 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 09:36:32 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Wed, 25 Mar 2026 09:36:32 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] South Korean Police Accidentally Post Cryptocurrency Wallet Password</title>
+        <link>https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html</link>
+        <description><![CDATA[&lt;p&gt;An expensive &lt;a href="https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/"&gt;mistake&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Someone jumped at the opportunity to steal $4.4 million in crypto assets after South Korea&amp;#8217;s National Tax Service exposed publicly the mnemonic recovery phrase of a seized cryptocurrency wallet.&lt;/p&gt;
+&lt;p&gt;The funds were stored in a Ledger cold wallet seized in law enforcement raids at 124 high-value tax evaders that resulted in confiscating digital assets worth 8.1 billion won (currently approximately $5.6 million).&lt;/p&gt;
+&lt;p&gt;When announcing the success of the operation, the agency released photos of a Ledger device, a popular hardware wallet for crypto storage and management...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
+        <pubDate>Wed, 25 Mar 2026 09:36:32 GMT</pubDate>
     </item>
     
 </channel></rss>
