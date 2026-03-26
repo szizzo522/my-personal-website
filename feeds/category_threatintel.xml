@@ -9,7 +9,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 26 Mar 2026 07:10:55 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 07:42:22 GMT</pubDate>
     </item>
     
 
@@ -18,7 +18,7 @@
         <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
         <description><![CDATA[In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.
 This incident is worrying, but there's a scenario that should]]></description>
-        <pubDate>Thu, 26 Mar 2026 07:10:55 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 07:42:22 GMT</pubDate>
     </item>
     
 
@@ -26,7 +26,15 @@ This incident is worrying, but there's a scenario that should]]></description>
         <title>[threat-intel] Cybercrime group Lapsus$ claims the hack of pharma giant AstraZeneca</title>
         <link>https://securityaffairs.com/189936/data-breach/cybercrime-group-lapsus-claims-the-hack-of-pharma-giant-astrazeneca.html</link>
         <description><![CDATA[Cybercrime group Lapsus$ claims it hacked AstraZeneca, stealing 3GB of data including credentials, code, and employee information. The Lapsus$ group claims it breached AstraZeneca, stealing about 3GB of sensitive data. The alleged leak includes credentials, tokens, internal code repositories (Java, Angular, Python), and employee information, though the company has not yet confirmed the breach. Even [&amp;#8230;]]]></description>
-        <pubDate>Thu, 26 Mar 2026 07:10:55 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 07:42:22 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Thu, 26 Mar 2026 07:42:22 GMT</pubDate>
     </item>
     
 
@@ -35,7 +43,7 @@ This incident is worrying, but there's a scenario that should]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/25/google-dark-web-intelligence-capability/</link>
         <description><![CDATA[&lt;p&gt;To help teams make faster and more accurate decisions on emerging threats, Google has introduced a dark web intelligence capability in Google Threat Intelligence. Powered by Gemini, the feature analyzes millions of dark web events each day and surfaces threats relevant to an organization’s operations. “Instead of requiring your team to manually input and update keywords, our new dark web intelligence capability uses Gemini to autonomously build an organizational profile that is specific to your &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/25/google-dark-web-intelligence-capability/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/25/google-dark-web-intelligence-capability/"&gt;Gemini picks up criminal activity buried in dark web noise&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 26 Mar 2026 07:10:55 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 07:42:22 GMT</pubDate>
     </item>
     
 </channel></rss>
