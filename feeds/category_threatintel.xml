@@ -6,26 +6,19 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] UK sanctions Xinbi marketplace linked to Asian scam centers</title>
-        <link>https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/</link>
-        <description><![CDATA[The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]]]></description>
-        <pubDate>Thu, 26 Mar 2026 18:09:06 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Russia arrests suspected owner of LeakBase cybercrime forum</title>
-        <link>https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/</link>
-        <description><![CDATA[Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]]]></description>
-        <pubDate>Thu, 26 Mar 2026 18:09:06 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 26 Mar 2026 18:09:06 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 18:38:58 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] The Kill Chain Is Obsolete When Your AI Agent Is the Threat</title>
+        <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
+        <description><![CDATA[In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.
+This incident is worrying, but there's a scenario that should]]></description>
+        <pubDate>Thu, 26 Mar 2026 18:38:58 GMT</pubDate>
     </item>
     
 
@@ -33,7 +26,7 @@
         <title>[threat-intel] Intermediaries Driving Global Spyware Market Expansion</title>
         <link>https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion</link>
         <description><![CDATA[Third-party resellers and brokers foil transparency efforts and allow spyware to spread despite government restrictions, a study finds.]]></description>
-        <pubDate>Thu, 26 Mar 2026 18:09:06 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 18:38:58 GMT</pubDate>
     </item>
     
 
@@ -41,7 +34,15 @@
         <title>[threat-intel] Cybercrime group Lapsus$ claims the hack of pharma giant AstraZeneca</title>
         <link>https://securityaffairs.com/189936/data-breach/cybercrime-group-lapsus-claims-the-hack-of-pharma-giant-astrazeneca.html</link>
         <description><![CDATA[Cybercrime group Lapsus$ claims it hacked AstraZeneca, stealing 3GB of data including credentials, code, and employee information. The Lapsus$ group claims it breached AstraZeneca, stealing about 3GB of sensitive data. The alleged leak includes credentials, tokens, internal code repositories (Java, Angular, Python), and employee information, though the company has not yet confirmed the breach. Even [&amp;#8230;]]]></description>
-        <pubDate>Thu, 26 Mar 2026 18:09:06 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 18:38:58 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Thu, 26 Mar 2026 18:38:58 GMT</pubDate>
     </item>
     
 </channel></rss>
