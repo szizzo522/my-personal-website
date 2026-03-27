@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Russia arrests suspected owner of LeakBase cybercrime forum</title>
+        <link>https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/</link>
+        <description><![CDATA[Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]]]></description>
+        <pubDate>Fri, 27 Mar 2026 05:42:38 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Fri, 27 Mar 2026 05:01:49 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 05:42:38 GMT</pubDate>
     </item>
     
 
@@ -17,16 +25,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Fri, 27 Mar 2026 05:01:49 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace</title>
-        <link>https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html</link>
-        <description><![CDATA[The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.
-According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect is said to have been detained for creating and managing a criminal site that allowed stolen]]></description>
-        <pubDate>Fri, 27 Mar 2026 05:01:49 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 05:42:38 GMT</pubDate>
     </item>
     
 
@@ -35,15 +34,15 @@ According to TASS and MVD Media, a news website linked to the Russian Interior M
         <link>https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html</link>
         <description><![CDATA[In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed.
 This incident is worrying, but there's a scenario that should]]></description>
-        <pubDate>Fri, 27 Mar 2026 05:01:49 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 05:42:38 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
-        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
-        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Fri, 27 Mar 2026 05:01:49 GMT</pubDate>
+        <title>[threat-intel] Cybercrime group Lapsus$ claims the hack of pharma giant AstraZeneca</title>
+        <link>https://securityaffairs.com/189936/data-breach/cybercrime-group-lapsus-claims-the-hack-of-pharma-giant-astrazeneca.html</link>
+        <description><![CDATA[Cybercrime group Lapsus$ claims it hacked AstraZeneca, stealing 3GB of data including credentials, code, and employee information. The Lapsus$ group claims it breached AstraZeneca, stealing about 3GB of sensitive data. The alleged leak includes credentials, tokens, internal code repositories (Java, Angular, Python), and employee information, though the company has not yet confirmed the breach. Even [&amp;#8230;]]]></description>
+        <pubDate>Fri, 27 Mar 2026 05:42:38 GMT</pubDate>
     </item>
     
 </channel></rss>
