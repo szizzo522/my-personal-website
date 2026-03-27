@@ -9,7 +9,7 @@
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Fri, 27 Mar 2026 12:34:23 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 13:10:50 GMT</pubDate>
     </item>
     
 
@@ -17,23 +17,16 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Fri, 27 Mar 2026 12:34:23 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 13:10:50 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Fri, 27 Mar 2026 12:34:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Russian authorities arrest alleged LeakBase admin behind stolen data marketplace</title>
-        <link>https://securityaffairs.com/189994/cyber-crime/russian-authorities-arrest-alleged-leakbase-admin-behind-stolen-data-marketplace.html</link>
-        <description><![CDATA[Russian authorities arrested the alleged LeakBase admin for running a marketplace selling stolen data since 2021. Russian law enforcement has arrested the suspected administrator of LeakBase, a cybercrime forum used to trade stolen personal data. The suspect, from Taganrog, is accused of running the platform since 2021. During a search of his home, authorities seized [&amp;#8230;]]]></description>
-        <pubDate>Fri, 27 Mar 2026 12:34:23 GMT</pubDate>
+        <title>[threat-intel] China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks</title>
+        <link>https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html</link>
+        <description><![CDATA[A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.
+The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,]]></description>
+        <pubDate>Fri, 27 Mar 2026 13:10:50 GMT</pubDate>
     </item>
     
 </channel></rss>
