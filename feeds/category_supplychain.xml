@@ -10,7 +10,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/</link>
         <description><![CDATA[&lt;p&gt;TeamPCP continues is supply chain compromise rampage, with telnyx on PyPI being the latest maliciously modified package. What happened? Telnyx is a widely used software development kit (SDK) for the Telnyx AI Voice Agent service. According to Endor Labs researchers, attackers backdoored the legitimate SDK code and published versions 4.87.1 and 4.87.2 of the package on the Python Package Index (PyPI), one shortly after the other. The malicious code wasn&amp;#8217;t functional in the first version &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/"&gt;TeamPCP strikes again: Backdoored Telnyx PyPI package delivers malware&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 28 Mar 2026 14:12:46 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 21:27:08 GMT</pubDate>
     </item>
     
 </channel></rss>
