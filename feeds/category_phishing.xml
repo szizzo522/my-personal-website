@@ -6,10 +6,12 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[phishing] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
-        <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-        <description><![CDATA[Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.]]></description>
-        <pubDate>Fri, 27 Mar 2026 22:15:56 GMT</pubDate>
+        <title>[phishing] AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion</title>
+        <link>https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html</link>
+        <description><![CDATA[Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.
+Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware.
+"TikTok has been historically abused to distribute]]></description>
+        <pubDate>Sat, 28 Mar 2026 07:34:56 GMT</pubDate>
     </item>
     
 </channel></rss>
