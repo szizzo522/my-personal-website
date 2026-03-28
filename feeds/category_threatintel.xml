@@ -6,19 +6,26 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
-        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 28 Mar 2026 00:00:14 GMT</pubDate>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Sat, 28 Mar 2026 00:37:27 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks</title>
-        <link>https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html</link>
-        <description><![CDATA[A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.
-The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,]]></description>
-        <pubDate>Sat, 28 Mar 2026 00:00:14 GMT</pubDate>
+        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
+        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
+        <pubDate>Sat, 28 Mar 2026 00:37:27 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Coruna, DarkSword &amp;amp; Democratizing Nation-State Exploit Kits</title>
+        <link>https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits</link>
+        <description><![CDATA[Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.]]></description>
+        <pubDate>Sat, 28 Mar 2026 00:37:27 GMT</pubDate>
     </item>
     
 </channel></rss>
