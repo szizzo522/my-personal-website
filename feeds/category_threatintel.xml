@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] FBI confirms hack of Director Patel's personal email inbox</title>
-        <link>https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/</link>
-        <description><![CDATA[The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]]]></description>
-        <pubDate>Sun, 29 Mar 2026 22:26:39 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sun, 29 Mar 2026 22:26:39 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
     </item>
     
 
@@ -26,17 +18,7 @@
         <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
         <description><![CDATA[Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
 Handala Hack Team, which carried out the breach, said on its website that Patel "will now find his name among the list of successfully hacked victims." In a statement]]></description>
-        <pubDate>Sun, 29 Mar 2026 22:26:39 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion</title>
-        <link>https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html</link>
-        <description><![CDATA[Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security.
-Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors for malvertising and distributing malware.
-"TikTok has been historically abused to distribute]]></description>
-        <pubDate>Sun, 29 Mar 2026 22:26:39 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
     </item>
     
 
@@ -44,7 +26,39 @@ Business accounts associated with social media platforms are a lucrative target,
         <title>[threat-intel] Coruna, DarkSword &amp;amp; Democratizing Nation-State Exploit Kits</title>
         <link>https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits</link>
         <description><![CDATA[Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.]]></description>
-        <pubDate>Sun, 29 Mar 2026 22:26:39 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] ShinyHunters claims the hack of the European Commission</title>
+        <link>https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html</link>
+        <description><![CDATA[The European Commission has allegedly been breached by ShinyHunters, with reported data dumps including content from mail servers. The European Commission has allegedly been breached by ShinyHunters, with reported data dumps including content from mail servers and internal communications systems. The cybercrime group added the Commission to its Tor data leak site, claiming the theft [&amp;#8230;]]]></description>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account</title>
+        <link>https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html</link>
+        <description><![CDATA[Iran-linked group Handala claims it hacked FBI Director Kash Patel’s personal email, leaking files. The FBI says no government data was exposed. Iran-linked hacking group Handala claims it breached FBI Director Kash Patel’s personal Gmail account and shared alleged data, including photos and files. The FBI confirmed it is aware of the incident and has [&amp;#8230;]]]></description>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sun, 29 Mar 2026 22:45:34 GMT</pubDate>
     </item>
     
 </channel></rss>
