@@ -6,10 +6,27 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sun, 29 Mar 2026 09:04:47 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack</title>
+        <link>https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html</link>
+        <description><![CDATA[Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet.
+Handala Hack Team, which carried out the breach, said on its website that Patel "will now find his name among the list of successfully hacked victims." In a statement]]></description>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
     </item>
     
 
@@ -17,7 +34,7 @@
         <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sun, 29 Mar 2026 09:04:47 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
     </item>
     
 
@@ -25,7 +42,23 @@
         <title>[threat-intel] ShinyHunters claims the hack of the European Commission</title>
         <link>https://securityaffairs.com/190095/data-breach/shinyhunters-claims-the-hack-of-the-european-commission.html</link>
         <description><![CDATA[The European Commission has allegedly been breached by ShinyHunters, with reported data dumps including content from mail servers. The European Commission has allegedly been breached by ShinyHunters, with reported data dumps including content from mail servers and internal communications systems. The cybercrime group added the Commission to its Tor data leak site, claiming the theft [&amp;#8230;]]]></description>
-        <pubDate>Sun, 29 Mar 2026 09:04:47 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] China-linked Red Menshen APT deploys stealthy BPFDoor implants in telecom networks</title>
+        <link>https://securityaffairs.com/190029/malware/china-linked-red-menshen-apt-deploys-stealthy-bpfdoor-implants-in-telecom-networks.html</link>
+        <description><![CDATA[China-linked Red Menshen APT group used stealthy BPFDoor implants in telecom networks to spy on government targets. Rapid7 Labs uncovered a China-linked threat group known as Red Menshen has been running a long-term espionage campaign by infiltrating telecom networks, mainly in the Middle East and Asia. Active since at least 2021, the group uses highly [&amp;#8230;]]]></description>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Watering Hole Attacks Push ScanBox Keylogger</title>
+        <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
+        <description><![CDATA[Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.]]></description>
+        <pubDate>Sun, 29 Mar 2026 09:47:06 GMT</pubDate>
     </item>
     
 </channel></rss>
