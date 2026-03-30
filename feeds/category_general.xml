@@ -9,7 +9,7 @@
         <title>[general] How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking</title>
         <link>https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/</link>
         <description><![CDATA[AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype. [...]]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -17,15 +17,15 @@
         <title>[general] Microsoft pulls KB5079391 Windows update over install issues</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/</link>
         <description><![CDATA[Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] European Commission confirms data breach after Europa.eu hack</title>
-        <link>https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/</link>
-        <description><![CDATA[The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <title>[general] FBI confirms hack of Director Patel's personal email inbox</title>
+        <link>https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/</link>
+        <description><![CDATA[The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]]]></description>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -42,7 +42,7 @@
         <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
         <description><![CDATA[Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention.
 There's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -50,7 +50,7 @@ There's a bit of everything this week. Persistence plays, legal wins, influence 
         <title>[general] 3 SOC Process Fixes That Unlock Tier 1 Productivity</title>
         <link>https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html</link>
         <description><![CDATA[What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -59,47 +59,7 @@ There's a bit of everything this week. Persistence plays, legal wins, influence 
         <link>https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html</link>
         <description><![CDATA[Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded.
 This year's findings reveal three core trends: AI has]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Infrastructure Attacks With Physical Consequences Down 25%</title>
-        <link>https://www.darkreading.com/threat-intelligence/infrastructure-attacks-physical-consequences-down</link>
-        <description><![CDATA[Operational technology (OT) at industrial and critical infrastructure sites seem to have been benefitting from a lull in ransomware, and hackers' relative ignorance of OT systems.]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Google Sets 2029 Deadline for Quantum-Safe Cryptography</title>
-        <link>https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography</link>
-        <description><![CDATA[The post-quantum future may be coming sooner than you think, as Google plans to have PQC migration in place by 2029.]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Is the FCC's Router Ban the Wrong Fix?</title>
-        <link>https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix</link>
-        <description><![CDATA[The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] How Organizations Can Use Mistakes to Level Up Their Security Programs</title>
-        <link>https://www.darkreading.com/cybersecurity-operations/blunders-level-up-security-programs</link>
-        <description><![CDATA[Organizations repeatedly expose ports, reuse passwords, and skip patches, creating security gaps that attackers exploit for breaches. An industry veteran outlines ways to fix these common mistakes.]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] CISA Issues Updated RESURGE Malware Analysis Highlighting a Stealthy but Active Threat</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-issues-updated-resurge-malware-analysis-highlighting-stealthy-active-threat</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -107,7 +67,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -115,7 +75,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -123,15 +83,15 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+        <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -139,7 +99,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -147,7 +107,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -155,7 +115,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -163,7 +123,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] Security Affairs newsletter Round 569 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
         <link>https://securityaffairs.com/190104/uncategorized/security-affairs-newsletter-round-569-by-pierluigi-paganini-international-edition.html</link>
         <description><![CDATA[A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. ShinyHunters claims the hack of the European Commission Iran-linked group Handala hacked FBI Director Kash Patel’s [&amp;#8230;]]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -171,7 +131,15 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] Iran-linked group Handala hacked FBI Director Kash Patel’s personal email account</title>
         <link>https://securityaffairs.com/190088/intelligence/iran-linked-group-handala-hacked-fbi-director-kash-patels-personal-email-account.html</link>
         <description><![CDATA[Iran-linked group Handala claims it hacked FBI Director Kash Patel’s personal email, leaking files. The FBI says no government data was exposed. Iran-linked hacking group Handala claims it breached FBI Director Kash Patel’s personal Gmail account and shared alleged data, including photos and files. The FBI confirmed it is aware of the incident and has [&amp;#8230;]]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Student Loan Breach Exposes 2.5M Records</title>
+        <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
+        <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -179,7 +147,15 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
+        <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+        <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -188,7 +164,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/30/diligent-automates-time-consuming-steps-in-third-party-reviews/</link>
         <description><![CDATA[&lt;p&gt;Diligent launched of Third-Party Risk Intel, an agentic due diligence and intelligence solution that automates the most time-consuming steps of third-party reviews, delivering up to 80% time savings for compliance, legal, and procurement teams. The launch builds on the company’s recent acquisition of 3rdRisk, an AI-native third-party risk management solution that gives organizations a near real-time view of their external ecosystem, how critical vendors are performing, and what that means for their overall risk posture. &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/diligent-automates-time-consuming-steps-in-third-party-reviews/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/diligent-automates-time-consuming-steps-in-third-party-reviews/"&gt;Diligent automates time-consuming steps in third-party reviews&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -197,7 +173,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/30/coro-mcp-integration/</link>
         <description><![CDATA[&lt;p&gt;Coro has announced new Model Context Protocol (MCP) capabilities that extend its AI-driven security platform beyond the Coro interface, allowing users to access, analyze, and take action on security data directly from tools like ChatGPT, Claude, and other AI environments. Coro enables teams to interact with and act on security data without switching tools or navigating complex dashboards, which is important for organizations increasingly relying on AI assistants to manage daily workflows. Coro’s MCP integration &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/coro-mcp-integration/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/coro-mcp-integration/"&gt;Coro launches MCP capabilities to simplify security operations through AI workflows&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -206,7 +182,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/30/android-location-privacy-features-control/</link>
         <description><![CDATA[&lt;p&gt;Google introduced a suite of location privacy features in Android 17 Beta 3 to give users more control and provide developers with tools for data minimization and product safety. Location button overview Android 17 introduces a new UI element called the location button, designed for one-time access to precise location. This feature supports common tasks that do not require persistent or background access, such as finding nearby places or tagging content. Users can customize location &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/android-location-privacy-features-control/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/android-location-privacy-features-control/"&gt;Android 17 tweaks location privacy with one-time access&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -215,7 +191,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/30/systemrescue-13-released/</link>
         <description><![CDATA[&lt;p&gt;Bootable Linux recovery environments occupy a specific niche in the systems administration and incident response toolkit. SystemRescue, an Arch-based live distribution built for repairing unbootable systems and recovering data from damaged drives, has shipped version 13.00 with a new long-term supported kernel, updated storage tools, and several additions to its command-line toolset. Kernel and storage updates The release moves to Linux 6.18.20, the current long-term supported kernel series. For a recovery distribution that needs to &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/systemrescue-13-released/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/systemrescue-13-released/"&gt;SystemRescue 13 updates its kernel to Linux 6.18 LTS, adds new recovery tools&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -224,7 +200,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/30/cyber-security-executive-buy-in/</link>
         <description><![CDATA[&lt;p&gt;I have been in security rooms for years, from military operations centers to corporate boardrooms. In all those years I can tell you that the hardest mission that most security leaders will face is not identifying a threat, but getting someone to act on it. We&amp;#8217;re trained to see exposure before they are identified by others. We continually assess likely threats, evaluate impact, and design controls to prevent disruption long before it reaches operations or &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/cyber-security-executive-buy-in/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/cyber-security-executive-buy-in/"&gt;Why risk alone doesn&amp;#8217;t get you to yes&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -233,7 +209,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.helpnetsecurity.com/2026/03/30/shipsec-studio-security-workflow-automation-platform/</link>
         <description><![CDATA[&lt;p&gt;Security teams have long relied on a mix of shell scripts, cron jobs, and loosely connected tools to chain reconnaissance and vulnerability scanning work together. ShipSec Studio, an open-source security workflow automation platform from ShipSec AI, aims to replace that arrangement with a dedicated orchestration layer built specifically for security operations. What the platform does ShipSec Studio provides a visual, no-code workflow builder that lets operators connect security tools into automated pipelines without writing glue &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/shipsec-studio-security-workflow-automation-platform/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/shipsec-studio-security-workflow-automation-platform/"&gt;ShipSec Studio brings open-source workflow orchestration to security operations&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -242,7 +218,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</link>
         <description><![CDATA[&lt;p&gt;A &lt;a href="https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator"&gt;thoughtful review&lt;/a&gt; of Apple&amp;#8217;s system to alert users that the camera is on. It&amp;#8217;s really well-designed, and important in a world where malware could surreptitiously start recording.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The reason it&amp;#8217;s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it&amp;#8217;s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it&amp;#8217;s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -250,7 +226,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <title>[general] Friday Squid Blogging: Bioluminescent Bacteria in Squid</title>
         <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</link>
         <description><![CDATA[&lt;p&gt;The Hawaiian bobtail squid has &lt;a href="https://phys.org/news/2026-03-bioluminescent-bacterial-partner-essential-squid.html"&gt;bioluminescent bacteria&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -259,7 +235,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html</link>
         <description><![CDATA[&lt;p&gt;In December, the Trump administration signed an executive order that &lt;a href="https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html"&gt;neutered&lt;/a&gt; states&amp;#8217; ability to regulate AI by ordering his administration to both sue and withhold funds from states that try to do so. This action pointedly supported &lt;a href="https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html"&gt;industry lobbyists&lt;/a&gt; keen to avoid any constraints and consequences on their deployment of AI, while undermining the efforts of consumers, advocates, and industry associations concerned about AI&amp;#8217;s harms who have spent years pushing for state regulation.&lt;/p&gt;
 &lt;p&gt;Trump&amp;#8217;s actions have clarified the ideological alignments around AI within America&amp;#8217;s electoral factions. They set down lines on a new playing field for the midterm elections, prompting members of his party, the opposition, and all of us to consider where we stand in the debate over how and where to let AI transform our lives...&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -269,7 +245,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <description><![CDATA[&lt;p&gt;Sen. Ron Wyden is &lt;a href="https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/"&gt;warning us&lt;/a&gt; of an abuse of Section 702:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Wyden took to the Senate floor to deliver a lengthy speech, ostensibly about the since approved (with support of many Democrats) nomination of Joshua Rudd to lead the NSA. Wyden was protesting that nomination, but in the context of Rudd being unwilling to agree to basic constitutional limitations on NSA surveillance. But that&amp;#8217;s just a jumping off point ahead of Section 702&amp;#8217;s upcoming reauthorization deadline. Buried in the speech is a passage that should set off every alarm bell:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;There&amp;#8217;s another example of secret law related to Section 702, one that directly affects the privacy rights of Americans. For years, I have asked various administrations to declassify this matter. Thus far they have all refused, although I am still waiting for a response from DNI Gabbard. I strongly believe that this matter can and should be declassified and that Congress needs to debate it openly before Section 702 is reauthorized. In fact, ...&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -279,7 +255,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <description><![CDATA[&lt;p&gt;Japan’s &lt;a href="https://theconversation.com/japans-ruling-party-secures-historic-election-victory-but-challenges-lie-ahead-275279" rel="noopener" target="_blank"&gt;election&lt;/a&gt; last month and the rise of the country’s newest and most innovative political party, &lt;a href="https://team-mir.ai/" rel="noopener" target="_blank"&gt;Team Mirai&lt;/a&gt;, illustrates the viability of a different way to do politics.&lt;/p&gt;
 &lt;p&gt;In this model, technology is used to make democratic processes stronger, instead of undermining them. It is harnessed to root out corruption, instead of serving as a cash cow for campaign donations.&lt;/p&gt;
 &lt;p&gt;Imagine an election where every voter has the opportunity to opine directly to politicians on precisely the issues they care about. They’re not expected to spend hours becoming policy experts. Instead, an ...&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -289,7 +265,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <description><![CDATA[&lt;p&gt;The population needs &lt;a href="https://www.pew.org/en/research-and-analysis/articles/2026/02/23/jumbo-flying-squid-need-conservation-action"&gt;better&lt;/a&gt; conservation.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -298,7 +274,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html</link>
         <description><![CDATA[&lt;p&gt;404 Media has a &lt;a href="https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/"&gt;story&lt;/a&gt; about Proton Mail giving subscriber data to the Swiss government, who passed the information to the FBI.&lt;/p&gt;
 &lt;p&gt;It&amp;#8217;s metadata&amp;#8212;payment information related to a particular account&amp;#8212;but still important knowledge. This sort of thing happens, even to privacy-centric companies like Proton Mail.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 
@@ -308,7 +284,7 @@ This year's findings reveal three core trends: AI has]]></description>
         <description><![CDATA[&lt;p&gt;Surprising no one, Meta&amp;#8217;s new AI glasses are a &lt;a href="https://appleinsider.com/articles/26/03/03/what-privacy-as-expected-meta-ray-bans-are-a-privacy-disaster"&gt;privacy disaster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not sure what can be done here. This is a technology that will exist, whether we like it or not.&lt;/p&gt;
 &lt;p&gt;Meanwhile, there is a new Android app that &lt;a href="https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"&gt;detects&lt;/a&gt; when there are smart glasses nearby.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 30 Mar 2026 16:14:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 16:37:59 GMT</pubDate>
     </item>
     
 </channel></rss>
