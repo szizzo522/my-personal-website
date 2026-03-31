@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[ransomware] Hacker charged with stealing $53 million from Uranium crypto exchange</title>
-        <link>https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/</link>
-        <description><![CDATA[U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]]]></description>
-        <pubDate>Tue, 31 Mar 2026 09:52:40 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[ransomware] Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
         <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
         <description><![CDATA[A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &lt;span class="read-more"&gt;&lt;a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/span&gt;]]></description>
-        <pubDate>Tue, 31 Mar 2026 09:52:40 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 10:23:13 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[ransomware] Qilin Ransomware allegedly breached chemical manufacturer giant Dow Inc</title>
         <link>https://securityaffairs.com/190186/cyber-crime/qilin-ransomware-allegedly-breached-chemical-manufacturer-giant-dow-inc.html</link>
         <description><![CDATA[Qilin ransomware claims a breach of Dow Inc., listing it on its Tor leak site, but no proof of the hack has been released yet. Qilin Ransomware group allegedly breached the chemical manufacturing giant Dow Inc. The cybercrime group added the company to its Tor data leak site, but at this time, it has not [&amp;#8230;]]]></description>
-        <pubDate>Tue, 31 Mar 2026 09:52:40 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 10:23:13 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Tue, 31 Mar 2026 09:52:40 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 10:23:13 GMT</pubDate>
     </item>
     
 
@@ -42,7 +34,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/31/google-drive-ransomware-detection-and-file-restoration/</link>
         <description><![CDATA[&lt;p&gt;To help organizations minimize the impact of malware attacks on personal computers, Google launched ransomware detection and file restoration in beta in September 2025. These features are now generally available. End user alert in Drive for desktop when ransomware is detected (Source: Google) “Compared to the beta version, we can now detect more types of ransomware encryption and do so faster. Our latest AI model detects 14× more infections, providing broader protection,” the company said &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/31/google-drive-ransomware-detection-and-file-restoration/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/31/google-drive-ransomware-detection-and-file-restoration/"&gt;Google Drive now detects ransomware and helps restore affected files&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 31 Mar 2026 09:52:40 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 10:23:13 GMT</pubDate>
     </item>
     
 
@@ -51,7 +43,7 @@
         <link>https://www.helpnetsecurity.com/2026/03/30/teampcp-supply-chain-attacks-ransomware/</link>
         <description><![CDATA[&lt;p&gt;TeamPCP’s destructive run of supply chain breaches has stopped, for now: it has been three days since the group published malicious versions of Telnyx&amp;#8217;s SDK on PyPI, and there haven&amp;#8217;t been reports of new open-source project compromises. Partnership with emerging RaaS operation &amp;#8220;The prior operational cadence was aggressive &amp;#8211; a new target every 1-3 days (Trivy [on] March 19, CanisterWorm [on] March 20-22, Checkmarx [on] March 23, LiteLLM [on] March 24, Telnyx [on] March 27),&amp;#8221; &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/30/teampcp-supply-chain-attacks-ransomware/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/30/teampcp-supply-chain-attacks-ransomware/"&gt;TeamPCP’s attack spree slows, but threat escalates with ransomware pivot&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 31 Mar 2026 09:52:40 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 10:23:13 GMT</pubDate>
     </item>
     
 </channel></rss>
