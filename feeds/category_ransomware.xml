@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[ransomware] Hacker charged with stealing $53 million from Uranium crypto exchange</title>
-        <link>https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/</link>
-        <description><![CDATA[U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]]]></description>
-        <pubDate>Tue, 31 Mar 2026 22:30:53 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[ransomware] Please Don’t Feed the Scattered Lapsus ShinyHunters</title>
         <link>https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/</link>
         <description><![CDATA[A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators… &lt;span class="read-more"&gt;&lt;a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/span&gt;]]></description>
-        <pubDate>Tue, 31 Mar 2026 22:30:53 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:49:28 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[ransomware] Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations</title>
         <link>https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations</link>
         <description><![CDATA[Iranian APTs are blurring the lines between state-sponsored and cybercriminal activities to target high-impact US organizations.]]></description>
-        <pubDate>Tue, 31 Mar 2026 22:30:53 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:49:28 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[ransomware] Qilin Ransomware allegedly breached chemical manufacturer giant Dow Inc</title>
         <link>https://securityaffairs.com/190186/cyber-crime/qilin-ransomware-allegedly-breached-chemical-manufacturer-giant-dow-inc.html</link>
         <description><![CDATA[Qilin ransomware claims a breach of Dow Inc., listing it on its Tor leak site, but no proof of the hack has been released yet. Qilin Ransomware group allegedly breached the chemical manufacturing giant Dow Inc. The cybercrime group added the company to its Tor data leak site, but at this time, it has not [&amp;#8230;]]]></description>
-        <pubDate>Tue, 31 Mar 2026 22:30:53 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:49:28 GMT</pubDate>
     </item>
     
 
@@ -41,7 +33,7 @@
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Tue, 31 Mar 2026 22:30:53 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:49:28 GMT</pubDate>
     </item>
     
 </channel></rss>
