@@ -6,10 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[phishing] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
-        <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-        <description><![CDATA[Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.]]></description>
-        <pubDate>Sun, 29 Mar 2026 15:48:44 GMT</pubDate>
+        <title>[phishing] EvilTokens ramps up device code phishing targeting Microsoft 365 users</title>
+        <link>https://www.helpnetsecurity.com/2026/03/31/eviltokens-phishing-microsoft-365/</link>
+        <description><![CDATA[&lt;p&gt;Security researchers report a notable increase in device code phishing activity aimed at Microsoft 365 users, and have attributed this rise to the availability of EvilTokens, a new, specialized phishing toolkit that&amp;#8217;s being offered as-a-service via Telegram. What is device code phishing? Device code phishing is a type of attack where attackers trick users into logging into their account by using a real authentication flow, then steal their access and refresh tokens. Microsoft provides the &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/31/eviltokens-phishing-microsoft-365/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/31/eviltokens-phishing-microsoft-365/"&gt;EvilTokens ramps up device code phishing targeting Microsoft 365 users&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Tue, 31 Mar 2026 19:25:31 GMT</pubDate>
     </item>
     
 </channel></rss>
