@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - cybersecurity</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[cybersecurity] Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation</title>
+        <link>https://securityaffairs.com/190204/hacking/dutch-ministry-of-finance-takes-treasury-systems-offline-amid-cyber-incident-investigation.html</link>
+        <description><![CDATA[The Dutch Ministry of Finance took treasury banking portal offline after a cyberattack; core tax systems were not affected. The Dutch Ministry of Finance took parts of its infrastructure offline, including the treasury banking portal, after detecting a cyberattack two weeks earlier. The Dutch Ministry of Finance disclosed a cyberattack detected on March 19 after [&amp;#8230;]]]></description>
+        <pubDate>Tue, 31 Mar 2026 23:10:59 GMT</pubDate>
+    </item>
+    
+</channel></rss>
