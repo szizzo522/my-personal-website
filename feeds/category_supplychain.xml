@@ -6,11 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[supply-chain] TeamPCP strikes again: Backdoored Telnyx PyPI package delivers malware</title>
-        <link>https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/</link>
-        <description><![CDATA[&lt;p&gt;TeamPCP continues is supply chain compromise rampage, with telnyx on PyPI being the latest maliciously modified package. What happened? Telnyx is a widely used software development kit (SDK) for the Telnyx AI Voice Agent service. According to Endor Labs researchers, attackers backdoored the legitimate SDK code and published versions 4.87.1 and 4.87.2 of the package on the Python Package Index (PyPI), one shortly after the other. The malicious code wasn&amp;#8217;t functional in the first version &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/"&gt;TeamPCP strikes again: Backdoored Telnyx PyPI package delivers malware&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Sat, 28 Mar 2026 21:27:08 GMT</pubDate>
+        <title>[supply-chain] North Korean hackers linked to Axios npm supply chain compromise</title>
+        <link>https://www.helpnetsecurity.com/2026/04/01/north-korean-hackers-linked-to-axios-npm-supply-chain-compromise/</link>
+        <description><![CDATA[&lt;p&gt;The software supply chain attack that resulted in the compromise of npm packages of Axios, an extremely popular HTTP client library, is believed to be the work of financially-motivated North Korean attackers. Links to UNC1069 On March 31, 2026, unknown attackers managed to publish two backdoored Axios npm packages after gaining access to a maintainer’s npm account. The malicious versions introduced a hidden dependency containing a post-install script, and this script executed automatically during installation &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/01/north-korean-hackers-linked-to-axios-npm-supply-chain-compromise/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/01/north-korean-hackers-linked-to-axios-npm-supply-chain-compromise/"&gt;North Korean hackers linked to Axios npm supply chain compromise&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Wed, 01 Apr 2026 15:10:28 GMT</pubDate>
     </item>
     
 </channel></rss>
