@@ -9,7 +9,7 @@
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Wed, 01 Apr 2026 22:47:01 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 23:03:58 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 01 Apr 2026 22:47:01 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 23:03:58 GMT</pubDate>
     </item>
     
 
@@ -25,16 +25,23 @@
         <title>[threat-intel] Cyberattacks Intensify Pressure on Latin American Governments</title>
         <link>https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments</link>
         <description><![CDATA[Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.]]></description>
-        <pubDate>Wed, 01 Apr 2026 22:47:01 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 23:03:58 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Financial groups lay out a plan to fight AI identity attacks</title>
-        <link>https://www.helpnetsecurity.com/2026/04/01/fight-ai-identity-fraud/</link>
-        <description><![CDATA[&lt;p&gt;Generative AI tools have brought the cost of deepfake production low enough that criminals and state-sponsored actors now use them routinely against financial institutions. A joint paper from the American Bankers Association, the Better Identity Coalition, and the Financial Services Sector Coordinating Council lays out the scale of the problem and calls on federal and state policymakers to act across various areas. Deepfake incidents in the fintech sector increased 700% in 2023 compared to 2022. &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/01/fight-ai-identity-fraud/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/01/fight-ai-identity-fraud/"&gt;Financial groups lay out a plan to fight AI identity attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 01 Apr 2026 22:47:01 GMT</pubDate>
+        <title>[threat-intel] Google links Axios npm supply chain attack to North Korea-linked APT UNC1069</title>
+        <link>https://securityaffairs.com/190256/security/google-links-axios-npm-supply-chain-attack-to-north-korea-linked-apt-unc1069.html</link>
+        <description><![CDATA[Google links the Axios npm supply chain attack to North Korean threat group UNC1069, targeting financial gain. Google has attributed the recent Axios npm supply chain compromise to a North Korean threat group tracked as UNC1069. The attack, aimed at financial gain, exploited the package to target developers and organizations relying on Axios. John Hultquist [&amp;#8230;]]]></description>
+        <pubDate>Wed, 01 Apr 2026 23:03:58 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Wed, 01 Apr 2026 23:03:58 GMT</pubDate>
     </item>
     
 </channel></rss>
