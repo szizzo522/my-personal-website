@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Wed, 01 Apr 2026 04:59:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 01 Apr 2026 03:54:30 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 04:59:11 GMT</pubDate>
     </item>
     
 
@@ -17,32 +25,16 @@
         <title>[threat-intel] TeamPCP Breaches Cloud, SaaS Instances With Stolen Credentials</title>
         <link>https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials</link>
         <description><![CDATA[The threat group's shift to speedy attacks on AWS, Azure, and SaaS instances shows organizations need to respond quickly to compromised credentials.]]></description>
-        <pubDate>Wed, 01 Apr 2026 03:54:30 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 04:59:11 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Wed, 01 Apr 2026 03:54:30 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation</title>
-        <link>https://securityaffairs.com/190204/hacking/dutch-ministry-of-finance-takes-treasury-systems-offline-amid-cyber-incident-investigation.html</link>
-        <description><![CDATA[The Dutch Ministry of Finance took treasury banking portal offline after a cyberattack; core tax systems were not affected. The Dutch Ministry of Finance took parts of its infrastructure offline, including the treasury banking portal, after detecting a cyberattack two weeks earlier. The Dutch Ministry of Finance disclosed a cyberattack detected on March 19 after [&amp;#8230;]]]></description>
-        <pubDate>Wed, 01 Apr 2026 03:54:30 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Download: 2026 SANS Identity Threats &amp; Defenses Survey</title>
-        <link>https://www.helpnetsecurity.com/2026/03/31/enzoic-2026-sans-identity-threats-defenses-survey/</link>
-        <description><![CDATA[&lt;p&gt;New research from the 2026 SANS Identity Threats &amp;#038; Defenses Survey shows that 55% of organizations experienced an identity-related compromise last year, while 26% reported MFA fatigue as a factor in identity attacks. Download the report to learn: Why identity compromises remain common How attackers abuse authentication systems using valid credentials Where organizations struggle to detect and contain identity threats Download the full report to see how identity attacks are evolving.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/31/enzoic-2026-sans-identity-threats-defenses-survey/"&gt;Download: 2026 SANS Identity Threats &amp;#038; Defenses Survey&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 01 Apr 2026 03:54:30 GMT</pubDate>
+        <title>[threat-intel] Crypto industry may be running out of time to prepare for quantum attacks</title>
+        <link>https://www.helpnetsecurity.com/2026/03/31/quantum-computers-cryptocurrency-risks-google-research/</link>
+        <description><![CDATA[&lt;p&gt;Google’s latest research suggests the cryptocurrency industry may have less time than expected to prepare for quantum computing. In a whitepaper, Google examines risks to elliptic curve cryptography, the system securing most blockchain networks. The researchers revisit earlier assumptions about how difficult it would be for a quantum computer to break these protections, concluding that the required resources may be lower than previously estimated. “To share this research responsibly, we engaged with the U.S. government &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/03/31/quantum-computers-cryptocurrency-risks-google-research/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/03/31/quantum-computers-cryptocurrency-risks-google-research/"&gt;Crypto industry may be running out of time to prepare for quantum attacks&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Wed, 01 Apr 2026 04:59:11 GMT</pubDate>
     </item>
     
 </channel></rss>
