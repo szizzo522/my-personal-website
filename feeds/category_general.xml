@@ -9,7 +9,15 @@
         <title>[general] Routine Access Is Powering Modern Intrusions, a New Threat Report Finds</title>
         <link>https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/</link>
         <description><![CDATA[Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] FBI warns against using Chinese mobile apps due to privacy risks</title>
+        <link>https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/</link>
+        <description><![CDATA[The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]]]></description>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -17,7 +25,7 @@
         <title>[general] New Windows 11 emergency update fixes preview update install issues</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/</link>
         <description><![CDATA[Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -25,7 +33,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -37,7 +45,7 @@ No to ChatGPT.
 No to DeepSeek.
 No to the file-sharing tool the product team swears by.
 For years, this looked like security. But in 2026, "Doctor No" is no longer just a management headache &amp;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -46,7 +54,16 @@ For years, this looked like security. But in 2026, "Doctor No" is no longer just
         <link>https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html</link>
         <description><![CDATA[For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next.
 Threat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms</title>
+        <link>https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html</link>
+        <description><![CDATA[Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.
+"No sensitive customer data or credentials were involved or exposed," an Anthropic spokesperson said in a statement shared with CNBC News. "This was a release packaging issue caused by human error, not a security]]></description>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -56,7 +73,7 @@ Threat actors now use malware less frequently in favor of what’s already insid
         <description><![CDATA[Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while "hiding behind anonymity."
 The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.
 As part of this]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -64,7 +81,15 @@ As part of this]]></description>
         <title>[general] LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut</title>
         <link>https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut</link>
         <description><![CDATA[A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Cyberattacks Intensify Pressure on Latin American Governments</title>
+        <link>https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments</link>
+        <description><![CDATA[Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.]]></description>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -72,7 +97,7 @@ As part of this]]></description>
         <title>[general] Are We Training AI Too Late?</title>
         <link>https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late</link>
         <description><![CDATA[Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -80,7 +105,7 @@ As part of this]]></description>
         <title>[general] AI and Quantum Are Forcing a Rethink of Digital Trust</title>
         <link>https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust</link>
         <description><![CDATA[In a conversation with Dark Reading’s Terry Sweeney, DigiCert CEO Amit Sinha explains how AI-driven identities and quantum threats are reshaping the foundations of digital trust.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -88,7 +113,7 @@ As part of this]]></description>
         <title>[general] Black Hat USA</title>
         <link>https://www.darkreading.com/events/black-hat-usa</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -96,7 +121,7 @@ As part of this]]></description>
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -104,7 +129,7 @@ As part of this]]></description>
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -112,23 +137,7 @@ As part of this]]></description>
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -136,7 +145,7 @@ As part of this]]></description>
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -144,7 +153,7 @@ As part of this]]></description>
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -152,7 +161,7 @@ As part of this]]></description>
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -160,7 +169,7 @@ As part of this]]></description>
         <title>[general] Free VPNs leak your data while claiming privacy</title>
         <link>https://securityaffairs.com/190239/security/free-vpns-leak-your-data-while-claiming-privacy.html</link>
         <description><![CDATA[Most free Android VPNs track users, request dangerous permissions, and connect to risky servers, privacy comes at a hidden cost. Free VPN apps are some of the most popular downloads on Android, promising privacy at no cost. But the reality is far from what they advertise. Most users tap “install” without a second thought, unaware [&amp;#8230;]]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -168,7 +177,7 @@ As part of this]]></description>
         <title>[general] Anthropic accidentally leaks Claude Code</title>
         <link>https://securityaffairs.com/190229/data-breach/anthropic-accidentally-leaks-claude-code.html</link>
         <description><![CDATA[Anthropic accidentally exposed Claude Code source via npm, causing the code to quickly spread online after discovery. Anthropic accidentally leaked the source code of its Claude Code tool after a large debug file was included in a public npm release. The file exposed over 500,000 lines of code, which were quickly discovered, shared, and analyzed [&amp;#8230;]]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -176,7 +185,7 @@ As part of this]]></description>
         <title>[general] Dutch Ministry of Finance takes treasury systems offline amid cyber incident investigation</title>
         <link>https://securityaffairs.com/190204/hacking/dutch-ministry-of-finance-takes-treasury-systems-offline-amid-cyber-incident-investigation.html</link>
         <description><![CDATA[The Dutch Ministry of Finance took treasury banking portal offline after a cyberattack; core tax systems were not affected. The Dutch Ministry of Finance took parts of its infrastructure offline, including the treasury banking portal, after detecting a cyberattack two weeks earlier. The Dutch Ministry of Finance disclosed a cyberattack detected on March 19 after [&amp;#8230;]]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -184,7 +193,7 @@ As part of this]]></description>
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -193,7 +202,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/02/john-orourke-ppg-security-as-business-strategy/</link>
         <description><![CDATA[&lt;p&gt;In this Help Net Security interview, John O&amp;#8217;Rourke, CISO at PPG, talks about what it means for security to drive business value. He explains how mature security programs reduce friction in sales cycles and M&amp;#038;A processes, and how trust is built over time. O&amp;#8217;Rourke also addresses how buyer sophistication has raised the bar for suppliers, why less-regulated industries lag behind their more-regulated counterparts, and which companies will benefit from foundational security investments. The interview covers &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/02/john-orourke-ppg-security-as-business-strategy/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/02/john-orourke-ppg-security-as-business-strategy/"&gt;Trust, friction, and ROI: A CISO&amp;#8217;s take on making security work for the business&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -202,7 +211,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/02/5g-drone-detection-system-research/</link>
         <description><![CDATA[&lt;p&gt;Drone detection in cities is expensive. Dedicated radar installations are cost-prohibitive at scale, cameras have limited range and stop working well at night, and LiDAR systems have the same cost problem as radar. A group of researchers at the University of Science and Technology of China spent the past year working on a different approach: using 5G-Advanced base stations that are already in the ground to do the job instead. The 5G-A base station Active &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/02/5g-drone-detection-system-research/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/02/5g-drone-detection-system-research/"&gt;Tracking drones with the 5G tower down the street&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -211,7 +220,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/02/exchange-online-high-volume-email-hve/</link>
         <description><![CDATA[&lt;p&gt;Organizations that rely on Exchange Online for internal communications have long needed a way to send large volumes of automated messages, such as payroll notifications, IT alerts, and security advisories, without running into the sending limits designed for person-to-person email. Microsoft has addressed that with the general availability of High Volume Email (HVE) in Exchange Online. What High Volume Email does HVE is a tenant-native capability built for application-to-person messaging within an organization. It uses &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/02/exchange-online-high-volume-email-hve/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/02/exchange-online-high-volume-email-hve/"&gt;Microsoft adds high-volume email sending to Exchange Online&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -220,7 +229,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/02/customer-identity-fraud-detection-video/</link>
         <description><![CDATA[&lt;p&gt;In this Help Net Security video, Lenny Gusel, Head of Fraud Solutions in North America at Feedzai, explains how customer identity and access management has converged with digital fraud detection, and why treating them as separate systems creates real risk. The core idea is continuous, contextual trust. Where traditional IAM grants access at a single point in time, fraud systems track behavior throughout an entire session, reading device signals, network context, and how a user &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/02/customer-identity-fraud-detection-video/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/02/customer-identity-fraud-detection-video/"&gt;Your customer passed authentication. So why are they sending money to a scammer?&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -229,7 +238,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/01/exabeam-expands-aba-to-detect-ai-agent-threats-across-chatgpt-copilot-and-gemini/</link>
         <description><![CDATA[&lt;p&gt;Exabeam has announced the expansion of Exabeam Agent Behavior Analytics (ABA). Without direct visibility into how employees use AI assistants, what they query, what data they share, how frequently they interact, and from where, organizations cannot establish a baseline for normal AI behavior, investigate potential misuse, or detect emerging agentic insider threats. New support to detect agent behavior in OpenAI ChatGPT and Microsoft Copilot, alongside existing visibility into Google Gemini, transforms these agentic services into &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/01/exabeam-expands-aba-to-detect-ai-agent-threats-across-chatgpt-copilot-and-gemini/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/01/exabeam-expands-aba-to-detect-ai-agent-threats-across-chatgpt-copilot-and-gemini/"&gt;Exabeam expands ABA to detect AI agent threats across ChatGPT, Copilot, and Gemini&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -238,7 +247,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/01/cis-benchmarks-march-2026-update/</link>
         <description><![CDATA[&lt;p&gt;The following CIS Benchmarks and CIS Build Kits have been updated or recently released. The Center for Internet Security has highlighted the major updates below. Each Benchmark and Build Kit includes a changelog that references all changes. Updated CIS Benchmarks overview CIS Microsoft Windows 11 Enterprise Benchmark v5.0.0 CIS Oracle Cloud Infrastructure Foundations Benchmark v3.1.0 CIS Apache Cassandra 5.0 Benchmark v1.1.0 CIS Apache Cassandra 4.1 Benchmark v1.2.0 CIS Apache Cassandra 4.0 Benchmark v1.3.0 CIS Microsoft &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/01/cis-benchmarks-march-2026-update/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/01/cis-benchmarks-march-2026-update/"&gt;CIS Benchmarks March 2026 Update&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -247,7 +256,7 @@ As part of this]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/01/egnyte-ai-safeguards-ai-assistant/</link>
         <description><![CDATA[&lt;p&gt;Egnyte has announced two major additions to the Egnyte Content Cloud: AI Safeguards, which give organizations granular control over how AI interacts with sensitive content, and an AI Assistant that acts as a built-in collaborator across Egnyte workspaces. AI Safeguards As organizations accelerate AI adoption, ungoverned access to sensitive content by AI systems represents a growing and underappreciated risk. Egnyte’s AI Safeguards addresses this directly by embedding AI controls into the same platform that already &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/01/egnyte-ai-safeguards-ai-assistant/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/01/egnyte-ai-safeguards-ai-assistant/"&gt;Egnyte expands Content Cloud with AI Governance and built-in Assistant&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -259,7 +268,7 @@ As part of this]]></description>
 &lt;p&gt;&lt;i&gt;The Economist&lt;/i&gt; &lt;a href="https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"&gt;noticed&lt;/a&gt; (alternate &lt;a href="https://archive.ph/vwuA1"&gt;link&lt;/a&gt;) this, too.&lt;/p&gt;
 &lt;p&gt;I think this is an &lt;a href="https://www.schneier.com/blog/archives/2007/04/cyberattack.html"&gt;incredibly dumb idea&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;In warfare, the notion of counterattack is extremely powerful. Going after the enemy­&amp;#8212;its positions, its supply lines, its factories, its infrastructure&amp;#8212;­is an age-old military tactic. But in peacetime, we call it revenge, and consider it dangerous. Anyone accused of a crime deserves a fair trial. The accused has the right to defend himself, to face his accuser, to an attorney, and to be presumed innocent until proven guilty...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -269,7 +278,7 @@ As part of this]]></description>
         <description><![CDATA[&lt;p&gt;Last week, I listened to a fascinating talk by K. Melton on cognitive security, cognitive hacking, and reality pentesting. The slides from the talk are &lt;a href="https://github.com/cptkj42/presos/blob/main/26-03-17_CSI-103%20__Reality%20Pentesting%20A%20Conceptual%20Cognitive%20Field%20Topology.pdf"&gt;here&lt;/a&gt;, but&amp;#8212;even better&amp;#8212;Menton has a &lt;a href="https://cptkj.substack.com/p/intro-to-reality-pentesting"&gt;long essay&lt;/a&gt; laying out the basic concepts and ideas.&lt;/p&gt;
 &lt;p&gt;The whole thing is important and well worth reading, and I hesitate to excerpt. Here&amp;#8217;s a taste:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The NeuroCompiler is where raw sensory data gets interpreted before you&amp;#8217;re consciously aware of it. It decides what things mean, and it does this fast, automatic, and mostly invisible. It&amp;#8217;s also where the majority of cognitive exploits actually land, right in this sweet spot between perception and conscious thought...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -280,7 +289,7 @@ As part of this]]></description>
 &lt;p&gt;I am incredibly pleased to see them get this recognition. I have always thought the technology to be fantastic, even though I think it&amp;#8217;s largely unnecessary. I wrote up my thoughts back in 2008, in an &lt;a&gt;essay&lt;/a&gt; titled &amp;#8220;Quantum Cryptography: As Awesome As It Is Pointless.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;Back then, I wrote:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;While I like the science of quantum cryptography&amp;#8212;my undergraduate degree was in physics&amp;#8212;I don&amp;#8217;t see any commercial value in it. I don&amp;#8217;t believe it solves any security problem that needs solving. I don&amp;#8217;t believe that it&amp;#8217;s worth paying for, and I can&amp;#8217;t imagine anyone but a few technophiles buying and deploying it. Systems that use it don&amp;#8217;t magically become unbreakable, because the quantum part doesn&amp;#8217;t address the weak points of the system...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -289,7 +298,7 @@ As part of this]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</link>
         <description><![CDATA[&lt;p&gt;A &lt;a href="https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator"&gt;thoughtful review&lt;/a&gt; of Apple&amp;#8217;s system to alert users that the camera is on. It&amp;#8217;s really well-designed, and important in a world where malware could surreptitiously start recording.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The reason it&amp;#8217;s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it&amp;#8217;s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it&amp;#8217;s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -297,7 +306,7 @@ As part of this]]></description>
         <title>[general] Friday Squid Blogging: Bioluminescent Bacteria in Squid</title>
         <link>https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html</link>
         <description><![CDATA[&lt;p&gt;The Hawaiian bobtail squid has &lt;a href="https://phys.org/news/2026-03-bioluminescent-bacterial-partner-essential-squid.html"&gt;bioluminescent bacteria&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -306,7 +315,7 @@ As part of this]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html</link>
         <description><![CDATA[&lt;p&gt;In December, the Trump administration signed an executive order that &lt;a href="https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html"&gt;neutered&lt;/a&gt; states&amp;#8217; ability to regulate AI by ordering his administration to both sue and withhold funds from states that try to do so. This action pointedly supported &lt;a href="https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html"&gt;industry lobbyists&lt;/a&gt; keen to avoid any constraints and consequences on their deployment of AI, while undermining the efforts of consumers, advocates, and industry associations concerned about AI&amp;#8217;s harms who have spent years pushing for state regulation.&lt;/p&gt;
 &lt;p&gt;Trump&amp;#8217;s actions have clarified the ideological alignments around AI within America&amp;#8217;s electoral factions. They set down lines on a new playing field for the midterm elections, prompting members of his party, the opposition, and all of us to consider where we stand in the debate over how and where to let AI transform our lives...&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -316,7 +325,7 @@ As part of this]]></description>
         <description><![CDATA[&lt;p&gt;Sen. Ron Wyden is &lt;a href="https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/"&gt;warning us&lt;/a&gt; of an abuse of Section 702:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Wyden took to the Senate floor to deliver a lengthy speech, ostensibly about the since approved (with support of many Democrats) nomination of Joshua Rudd to lead the NSA. Wyden was protesting that nomination, but in the context of Rudd being unwilling to agree to basic constitutional limitations on NSA surveillance. But that&amp;#8217;s just a jumping off point ahead of Section 702&amp;#8217;s upcoming reauthorization deadline. Buried in the speech is a passage that should set off every alarm bell:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;There&amp;#8217;s another example of secret law related to Section 702, one that directly affects the privacy rights of Americans. For years, I have asked various administrations to declassify this matter. Thus far they have all refused, although I am still waiting for a response from DNI Gabbard. I strongly believe that this matter can and should be declassified and that Congress needs to debate it openly before Section 702 is reauthorized. In fact, ...&lt;/p&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -326,7 +335,7 @@ As part of this]]></description>
         <description><![CDATA[&lt;p&gt;Japan’s &lt;a href="https://theconversation.com/japans-ruling-party-secures-historic-election-victory-but-challenges-lie-ahead-275279" rel="noopener" target="_blank"&gt;election&lt;/a&gt; last month and the rise of the country’s newest and most innovative political party, &lt;a href="https://team-mir.ai/" rel="noopener" target="_blank"&gt;Team Mirai&lt;/a&gt;, illustrates the viability of a different way to do politics.&lt;/p&gt;
 &lt;p&gt;In this model, technology is used to make democratic processes stronger, instead of undermining them. It is harnessed to root out corruption, instead of serving as a cash cow for campaign donations.&lt;/p&gt;
 &lt;p&gt;Imagine an election where every voter has the opportunity to opine directly to politicians on precisely the issues they care about. They’re not expected to spend hours becoming policy experts. Instead, an ...&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
@@ -336,7 +345,7 @@ As part of this]]></description>
         <description><![CDATA[&lt;p&gt;The population needs &lt;a href="https://www.pew.org/en/research-and-analysis/articles/2026/02/23/jumbo-flying-squid-need-conservation-action"&gt;better&lt;/a&gt; conservation.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 </channel></rss>

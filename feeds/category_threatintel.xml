@@ -6,26 +6,26 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] FBI warns against using Chinese mobile apps due to privacy risks</title>
-        <link>https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/</link>
-        <description><![CDATA[The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Cyberattacks Intensify Pressure on Latin American Governments</title>
-        <link>https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments</link>
-        <description><![CDATA[Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.]]></description>
-        <pubDate>Thu, 02 Apr 2026 06:11:51 GMT</pubDate>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Thu, 02 Apr 2026 06:45:34 GMT</pubDate>
     </item>
     
 </channel></rss>
