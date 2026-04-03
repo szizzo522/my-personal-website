@@ -6,18 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
-        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Fri, 03 Apr 2026 07:10:48 GMT</pubDate>
+        <title>[threat-intel] CERT-EU: European Commission hack exposes data of 30 EU entities</title>
+        <link>https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/</link>
+        <description><![CDATA[The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]]]></description>
+        <pubDate>Fri, 03 Apr 2026 07:42:57 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Cyberattacks Intensify Pressure on Latin American Governments</title>
-        <link>https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments</link>
-        <description><![CDATA[Cyber threats across Latin America are increasingly targeting government systems, from disruptive attacks in Puerto Rico to a surge of probes against Colombia’s health sector.]]></description>
-        <pubDate>Fri, 03 Apr 2026 07:10:48 GMT</pubDate>
+        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
+        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
+        <pubDate>Fri, 03 Apr 2026 07:42:57 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[threat-intel] Google links Axios npm supply chain attack to North Korea-linked APT UNC1069</title>
         <link>https://securityaffairs.com/190256/security/google-links-axios-npm-supply-chain-attack-to-north-korea-linked-apt-unc1069.html</link>
         <description><![CDATA[Google links the Axios npm supply chain attack to North Korean threat group UNC1069, targeting financial gain. Google has attributed the recent Axios npm supply chain compromise to a North Korean threat group tracked as UNC1069. The attack, aimed at financial gain, exploited the package to target developers and organizations relying on Axios. John Hultquist [&amp;#8230;]]]></description>
-        <pubDate>Fri, 03 Apr 2026 07:10:48 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 07:42:57 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,7 @@
         <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Fri, 03 Apr 2026 07:10:48 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 07:42:57 GMT</pubDate>
     </item>
     
 </channel></rss>
