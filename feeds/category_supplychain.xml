@@ -6,11 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[supply-chain] North Korean hackers linked to Axios npm supply chain compromise</title>
-        <link>https://www.helpnetsecurity.com/2026/04/01/north-korean-hackers-linked-to-axios-npm-supply-chain-compromise/</link>
-        <description><![CDATA[&lt;p&gt;The software supply chain attack that resulted in the compromise of npm packages of Axios, an extremely popular HTTP client library, is believed to be the work of financially-motivated North Korean attackers. Links to UNC1069 On March 31, 2026, unknown attackers managed to publish two backdoored Axios npm packages after gaining access to a maintainer’s npm account. The malicious versions introduced a hidden dependency containing a post-install script, and this script executed automatically during installation &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/01/north-korean-hackers-linked-to-axios-npm-supply-chain-compromise/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/01/north-korean-hackers-linked-to-axios-npm-supply-chain-compromise/"&gt;North Korean hackers linked to Axios npm supply chain compromise&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 01 Apr 2026 15:10:28 GMT</pubDate>
+        <title>[supply-chain] UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack</title>
+        <link>https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</link>
+        <description><![CDATA[The&amp;nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&amp;nbsp;as UNC1069.
+Maintainer Jason Saayman said the attackers tailored their social engineering efforts "specifically to me" by first approaching him under the guise of the founder of a]]></description>
+        <pubDate>Fri, 03 Apr 2026 12:35:12 GMT</pubDate>
     </item>
     
 </channel></rss>
