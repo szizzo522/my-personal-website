@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[cybercrime] Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime</title>
-        <link>https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/</link>
-        <description><![CDATA[Threat actors are exploiting vacant homes as "drop addresses" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]]]></description>
-        <pubDate>Fri, 03 Apr 2026 06:00:35 GMT</pubDate>
+        <title>[cybercrime] North Korea–linked hackers drain $285M from Drift in sophisticated attack</title>
+        <link>https://securityaffairs.com/190330/hacking/north-korea-linked-hackers-drain-285m-from-drift-in-sophisticated-attack.html</link>
+        <description><![CDATA[Drift lost $285M in a sophisticated attack, likely by North Korea, who used nonce-based tricks to gain control and quickly drain funds Drift suffered a $285 million cryptocurrency heist in a highly sophisticated attack likely linked to North Korea. Threat actors used durable nonce accounts to pre-sign and delay transactions, while also compromising multisig approvals [&amp;#8230;]]]></description>
+        <pubDate>Fri, 03 Apr 2026 15:17:21 GMT</pubDate>
     </item>
     
 </channel></rss>
