@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Sat, 04 Apr 2026 22:59:22 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 04 Apr 2026 22:26:29 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 22:59:22 GMT</pubDate>
     </item>
     
 
@@ -19,7 +27,7 @@
         <description><![CDATA[A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&amp;nbsp;following a two-year&amp;nbsp;period of minimal targeting in the&amp;nbsp;region.
 The campaign has been attributed&amp;nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&amp;nbsp;Panda.
 "This TA416 activity included multiple]]></description>
-        <pubDate>Sat, 04 Apr 2026 22:26:29 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 22:59:22 GMT</pubDate>
     </item>
     
 
@@ -27,7 +35,7 @@ The campaign has been attributed&amp;nbsp;to TA416, a cluster of activity that o
         <title>[threat-intel] Pro-Iran Handala group breached Israeli defence contractor PSK Wind Technologies</title>
         <link>https://securityaffairs.com/190319/data-breach/pro-iran-handala-group-breached-israeli-defence-contractor-psk-wind-technologies.html</link>
         <description><![CDATA[Iran-linked hackers claim to have breached Israeli air defence contractor PSK Wind, which develops command and control systems. Pro-Iran Handala group announced on April 2 that it breached PSK Wind Technologies, an Israeli engineering and IT firm specializing in integrated systems for defense and critical communications, including command and control solutions. Handala appears as a [&amp;#8230;]]]></description>
-        <pubDate>Sat, 04 Apr 2026 22:26:29 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 22:59:22 GMT</pubDate>
     </item>
     
 </channel></rss>
