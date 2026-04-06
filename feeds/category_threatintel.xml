@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 06 Apr 2026 01:20:00 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
     </item>
     
 
@@ -18,7 +26,7 @@
         <link>https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html</link>
         <description><![CDATA[Drift&amp;nbsp;has revealed that the April 1, 2026, attack that led to&amp;nbsp;the theft of $285&amp;nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&amp;nbsp;2025.
 The&amp;nbsp;Solana-based decentralized exchange described it as "an attack six months in the]]></description>
-        <pubDate>Mon, 06 Apr 2026 01:20:00 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
     </item>
     
 
@@ -28,15 +36,24 @@ The&amp;nbsp;Solana-based decentralized exchange described it as "an attack six 
         <description><![CDATA[A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&amp;nbsp;following a two-year&amp;nbsp;period of minimal targeting in the&amp;nbsp;region.
 The campaign has been attributed&amp;nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&amp;nbsp;Panda.
 "This TA416 activity included multiple]]></description>
-        <pubDate>Mon, 06 Apr 2026 01:20:00 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Pro-Iran Handala group breached Israeli defence contractor PSK Wind Technologies</title>
-        <link>https://securityaffairs.com/190319/data-breach/pro-iran-handala-group-breached-israeli-defence-contractor-psk-wind-technologies.html</link>
-        <description><![CDATA[Iran-linked hackers claim to have breached Israeli air defence contractor PSK Wind, which develops command and control systems. Pro-Iran Handala group announced on April 2 that it breached PSK Wind Technologies, an Israeli engineering and IT firm specializing in integrated systems for defense and critical communications, including command and control solutions. Handala appears as a [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 01:20:00 GMT</pubDate>
+        <title>[threat-intel] UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack</title>
+        <link>https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</link>
+        <description><![CDATA[The&amp;nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&amp;nbsp;as UNC1069.
+Maintainer Jason Saayman said the attackers tailored their social engineering efforts "specifically to me" by first approaching him under the guise of the founder of a]]></description>
+        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
     </item>
     
 </channel></rss>
