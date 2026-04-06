@@ -6,18 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[general] Microsoft fixes Classic Outlook bug causing email delivery issues</title>
-        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/</link>
-        <description><![CDATA[Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <title>[general] Microsoft removes Support and Recovery Assistant from Windows</title>
+        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/</link>
+        <description><![CDATA[Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]]]></description>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] Microsoft removes Support and Recovery Assistant from Windows</title>
-        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/</link>
-        <description><![CDATA[Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <title>[general] Why Simple Breach Monitoring is No Longer Enough</title>
+        <link>https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/</link>
+        <description><![CDATA[Infostealers are harvesting credentials and session cookies at scale, bypassing traditional defenses. Lunar explains why simple breach monitoring alone can't keep up with modern credential-based attacks. [...]]]></description>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -34,17 +34,7 @@
         <link>https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html</link>
         <description><![CDATA[Your attack surface no&amp;nbsp;longer lives&amp;nbsp;on one operating system, and neither do the campaigns targeting&amp;nbsp;it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC&amp;nbsp;workflows are still fragmented by&amp;nbsp;platform.&amp;nbsp;
 For security leaders, this creates&amp;nbsp;a]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] ⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More</title>
-        <link>https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html</link>
-        <description><![CDATA[This&amp;nbsp;week had real hits. The&amp;nbsp;key software got tampered with. Active&amp;nbsp;bugs showed up in the tools people use every day. Some&amp;nbsp;attacks didn’t even need much effort because the path was already&amp;nbsp;there.
-One weak spot now spreads wider than before. What&amp;nbsp;starts small can reach a lot of systems fast. New&amp;nbsp;bugs, faster use, less time to&amp;nbsp;react.
-That’s this week. Read&amp;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -52,7 +42,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] Shadow AI in Healthcare Is Here to Stay</title>
         <link>https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay</link>
         <description><![CDATA[Medical professionals are not going to stop using AI tools to manage growing workloads. Organizations should prioritize bolstering security protocols to limit their blast radius.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -60,7 +50,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] OWASP GenAI Security Project Gets Update, New Tools Matrix</title>
         <link>https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix</link>
         <description><![CDATA[In recognition of 21 generative AI risks, the standards groups recommends that companies take separate but linked approaches to defending GenAI and agentic AI systems.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -68,7 +58,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] Inconsistent Privacy Labels Don't Tell Users What They Are Getting</title>
         <link>https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough</link>
         <description><![CDATA[Data privacy labels are a great idea for mobile apps, but the current versions just aren't good enough.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -76,7 +66,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication</title>
         <link>https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication</link>
         <description><![CDATA[&amp;quot;Skull vibration harmonics generated by vital signs&amp;quot; can be used to sign in to VR, AR, and MR headsets, according to emerging research.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -84,7 +74,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -92,7 +82,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -100,7 +90,15 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -108,7 +106,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -116,7 +114,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -124,7 +122,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -132,7 +130,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -140,15 +138,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] Security Affairs newsletter Round 571 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
         <link>https://securityaffairs.com/190368/breaking-news/security-affairs-newsletter-round-571-by-pierluigi-paganini-international-edition.html</link>
         <description><![CDATA[A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Qilin ransomware group claims the hack of German political party Die Linke U.S. CISA adds a [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Student Loan Breach Exposes 2.5M Records</title>
-        <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
-        <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -156,7 +146,15 @@ That’s this week. Read&amp;]]></description>
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
+        <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
+        <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -165,7 +163,7 @@ That’s this week. Read&amp;]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/06/residential-proxy-attack-traffic-ip-reputation-enterprise-security/</link>
         <description><![CDATA[&lt;p&gt;Attack traffic moved through ordinary home and mobile connections in ways that limited the usefulness of IP reputation on its own. GreyNoise observed 4 billion malicious sessions during a 90-day period and described activity that appeared indistinguishable from normal user traffic at the network level. Residential proxies routed traffic through consumer broadband, mobile data, and small-business connections. These same IP ranges were used by employees, customers, and partners, which made it difficult to separate malicious &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/06/residential-proxy-attack-traffic-ip-reputation-enterprise-security/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/06/residential-proxy-attack-traffic-ip-reputation-enterprise-security/"&gt;Residential proxies make a mockery of IP-based defenses&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -174,7 +172,16 @@ That’s this week. Read&amp;]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/06/product-showcase-proton-authenticator-encrypted-open-source-2fa-app/</link>
         <description><![CDATA[&lt;p&gt;Proton Authenticator is a free and open-source two-factor authentication (2FA) app that generates time-based one-time passwords (TOTP) to help secure online accounts. It is available on Windows, macOS, Linux, iOS, and Android, allowing users to access their verification codes across devices. The app is designed to work without ads or tracking. A Proton account is optional and mainly used for encrypted sync between devices. How Proton Authenticator works Setup starts with installing the app from &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/06/product-showcase-proton-authenticator-encrypted-open-source-2fa-app/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/06/product-showcase-proton-authenticator-encrypted-open-source-2fa-app/"&gt;Product showcase: Proton Authenticator is an end-to-end encrypted, open source 2FA app&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] IT talent looks the other way as wireless security incidents pile up</title>
+        <link>https://www.helpnetsecurity.com/2026/04/06/enterprise-wireless-networks-security-exposure/</link>
+        <description><![CDATA[&lt;p&gt;Enterprise wireless networks are supporting a growing mix of devices and applications, increasing operational demand and security exposure. The 2026 Cisco State of Wireless report reflects these conditions through rising incident rates, higher costs, and ongoing staffing challenges. Wireless investment continues to increase. Most organizations expanded spending over the past 5 years, and a large share expects further growth in the next several years. Expectations for returns are also rising, with more organizations anticipating stronger &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/06/enterprise-wireless-networks-security-exposure/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/06/enterprise-wireless-networks-security-exposure/"&gt;IT talent looks the other way as wireless security incidents pile up&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -183,7 +190,7 @@ That’s this week. Read&amp;]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/06/rh-isac-enterprise-security-spending-report/</link>
         <description><![CDATA[&lt;p&gt;Security spending continues to edge upward across large organizations, though the changes remain gradual and tightly managed. The 2026 RH-ISAC CISO Benchmark reflects a steady environment where budgets expand in small steps, even as AI becomes a routine part of security operations. Budget growth stays measured Spending levels increased during 2025 across both IT and security. Average IT spend as a share of revenue rose to 3.9% from 3.2% the year before. Security spend followed &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/06/rh-isac-enterprise-security-spending-report/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/06/rh-isac-enterprise-security-spending-report/"&gt;CISOs grapple with AI demands within flat budgets&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -192,7 +199,7 @@ That’s this week. Read&amp;]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/03/windows-secure-boot-certificate-update-2026-expiration/</link>
         <description><![CDATA[&lt;p&gt;Microsoft&amp;#8217;s Secure Boot certificates, issued in 2011, are approaching expiration in 2026. To help IT administrators track whether devices have received replacement certificates, Microsoft has added new status indicators to the Windows Security app, under Device security &gt; Secure Boot. Updated 2023 certificates are being delivered automatically through Windows Update to consumer devices and some business devices. The new app indicators show whether a given device has received those updates, what its current certificate state &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/03/windows-secure-boot-certificate-update-2026-expiration/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/03/windows-secure-boot-certificate-update-2026-expiration/"&gt;Windows Security app gets Secure Boot certificate status indicators as 2026 expiration approaches&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -202,7 +209,7 @@ That’s this week. Read&amp;]]></description>
         <description><![CDATA[&lt;p&gt;Mike Masnick &lt;a href="https://www.techdirt.com/2026/03/26/everyone-cheering-the-social-media-addiction-verdicts-against-meta-should-understand-what-theyre-actually-cheering-for/"&gt;points out &lt;/a&gt; that the recent New Mexico court ruling against Meta has some bad implications for end-to-end encryption, and security in general:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;If the &amp;#8220;design choices create liability&amp;#8221; framework seems worrying in the abstract, the New Mexico case provides a concrete example of where it leads in practice.&lt;/p&gt;
 &lt;p&gt;One of the key pieces of evidence the New Mexico attorney general used against Meta was the company’s 2023 decision to add end-to-end encryption to Facebook Messenger. The argument went like this: predators used Messenger to groom minors and exchange child sexual abuse material. By encrypting those messages, Meta made it harder for law enforcement to access evidence of those crimes. Therefore, the encryption was a design choice that enabled harm...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -211,7 +218,7 @@ That’s this week. Read&amp;]]></description>
         <link>https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html</link>
         <description><![CDATA[&lt;p&gt;Google &lt;a href="https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"&gt;says&lt;/a&gt; that it will fully transition to post-quantum cryptography by 2029. I think this is a good move, not because I think we will have a useful quantum computer anywhere near that year, but because crypto-agility is always a good thing.&lt;/p&gt;
 &lt;p&gt;Slashdot &lt;a href="https://it.slashdot.org/story/26/03/27/2123239/google-moves-post-quantum-encryption-timeline-up-to-2029"&gt;thread&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -222,7 +229,7 @@ That’s this week. Read&amp;]]></description>
 &lt;p&gt;Original &lt;a href="https://www.nature.com/articles/s41598-025-00163-7"&gt;paper&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -230,7 +237,7 @@ That’s this week. Read&amp;]]></description>
         <title>[general] Company that Secretly Records and Publishes Zoom Meetings</title>
         <link>https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</link>
         <description><![CDATA[&lt;p&gt;WebinarTV searches the internet for public Zoom invites, joins the meetings, secretly records them, and &lt;a href="https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/"&gt;publishes&lt;/a&gt; (alternate &lt;a href="https://archive.ph/TYd4L"&gt;link&lt;/a&gt;) the recordings. It doesn&amp;#8217;t use the Zoom record feature, so Zoom can&amp;#8217;t do anything about it.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -242,7 +249,7 @@ That’s this week. Read&amp;]]></description>
 &lt;p&gt;&lt;i&gt;The Economist&lt;/i&gt; &lt;a href="https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back"&gt;noticed&lt;/a&gt; (alternate &lt;a href="https://archive.ph/vwuA1"&gt;link&lt;/a&gt;) this, too.&lt;/p&gt;
 &lt;p&gt;I think this is an &lt;a href="https://www.schneier.com/blog/archives/2007/04/cyberattack.html"&gt;incredibly dumb idea&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;In warfare, the notion of counterattack is extremely powerful. Going after the enemy­&amp;#8212;its positions, its supply lines, its factories, its infrastructure&amp;#8212;­is an age-old military tactic. But in peacetime, we call it revenge, and consider it dangerous. Anyone accused of a crime deserves a fair trial. The accused has the right to defend himself, to face his accuser, to an attorney, and to be presumed innocent until proven guilty...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -252,7 +259,7 @@ That’s this week. Read&amp;]]></description>
         <description><![CDATA[&lt;p&gt;Last week, I listened to a fascinating talk by K. Melton on cognitive security, cognitive hacking, and reality pentesting. The slides from the talk are &lt;a href="https://github.com/cptkj42/presos/blob/main/26-03-17_CSI-103%20__Reality%20Pentesting%20A%20Conceptual%20Cognitive%20Field%20Topology.pdf"&gt;here&lt;/a&gt;, but&amp;#8212;even better&amp;#8212;Menton has a &lt;a href="https://cptkj.substack.com/p/intro-to-reality-pentesting"&gt;long essay&lt;/a&gt; laying out the basic concepts and ideas.&lt;/p&gt;
 &lt;p&gt;The whole thing is important and well worth reading, and I hesitate to excerpt. Here&amp;#8217;s a taste:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The NeuroCompiler is where raw sensory data gets interpreted before you&amp;#8217;re consciously aware of it. It decides what things mean, and it does this fast, automatic, and mostly invisible. It&amp;#8217;s also where the majority of cognitive exploits actually land, right in this sweet spot between perception and conscious thought...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -263,7 +270,7 @@ That’s this week. Read&amp;]]></description>
 &lt;p&gt;I am incredibly pleased to see them get this recognition. I have always thought the technology to be fantastic, even though I think it&amp;#8217;s largely unnecessary. I wrote up my thoughts back in 2008, in an &lt;a&gt;essay&lt;/a&gt; titled &amp;#8220;Quantum Cryptography: As Awesome As It Is Pointless.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;Back then, I wrote:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;While I like the science of quantum cryptography&amp;#8212;my undergraduate degree was in physics&amp;#8212;I don&amp;#8217;t see any commercial value in it. I don&amp;#8217;t believe it solves any security problem that needs solving. I don&amp;#8217;t believe that it&amp;#8217;s worth paying for, and I can&amp;#8217;t imagine anyone but a few technophiles buying and deploying it. Systems that use it don&amp;#8217;t magically become unbreakable, because the quantum part doesn&amp;#8217;t address the weak points of the system...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 
@@ -272,7 +279,7 @@ That’s this week. Read&amp;]]></description>
         <link>https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html</link>
         <description><![CDATA[&lt;p&gt;A &lt;a href="https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator"&gt;thoughtful review&lt;/a&gt; of Apple&amp;#8217;s system to alert users that the camera is on. It&amp;#8217;s really well-designed, and important in a world where malware could surreptitiously start recording.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The reason it&amp;#8217;s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the fact that hardware is generally more secure than software, because it&amp;#8217;s harder to tamper with. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it&amp;#8217;s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:28:01 GMT</pubDate>
     </item>
     
 </channel></rss>
