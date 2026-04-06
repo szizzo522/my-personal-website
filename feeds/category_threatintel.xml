@@ -6,19 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
-        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 06 Apr 2026 09:00:57 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] $285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation</title>
         <link>https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html</link>
         <description><![CDATA[Drift&amp;nbsp;has revealed that the April 1, 2026, attack that led to&amp;nbsp;the theft of $285&amp;nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&amp;nbsp;2025.
 The&amp;nbsp;Solana-based decentralized exchange described it as "an attack six months in the]]></description>
-        <pubDate>Mon, 06 Apr 2026 09:00:57 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 09:39:37 GMT</pubDate>
     </item>
     
 
@@ -28,15 +20,15 @@ The&amp;nbsp;Solana-based decentralized exchange described it as "an attack six 
         <description><![CDATA[A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&amp;nbsp;following a two-year&amp;nbsp;period of minimal targeting in the&amp;nbsp;region.
 The campaign has been attributed&amp;nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&amp;nbsp;Panda.
 "This TA416 activity included multiple]]></description>
-        <pubDate>Mon, 06 Apr 2026 09:00:57 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 09:39:37 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] European Commission breach exposed data of 30 EU entities, CERT-EU says</title>
-        <link>https://securityaffairs.com/190333/security/european-commission-breach-exposed-data-of-30-eu-entities-cert-eu-says.html</link>
-        <description><![CDATA[CERT-EU says a European Commission cloud hack exposed data from 30 EU entities and links the breach to the TeamPCP group. CERT-EU attributed a European Commission cloud breach to the TeamPCP threat group, revealing that data from at least 30 EU entities was exposed. The incident was publicly disclosed on March 27 after inquiries confirmed [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 09:00:57 GMT</pubDate>
+        <title>[threat-intel] Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting</title>
+        <link>https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting</link>
+        <description><![CDATA[As organizations disclose breaches tied to TeamPCP's supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.]]></description>
+        <pubDate>Mon, 06 Apr 2026 09:39:37 GMT</pubDate>
     </item>
     
 
@@ -44,7 +36,15 @@ The campaign has been attributed&amp;nbsp;to TA416, a cluster of activity that o
         <title>[threat-intel] Pro-Iran Handala group breached Israeli defence contractor PSK Wind Technologies</title>
         <link>https://securityaffairs.com/190319/data-breach/pro-iran-handala-group-breached-israeli-defence-contractor-psk-wind-technologies.html</link>
         <description><![CDATA[Iran-linked hackers claim to have breached Israeli air defence contractor PSK Wind, which develops command and control systems. Pro-Iran Handala group announced on April 2 that it breached PSK Wind Technologies, an Israeli engineering and IT firm specializing in integrated systems for defense and critical communications, including command and control solutions. Handala appears as a [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 09:00:57 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 09:39:37 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Mon, 06 Apr 2026 09:39:37 GMT</pubDate>
     </item>
     
 </channel></rss>
