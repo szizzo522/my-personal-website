@@ -9,7 +9,7 @@
         <title>[ransomware] Die Linke German political party confirms data stolen by Qilin ransomware</title>
         <link>https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/</link>
         <description><![CDATA[The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]]]></description>
-        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 03:42:08 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[ransomware] Evolution of Ransomware: Multi-Extortion Ransomware Attacks</title>
         <link>https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/</link>
         <description><![CDATA[Multi-extortion ransomware relies on stolen data to pressure victims with public leaks. Penta Security explains how its D.AMO platform keeps exfiltrated files encrypted and useless to attackers. [...]]]></description>
-        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 03:42:08 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[ransomware] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
         <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
         <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
-        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 03:42:08 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,15 @@
         <title>[ransomware] Qilin ransomware group claims the hack of German political party Die Linke</title>
         <link>https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html</link>
         <description><![CDATA[Qilin ransomware claims it stole data from Germany’s Die Linke and threatens to leak it; the party confirmed the incident, but not a breach. The Qilin ransomware group claims it stole data from Die Linke, a German political party, and is threatening to release it. Die Linke is a left-wing political party in Germany. Its [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 03:42:08 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[ransomware] North Korea–linked hackers drain $285M from Drift in sophisticated attack</title>
+        <link>https://securityaffairs.com/190330/hacking/north-korea-linked-hackers-drain-285m-from-drift-in-sophisticated-attack.html</link>
+        <description><![CDATA[Drift lost $285M in a sophisticated attack, likely by North Korea, who used nonce-based tricks to gain control and quickly drain funds Drift suffered a $285 million cryptocurrency heist in a highly sophisticated attack likely linked to North Korea. Threat actors used durable nonce accounts to pre-sign and delay transactions, while also compromising multisig approvals [&amp;#8230;]]]></description>
+        <pubDate>Mon, 06 Apr 2026 03:42:08 GMT</pubDate>
     </item>
     
 
@@ -41,7 +49,7 @@
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Mon, 06 Apr 2026 02:19:19 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 03:42:08 GMT</pubDate>
     </item>
     
 </channel></rss>
