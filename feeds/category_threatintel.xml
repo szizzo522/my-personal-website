@@ -6,27 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Mon, 06 Apr 2026 18:37:22 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 06 Apr 2026 18:37:22 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea</title>
-        <link>https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html</link>
-        <description><![CDATA[Threat&amp;nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&amp;nbsp;Korea.
-The&amp;nbsp;attack chain,&amp;nbsp;per Fortinet FortiGuard&amp;nbsp;Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF]]></description>
-        <pubDate>Mon, 06 Apr 2026 18:37:22 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 19:10:18 GMT</pubDate>
     </item>
     
 
@@ -35,7 +18,7 @@ The&amp;nbsp;attack chain,&amp;nbsp;per Fortinet FortiGuard&amp;nbsp;Labs, invol
         <link>https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html</link>
         <description><![CDATA[Drift&amp;nbsp;has revealed that the April 1, 2026, attack that led to&amp;nbsp;the theft of $285&amp;nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&amp;nbsp;2025.
 The&amp;nbsp;Solana-based decentralized exchange described it as "an attack six months in the]]></description>
-        <pubDate>Mon, 06 Apr 2026 18:37:22 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 19:10:18 GMT</pubDate>
     </item>
     
 
@@ -45,7 +28,23 @@ The&amp;nbsp;Solana-based decentralized exchange described it as "an attack six 
         <description><![CDATA[A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&amp;nbsp;following a two-year&amp;nbsp;period of minimal targeting in the&amp;nbsp;region.
 The campaign has been attributed&amp;nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&amp;nbsp;Panda.
 "This TA416 activity included multiple]]></description>
-        <pubDate>Mon, 06 Apr 2026 18:37:22 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 19:10:18 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting</title>
+        <link>https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting</link>
+        <description><![CDATA[As organizations disclose breaches tied to TeamPCP's supply chain attacks, ShinyHunters and Lapsus$ are getting involved, taking credit, and creating a murky situation for enterprises.]]></description>
+        <pubDate>Mon, 06 Apr 2026 19:10:18 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] North Korea–linked hackers drain $285M from Drift in sophisticated attack</title>
+        <link>https://securityaffairs.com/190330/hacking/north-korea-linked-hackers-drain-285m-from-drift-in-sophisticated-attack.html</link>
+        <description><![CDATA[Drift lost $285M in a sophisticated attack, likely by North Korea, who used nonce-based tricks to gain control and quickly drain funds Drift suffered a $285 million cryptocurrency heist in a highly sophisticated attack likely linked to North Korea. Threat actors used durable nonce accounts to pre-sign and delay transactions, while also compromising multisig approvals [&amp;#8230;]]]></description>
+        <pubDate>Mon, 06 Apr 2026 19:10:18 GMT</pubDate>
     </item>
     
 </channel></rss>
