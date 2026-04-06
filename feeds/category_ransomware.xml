@@ -9,7 +9,15 @@
         <title>[ransomware] Microsoft links Medusa ransomware affiliate to zero-day attacks</title>
         <link>https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/</link>
         <description><![CDATA[Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]]]></description>
-        <pubDate>Mon, 06 Apr 2026 22:20:24 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[ransomware] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+        <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+        <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
     </item>
     
 
@@ -18,7 +26,7 @@
         <link>https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html</link>
         <description><![CDATA[Threat actors associated&amp;nbsp;with Qilin&amp;nbsp;and Warlock ransomware operations&amp;nbsp;have been&amp;nbsp;observed using the bring your own vulnerable driver&amp;nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&amp;nbsp;Micro.
 Qilin attacks analyzed by Talos&amp;nbsp;have been&amp;nbsp;found to deploy a malicious DLL named "msimg32.dll,"]]></description>
-        <pubDate>Mon, 06 Apr 2026 22:20:24 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
     </item>
     
 
@@ -27,7 +35,7 @@ Qilin attacks analyzed by Talos&amp;nbsp;have been&amp;nbsp;found to deploy a ma
         <link>https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html</link>
         <description><![CDATA[Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.
 One of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum]]></description>
-        <pubDate>Mon, 06 Apr 2026 22:20:24 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
     </item>
     
 
@@ -35,7 +43,7 @@ One of the threat actors, who went by the alias UNKN, functioned as a representa
         <title>[ransomware] BKA unmasks two REvil Ransomware operators behind 130+ German attacks</title>
         <link>https://securityaffairs.com/190401/cyber-crime/bka-unmasks-two-revil-ransomware-operators-behind-130-german-attacks.html</link>
         <description><![CDATA[German police BKA identified two key REvil ransomware members, linking them to over 130 attacks in Germany. Germany’s Federal Criminal Police (BKA) has identified two key figures behind the REvil ransomware group, linking them to more than 130 attacks in the country. The first suspect is Daniil Maksimovich Shchukin (31), a Russian national known online [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 22:20:24 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
     </item>
     
 
@@ -43,7 +51,7 @@ One of the threat actors, who went by the alias UNKN, functioned as a representa
         <title>[ransomware] Qilin ransomware group claims the hack of German political party Die Linke</title>
         <link>https://securityaffairs.com/190348/cyber-crime/qilin-ransomware-group-claims-the-hack-of-german-political-party-die-linke.html</link>
         <description><![CDATA[Qilin ransomware claims it stole data from Germany’s Die Linke and threatens to leak it; the party confirmed the incident, but not a breach. The Qilin ransomware group claims it stole data from Die Linke, a German political party, and is threatening to release it. Die Linke is a left-wing political party in Germany. Its [&amp;#8230;]]]></description>
-        <pubDate>Mon, 06 Apr 2026 22:20:24 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
     </item>
     
 
@@ -51,7 +59,7 @@ One of the threat actors, who went by the alias UNKN, functioned as a representa
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Mon, 06 Apr 2026 22:20:24 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:04:31 GMT</pubDate>
     </item>
     
 </channel></rss>
