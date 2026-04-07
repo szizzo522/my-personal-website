@@ -6,10 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[phishing] Traffic violation scams switch to QR codes in new phishing texts</title>
-        <link>https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/</link>
-        <description><![CDATA[Scammers are sending fake "Notice of Default" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to scan a QR code that leads to a phishing site demanding a $6.99 payment while stealing personal and financial information. [...]]]></description>
-        <pubDate>Tue, 07 Apr 2026 11:36:29 GMT</pubDate>
+        <title>[phishing] AI-enabled device code phishing campaign exploits OAuth flow for account takeover</title>
+        <link>https://www.helpnetsecurity.com/2026/04/07/microsoft-device-code-phishing-campaign/</link>
+        <description><![CDATA[&lt;p&gt;A phishing campaign that bypasses the standard 15-minute expiration window through automation and dynamic code generation, leveraging the OAuth Device Code Authentication flow to compromise organizational accounts at scale, has been observed by the Microsoft Defender Security Research team. The campaign uses AI-assisted infrastructure and end-to-end automation. Attack overview Device Code Authentication is a legitimate OAuth flow designed for devices that cannot support a standard interactive login. In this model, a code is presented on &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/07/microsoft-device-code-phishing-campaign/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/07/microsoft-device-code-phishing-campaign/"&gt;AI-enabled device code phishing campaign exploits OAuth flow for account takeover&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Tue, 07 Apr 2026 20:53:25 GMT</pubDate>
     </item>
     
 </channel></rss>
