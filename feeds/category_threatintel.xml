@@ -9,23 +9,7 @@
         <title>[threat-intel] US warns of Iranian hackers targeting critical infrastructure</title>
         <link>https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/</link>
         <description><![CDATA[Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]]]></description>
-        <pubDate>Tue, 07 Apr 2026 23:04:58 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Tue, 07 Apr 2026 23:04:58 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Tue, 07 Apr 2026 23:04:58 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 23:28:49 GMT</pubDate>
     </item>
     
 
@@ -33,7 +17,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Tue, 07 Apr 2026 23:04:58 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 23:28:49 GMT</pubDate>
     </item>
     
 
@@ -43,16 +27,24 @@
         <description><![CDATA[An&amp;nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&amp;nbsp;ongoing conflict in the Middle&amp;nbsp;East.
 The&amp;nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check&amp;nbsp;Point.
 "The campaign is primarily]]></description>
-        <pubDate>Tue, 07 Apr 2026 23:04:58 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 23:28:49 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] AI-enabled device code phishing campaign exploits OAuth flow for account takeover</title>
-        <link>https://www.helpnetsecurity.com/2026/04/07/microsoft-device-code-phishing-campaign/</link>
-        <description><![CDATA[&lt;p&gt;A phishing campaign that bypasses the standard 15-minute expiration window through automation and dynamic code generation, leveraging the OAuth Device Code Authentication flow to compromise organizational accounts at scale, has been observed by the Microsoft Defender Security Research team. The campaign uses AI-assisted infrastructure and end-to-end automation. Attack overview Device Code Authentication is a legitimate OAuth flow designed for devices that cannot support a standard interactive login. In this model, a code is presented on &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/07/microsoft-device-code-phishing-campaign/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/07/microsoft-device-code-phishing-campaign/"&gt;AI-enabled device code phishing campaign exploits OAuth flow for account takeover&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 07 Apr 2026 23:04:58 GMT</pubDate>
+        <title>[threat-intel] DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea</title>
+        <link>https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html</link>
+        <description><![CDATA[Threat&amp;nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&amp;nbsp;Korea.
+The&amp;nbsp;attack chain,&amp;nbsp;per Fortinet FortiGuard&amp;nbsp;Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF]]></description>
+        <pubDate>Tue, 07 Apr 2026 23:28:49 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Tue, 07 Apr 2026 23:28:49 GMT</pubDate>
     </item>
     
 </channel></rss>
