@@ -9,23 +9,15 @@
         <title>[threat-intel] US warns of Iranian hackers targeting critical infrastructure</title>
         <link>https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/</link>
         <description><![CDATA[Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 06:51:12 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
-        <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
-        <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
+        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
+        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
+        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
+        <pubDate>Wed, 08 Apr 2026 06:51:12 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 06:51:12 GMT</pubDate>
     </item>
     
 
@@ -42,16 +34,7 @@
         <link>https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html</link>
         <description><![CDATA[Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&amp;nbsp;agencies warned&amp;nbsp;Tuesday.
 "These attacks have led to diminished PLC functionality, manipulation of display data and, in some cases, operational disruption and financial]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign</title>
-        <link>https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html</link>
-        <description><![CDATA[The Russia-linked threat actor known&amp;nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May&amp;nbsp;2025.
-The large-scale exploitation campaign has&amp;nbsp;been codenamed&amp;nbsp;]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 06:51:12 GMT</pubDate>
     </item>
     
 
@@ -61,15 +44,7 @@ The large-scale exploitation campaign has&amp;nbsp;been codenamed&amp;nbsp;]]></
         <description><![CDATA[An&amp;nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&amp;nbsp;ongoing conflict in the Middle&amp;nbsp;East.
 The&amp;nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check&amp;nbsp;Point.
 "The campaign is primarily]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
-        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
-        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 06:51:12 GMT</pubDate>
     </item>
     
 
@@ -78,7 +53,7 @@ The&amp;nbsp;activity, assessed to be ongoing, was carried out in three distinct
         <link>https://www.helpnetsecurity.com/2026/04/08/large-botnets-campaigns-attack-activity/</link>
         <description><![CDATA[&lt;p&gt;Attack activity is moving toward infrastructure outside endpoint visibility. Proxy networks support a wide range of operations, edge devices serve as initial access points, and GenAI speeds up how attackers assemble and rebuild their tooling. Lumen’s 2026 Threatscape Report describes this pattern in criminal and nation-state activity. &amp;#8220;Threat intelligence is needed to find the adversary as early as possible and as close to the point of origination as possible,&amp;#8221; said Chris Kissel, IDC VP, Security &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/08/large-botnets-campaigns-attack-activity/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/08/large-botnets-campaigns-attack-activity/"&gt;Cybercriminals move deeper into networks, hiding in edge infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 08 Apr 2026 06:05:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 06:51:12 GMT</pubDate>
     </item>
     
 </channel></rss>
