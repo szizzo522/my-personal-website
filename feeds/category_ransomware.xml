@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[ransomware] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
-        <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
-        <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
-        <pubDate>Wed, 08 Apr 2026 21:18:29 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[ransomware] Storm-1175 Deploys Medusa Ransomware at 'High Velocity'</title>
         <link>https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity</link>
         <description><![CDATA[Microsoft says the financially motivated cybercrime group has exploited N-day and zero-day vulnerabilities in campaigns predicated on speed.]]></description>
-        <pubDate>Wed, 08 Apr 2026 21:18:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 21:35:19 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[ransomware] Signature Healthcare hit by cyberattack, services and pharmacies impacted</title>
         <link>https://securityaffairs.com/190504/security/signature-healthcare-hit-by-cyberattack-services-and-pharmacies-impacted.html</link>
         <description><![CDATA[Massachusetts’ Signature Healthcare diverts ambulances and cancels services after a cyberattack disrupts hospital operations and pharmacy access. The hospital Signature Healthcare in Brockton, Massachusetts, diverted ambulances and canceled some services after a cyberattack disrupted operations. Pharmacies couldn’t fill prescriptions, though urgent care and walk-in services remained open. Signature Healthcare Brockton Hospital is a non-profit community [&amp;#8230;]]]></description>
-        <pubDate>Wed, 08 Apr 2026 21:18:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 21:35:19 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[ransomware] Fast-moving Storm-1175 uses new exploits to breach networks and drop Medusa</title>
         <link>https://securityaffairs.com/190440/cyber-crime/fast-moving-storm-1175-uses-new-exploits-to-breach-networks-and-drop-medusa.html</link>
         <description><![CDATA[China-based actor Storm-1175 runs fast ransomware attacks, exploiting new flaws to breach systems and quickly deploy Medusa ransomware. China-based actor Storm-1175 carries out fast, financially driven ransomware attacks by exploiting newly disclosed vulnerabilities before organizations patch them. The group targets exposed systems and quickly moves from initial access to data theft and Medusa ransomware deployment, [&amp;#8230;]]]></description>
-        <pubDate>Wed, 08 Apr 2026 21:18:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 21:35:19 GMT</pubDate>
     </item>
     
 
@@ -41,7 +33,7 @@
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Wed, 08 Apr 2026 21:18:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 21:35:19 GMT</pubDate>
     </item>
     
 </channel></rss>
