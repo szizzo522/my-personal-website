@@ -10,7 +10,7 @@
         <link>https://www.helpnetsecurity.com/2026/04/09/saas-platforms-notification-systems-phishing/</link>
         <description><![CDATA[&lt;p&gt;Attackers are abusing the notification systems of SaaS platforms like GitHub and Jira to send phishing and spam emails, Cisco Talos researchers are warning. &amp;#8220;Because the emails are dispatched from the platform&amp;#8217;s own infrastructure, they satisfy all standard authentication requirements (SPF, DKIM, and DMARC), effectively neutralizing the primary gatekeepers of modern email security,&amp;#8221; they note. &amp;#8220;By decoupling the malicious intent from the technical infrastructure, attackers successfully deliver phishing content with a &amp;#8216;seal of approval&amp;#8217; that &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/saas-platforms-notification-systems-phishing/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/saas-platforms-notification-systems-phishing/"&gt;Phishers sneak through using GitHub and Jira’s own mail delivery infrastructure&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:52:50 GMT</pubDate>
     </item>
     
 </channel></rss>
