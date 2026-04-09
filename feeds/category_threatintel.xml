@@ -9,7 +9,15 @@
         <title>[threat-intel] Webinar: From noise to signal - What threat actors are targeting next</title>
         <link>https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/</link>
         <description><![CDATA[Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join our upcoming webinar with Flare Systems to learn how to turn those early warning signs into proactive defensive action before an intrusion begins. [...]]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
+        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
+        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 
@@ -17,7 +25,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 
@@ -26,7 +34,7 @@
         <link>https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html</link>
         <description><![CDATA[An&amp;nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&amp;nbsp;from Access&amp;nbsp;Now, Lookout,&amp;nbsp;and SMEX.
 Two&amp;nbsp;of the targets included prominent Egyptian journalists and government critics, Mostafa]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 
@@ -34,7 +42,7 @@ Two&amp;nbsp;of the targets included prominent Egyptian journalists and governme
         <title>[threat-intel] Russia's 'Fancy Bear' APT Continues Its Global Onslaught</title>
         <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
         <description><![CDATA[Victims don't need to match the cybercrime group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 
@@ -42,7 +50,7 @@ Two&amp;nbsp;of the targets included prominent Egyptian journalists and governme
         <title>[threat-intel] The alleged breach of China’s National Supercomputing Center can have serious geopolitical consequences</title>
         <link>https://securityaffairs.com/190536/hacking/the-alleged-breach-of-chinas-national-supercomputing-center-can-have-serious-geopolitical-consequences.html</link>
         <description><![CDATA[A hacker allegedly stole 10+ PB of sensitive military and aerospace data from China’s National Supercomputing Center, risking national security. A massive alleged breach has hit China’s National Supercomputing Center (NSCC) in Tianjin. A hacker claims to have exfiltrated over 10 petabytes of highly sensitive data, including military, aerospace, and missile-related information. The facility supports [&amp;#8230;]]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 
@@ -50,15 +58,7 @@ Two&amp;nbsp;of the targets included prominent Egyptian journalists and governme
         <title>[threat-intel] U.S. agencies alert: Iran-linked actors target critical infrastructure PLCs</title>
         <link>https://securityaffairs.com/190485/apt/u-s-agencies-alert-iran-linked-actors-target-critical-infrastructure-plcs.html</link>
         <description><![CDATA[U.S. agencies warn Iran-linked threat actors are targeting internet-exposed PLCs used in critical infrastructure networks. U.S. agencies, including the FBI and CISA, warn that Iran-linked hackers are targeting internet-exposed Rockwell/Allen-Bradley PLCs used in critical infrastructure. The agencies published a joint advisory involving multiple federal organizations. &amp;#8220;Iran-affiliated advanced persistent threat (APT) actors are conducting exploitation activity [&amp;#8230;]]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
-        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
-        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 
@@ -67,7 +67,7 @@ Two&amp;nbsp;of the targets included prominent Egyptian journalists and governme
         <link>https://www.helpnetsecurity.com/2026/04/09/mallory-ai-native-threat-intelligence-platform/</link>
         <description><![CDATA[&lt;p&gt;Mallory is launching an AI-native threat intelligence platform, purpose-built to answer the questions CISOs and their teams are asking every day: What are the real threat vectors for our organization? What’s actually exploitable in our environment right now? What should we proactively fix? The platform monitors thousands of threat sources, contextualizes them against your actual attack surface, and puts that intelligence to work across hunt, detection, and exposure management use cases. One platform. Answers, not &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/mallory-ai-native-threat-intelligence-platform/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/mallory-ai-native-threat-intelligence-platform/"&gt;Mallory brings contextual threat intelligence to security operations&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 22:47:43 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 23:06:31 GMT</pubDate>
     </item>
     
 </channel></rss>
