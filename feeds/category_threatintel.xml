@@ -9,7 +9,15 @@
         <title>[threat-intel] Google: New UNC6783 hackers steal corporate Zendesk support tickets</title>
         <link>https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/</link>
         <description><![CDATA[A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 
@@ -17,7 +25,16 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region</title>
+        <link>https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html</link>
+        <description><![CDATA[An&amp;nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&amp;nbsp;from Access&amp;nbsp;Now, Lookout,&amp;nbsp;and SMEX.
+Two&amp;nbsp;of the targets included prominent Egyptian journalists and government critics, Mostafa]]></description>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 
@@ -26,7 +43,7 @@
         <link>https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html</link>
         <description><![CDATA[Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&amp;nbsp;agencies warned&amp;nbsp;Tuesday.
 "These attacks have led to diminished PLC functionality, manipulation of display data and, in some cases, operational disruption and financial]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 
@@ -34,7 +51,7 @@
         <title>[threat-intel] Threat Actors Get Crafty With Emojis to Escape Detection</title>
         <link>https://www.darkreading.com/cyber-risk/emojis-power-covert-threat-actor-communications</link>
         <description><![CDATA[When 🤖 means &amp;quot;bot available,&amp;quot; 🧰 signifies &amp;quot;toolkit,&amp;quot; or 💰💰💰 translates to &amp;quot;big ransom,&amp;quot; bad actors can evade filters and keep it all on the down-low.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 
@@ -42,7 +59,7 @@
         <title>[threat-intel] Iranian Threat Actors Disrupt US Critical Infrastructure Via Exposed PLCs</title>
         <link>https://www.darkreading.com/ics-ot-security/iranian-threat-actors-us-critical-infrastructure-exposed-plcs</link>
         <description><![CDATA[Attackers compromised Internet-facing OT devices and caused file and display manipulation, operational disruption, and financial losses across sectors.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 
@@ -50,7 +67,7 @@
         <title>[threat-intel] The alleged breach of China’s National Supercomputing Center can have serious geopolitical consequences</title>
         <link>https://securityaffairs.com/190536/hacking/the-alleged-breach-of-chinas-national-supercomputing-center-can-have-serious-geopolitical-consequences.html</link>
         <description><![CDATA[A hacker allegedly stole 10+ PB of sensitive military and aerospace data from China’s National Supercomputing Center, risking national security. A massive alleged breach has hit China’s National Supercomputing Center (NSCC) in Tianjin. A hacker claims to have exfiltrated over 10 petabytes of highly sensitive data, including military, aerospace, and missile-related information. The facility supports [&amp;#8230;]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 
@@ -58,7 +75,15 @@
         <title>[threat-intel] U.S. agencies alert: Iran-linked actors target critical infrastructure PLCs</title>
         <link>https://securityaffairs.com/190485/apt/u-s-agencies-alert-iran-linked-actors-target-critical-infrastructure-plcs.html</link>
         <description><![CDATA[U.S. agencies warn Iran-linked threat actors are targeting internet-exposed PLCs used in critical infrastructure networks. U.S. agencies, including the FBI and CISA, warn that Iran-linked hackers are targeting internet-exposed Rockwell/Allen-Bradley PLCs used in critical infrastructure. The agencies published a joint advisory involving multiple federal organizations. &amp;#8220;Iran-affiliated advanced persistent threat (APT) actors are conducting exploitation activity [&amp;#8230;]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:23:21 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
     </item>
     
 </channel></rss>
