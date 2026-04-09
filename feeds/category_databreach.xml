@@ -6,10 +6,11 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] Eurail says December data breach impacts 300,000 individuals</title>
-        <link>https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/</link>
-        <description><![CDATA[Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]]]></description>
-        <pubDate>Thu, 09 Apr 2026 17:26:59 GMT</pubDate>
+        <title>[data-breach] 113,000 explicit prompts from AI girlfriend platform exposed, many linked to user IDs</title>
+        <link>https://www.helpnetsecurity.com/2026/04/09/mylovely-ai-data-breach-user-conversations/</link>
+        <description><![CDATA[&lt;p&gt;MyLovely.AI, an AI girlfriend platform, suffered a data breach that exposed over 100,000 users. MyLovely.AI allows people to create personalized not safe for work (NSFW) content and engage in real-time conversations with AI-generated companions, often involving highly personal prompts and interactions. According to Have I Been Pwned, the breach exposed email addresses, user-created prompts, links to the resulting AI-generated images, and a limited number of social media profiles, including Discord and X usernames. Based on &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/mylovely-ai-data-breach-user-conversations/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/mylovely-ai-data-breach-user-conversations/"&gt;113,000 explicit prompts from AI girlfriend platform exposed, many linked to user IDs&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 09 Apr 2026 18:22:32 GMT</pubDate>
     </item>
     
 </channel></rss>
