@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[cybercrime] North Korea–linked hackers drain $285M from Drift in sophisticated attack</title>
-        <link>https://securityaffairs.com/190330/hacking/north-korea-linked-hackers-drain-285m-from-drift-in-sophisticated-attack.html</link>
-        <description><![CDATA[Drift lost $285M in a sophisticated attack, likely by North Korea, who used nonce-based tricks to gain control and quickly drain funds Drift suffered a $285 million cryptocurrency heist in a highly sophisticated attack likely linked to North Korea. Threat actors used durable nonce accounts to pre-sign and delay transactions, while also compromising multisig approvals [&amp;#8230;]]]></description>
-        <pubDate>Fri, 03 Apr 2026 21:03:33 GMT</pubDate>
+        <title>[cybercrime] Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot</title>
+        <link>https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/</link>
+        <description><![CDATA[Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]]]></description>
+        <pubDate>Thu, 09 Apr 2026 16:31:05 GMT</pubDate>
     </item>
     
 </channel></rss>
