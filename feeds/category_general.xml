@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[general] Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot</title>
-        <link>https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/</link>
-        <description><![CDATA[Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <title>[general] Eurail says December data breach impacts 300,000 individuals</title>
+        <link>https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/</link>
+        <description><![CDATA[Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]]]></description>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[general] Is a $30,000 GPU Good at Password Cracking?</title>
         <link>https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/</link>
         <description><![CDATA[A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,7 @@
         <title>[general] The Hidden Security Risks of Shadow AI in Enterprises</title>
         <link>https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html</link>
         <description><![CDATA[As&amp;nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&amp;nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While&amp;nbsp;similar to the phenomenon of]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -43,7 +43,15 @@
         <description><![CDATA[The Fragmented State of Modern Enterprise&amp;nbsp;Identity
 Enterprise IAM is approaching a breaking point. As&amp;nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous&amp;nbsp;systems.&amp;nbsp;
 The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] AI-Led Remediation Crisis Prompts HackerOne to Pause Bug Bounties</title>
+        <link>https://www.darkreading.com/application-security/ai-led-remediation-crisis-prompts-hackerone-pause-bug-bounties</link>
+        <description><![CDATA[Discovery used to be the bottleneck for open source bugs, but with automated discovery, remediation's the bottleneck, which bounties don't fund.]]></description>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -51,7 +59,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Fraud Rockets Higher in Mobile-First Latin America</title>
         <link>https://www.darkreading.com/cyberattacks-data-breaches/fraud-mobile-first-latin-america</link>
         <description><![CDATA[Cyber-fraudsters move quickly from compromised devices to account takeover to funds transfer, shifting money before many financial institutions can react.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -59,7 +67,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Full Sail University to Open IBM Cyber Defense Range Powered by AWS and Cloud Range on Campus</title>
         <link>https://www.darkreading.com/cybersecurity-operations/full-sail-university-ibm-cyber-defense-range-aws-cloud-range</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -67,7 +75,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Niobium Introduces The Fog</title>
         <link>https://www.darkreading.com/endpoint-security/niobium-introduces-the-fog</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -75,7 +83,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Pluralsight Launches SecureReady to Help Organizations Build Job-Ready Cybersecurity Teams</title>
         <link>https://www.darkreading.com/remote-workforce/pluralsight-launches-secureready-cybersecurity-teams</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -83,7 +91,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -91,7 +99,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -99,15 +107,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -115,7 +115,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -123,7 +123,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -131,7 +131,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -139,7 +139,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Project Glasswing powered by Claude Mythos: defending software before hackers do</title>
         <link>https://securityaffairs.com/190496/ai/project-glasswing-powered-by-claude-mythos-defending-software-before-hackers-do.html</link>
         <description><![CDATA[Anthropic unveiled Claude Mythos, a powerful AI for cybersecurity that could also be misused to enhance cyberattacks. Anthropic has unveiled Claude Mythos, a new AI model designed to strengthen cybersecurity through Project Glasswing, aiming to secure critical software before it can be abused. Interest in Mythos grew after a leak of nearly 3,000 internal files [&amp;#8230;]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -147,7 +147,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Major outage cripples Russian banking apps and metro payments nationwide</title>
         <link>https://securityaffairs.com/190464/security/major-outage-cripples-russian-banking-apps-and-metro-payments-nationwide.html</link>
         <description><![CDATA[A major outage hit Russian banking apps and payments, blocking card use, cash withdrawals, and mobile access for hours. A widespread outage disrupted banking apps and payment systems across Russia, leaving customers unable to pay by card, withdraw cash, or access mobile banking for hours. According to The Record Media, the incident affected major banks, [&amp;#8230;]]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -155,7 +155,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Student Loan Breach Exposes 2.5M Records</title>
         <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
         <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -163,7 +163,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -171,7 +171,16 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
         <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
         <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] OPSWAT adds predictive AI engine to MetaDefender for pre-execution threat detection</title>
+        <link>https://www.helpnetsecurity.com/2026/04/09/opswat-adds-predictive-ai-engine-to-metadefender-for-pre-execution-threat-detection/</link>
+        <description><![CDATA[&lt;p&gt;OPSWAT has announced OPSWAT Predictive Alin AI, its first proprietary AI-based threat detection engine for the MetaDefender Platform. This AI-based innovation introduces a new category of capability within the MetaDefender Platform, a high-confidence predictive layer that works alongside existing detection and prevention engines to assess malicious intent before execution, driving greater efficiency across the platform. This enables organizations to act immediately, while minimizing the operational impacts of false positives. “At OPSWAT, we&amp;#8217;ve always believed that &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/opswat-adds-predictive-ai-engine-to-metadefender-for-pre-execution-threat-detection/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/opswat-adds-predictive-ai-engine-to-metadefender-for-pre-execution-threat-detection/"&gt;OPSWAT adds predictive AI engine to MetaDefender for pre-execution threat detection&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -180,7 +189,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <link>https://www.helpnetsecurity.com/2026/04/09/whatsapp-username-privacy-feature/</link>
         <description><![CDATA[&lt;p&gt;After years of waiting, WhatsApp is set to roll out a username feature that will allow people to connect and communicate without sharing their phone numbers. This means more privacy and better control over phone number visibility by choosing a unique username. WhatsApp username feature (Source: WABetaInfo) The feature will become available to a limited number of people who install the latest version of the app over the coming months. &amp;#8220;Note that this feature is &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/whatsapp-username-privacy-feature/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/whatsapp-username-privacy-feature/"&gt;WhatsApp brings long-awaited privacy feature to filter who can reach you&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -189,16 +198,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <link>https://www.helpnetsecurity.com/2026/04/09/meta-muse-spark-personal-superintelligence/</link>
         <description><![CDATA[&lt;p&gt;Meta Superintelligence Labs has introduced Muse Spark, a natively multimodal reasoning model with support for tool use, visual chain of thought, and multi-agent orchestration. The release includes a Contemplating mode, which is rolling out gradually and orchestrates multiple agents that reason in parallel. Prompt: Can you turn this into a sudoku game that I can play in the web? (Source: Meta) Capabilities Meta positions Muse Spark as part of its push toward personal superintelligence that &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/meta-muse-spark-personal-superintelligence/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/meta-muse-spark-personal-superintelligence/"&gt;Meta’s Muse Spark takes AI a step closer to personal superintelligence&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] AI agent intent is a starting point, not a security strategy</title>
-        <link>https://www.helpnetsecurity.com/2026/04/09/itamar-apelblat-token-security-ai-agents-security-risks/</link>
-        <description><![CDATA[&lt;p&gt;In this Help Net Security interview, Itamar Apelblat, CEO of Token Security, walks through findings from the company&amp;#8217;s research, which shows that 65% of agentic chatbots have never been used yet still hold live access credentials. He explains why organizations treat AI agents more like quick experiments than governed identities, and why that creates risks similar to orphaned service accounts, only harder to see. The conversation covers why 51% of external agent actions still rely &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/itamar-apelblat-token-security-ai-agents-security-risks/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/itamar-apelblat-token-security-ai-agents-security-risks/"&gt;AI agent intent is a starting point, not a security strategy&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -207,7 +207,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <link>https://www.helpnetsecurity.com/2026/04/09/asqav-ai-agent-audit-trail/</link>
         <description><![CDATA[&lt;p&gt;AI agents are executing consequential tasks autonomously, often across multiple systems and with little record of what they did or why. Asqav, a Python SDK released under the MIT license, addresses that gap by attaching a cryptographic signature to each agent action and linking entries into a hash chain. The signing algorithm is ML-DSA-65, standardized under FIPS 204 and designed to remain secure against quantum computing attacks. Each signature also carries an RFC 3161 timestamp. &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/09/asqav-ai-agent-audit-trail/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/09/asqav-ai-agent-audit-trail/"&gt;Asqav: Open-source SDK for AI agent governance&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -216,7 +216,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <link>https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html</link>
         <description><![CDATA[&lt;p&gt;AI is rapidly changing how software is written, deployed, and used. Trends point to a future where AIs can write custom software quickly and easily: “instant software.” Taken to an extreme, it might become easier for a user to have an AI write an application on demand&amp;#8212;a spreadsheet, for example&amp;#8212;and delete it when you’re done using it than to buy one commercially. Future systems could include a mix: both traditional long-term software and ephemeral instant software that is constantly being written, deployed, modified, and deleted.&lt;/p&gt;
 &lt;p&gt;AI is changing cybersecurity as well. In particular, AI systems are getting better at finding and patching vulnerabilities in code. This has implications for both attackers and defenders, depending on the ways this and related technologies improve...&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -226,17 +226,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <description><![CDATA[&lt;p&gt;According to a new law, the Hong Kong police can &lt;a href="https://www.msn.com/en-us/news/world/ar-AA1ZwfSE"&gt;demand&lt;/a&gt; that you reveal the encryption keys protecting your computer, phone, hard drives, etc.&amp;#8212;even if you are just transiting the airport.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;In a security alert dated March 26, the U.S. Consulate General said that, on March 23, 2026, Hong Kong authorities changed the rules governing enforcement of the National Security Law. Under the revised framework, police can require individuals to provide passwords or other assistance to access personal electronic devices, including cellphones and laptops.&lt;/p&gt;
 ...&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] New Mexico’s Meta Ruling and Encryption</title>
-        <link>https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html</link>
-        <description><![CDATA[&lt;p&gt;Mike Masnick &lt;a href="https://www.techdirt.com/2026/03/26/everyone-cheering-the-social-media-addiction-verdicts-against-meta-should-understand-what-theyre-actually-cheering-for/"&gt;points out &lt;/a&gt; that the recent New Mexico court ruling against Meta has some bad implications for end-to-end encryption, and security in general:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;If the &amp;#8220;design choices create liability&amp;#8221; framework seems worrying in the abstract, the New Mexico case provides a concrete example of where it leads in practice.&lt;/p&gt;
-&lt;p&gt;One of the key pieces of evidence the New Mexico attorney general used against Meta was the company’s 2023 decision to add end-to-end encryption to Facebook Messenger. The argument went like this: predators used Messenger to groom minors and exchange child sexual abuse material. By encrypting those messages, Meta made it harder for law enforcement to access evidence of those crimes. Therefore, the encryption was a design choice that enabled harm...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -245,7 +235,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <link>https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html</link>
         <description><![CDATA[&lt;p&gt;Google &lt;a href="https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"&gt;says&lt;/a&gt; that it will fully transition to post-quantum cryptography by 2029. I think this is a good move, not because I think we will have a useful quantum computer anywhere near that year, but because crypto-agility is always a good thing.&lt;/p&gt;
 &lt;p&gt;Slashdot &lt;a href="https://it.slashdot.org/story/26/03/27/2123239/google-moves-post-quantum-encryption-timeline-up-to-2029"&gt;thread&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -256,7 +246,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
 &lt;p&gt;Original &lt;a href="https://www.nature.com/articles/s41598-025-00163-7"&gt;paper&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;As usual, you can also use this squid post to talk about the security stories in the news that I haven&amp;#8217;t covered.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html"&gt;Blog moderation policy.&lt;/a&gt;&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 
@@ -264,7 +254,7 @@ The result is Identity Dark Matter: identity activity that sits outside the visi
         <title>[general] Company that Secretly Records and Publishes Zoom Meetings</title>
         <link>https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html</link>
         <description><![CDATA[&lt;p&gt;WebinarTV searches the internet for public Zoom invites, joins the meetings, secretly records them, and &lt;a href="https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/"&gt;publishes&lt;/a&gt; (alternate &lt;a href="https://archive.ph/TYd4L"&gt;link&lt;/a&gt;) the recordings. It doesn&amp;#8217;t use the Zoom record feature, so Zoom can&amp;#8217;t do anything about it.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 09 Apr 2026 11:50:03 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:21:11 GMT</pubDate>
     </item>
     
 </channel></rss>
