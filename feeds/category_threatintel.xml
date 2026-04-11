@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Sat, 11 Apr 2026 21:49:45 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Sat, 11 Apr 2026 21:49:45 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 22:08:30 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,16 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 11 Apr 2026 21:49:45 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 22:08:30 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
+        <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
+        <description><![CDATA[Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&amp;nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&amp;nbsp;Webloc.
+The tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&amp;nbsp;the two firms merged in July&amp;nbsp;2023]]></description>
+        <pubDate>Sat, 11 Apr 2026 22:08:30 GMT</pubDate>
     </item>
     
 
@@ -33,7 +34,7 @@
         <title>[threat-intel] Russia's 'Fancy Bear' APT Continues Its Global Onslaught</title>
         <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
         <description><![CDATA[Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.]]></description>
-        <pubDate>Sat, 11 Apr 2026 21:49:45 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 22:08:30 GMT</pubDate>
     </item>
     
 </channel></rss>
