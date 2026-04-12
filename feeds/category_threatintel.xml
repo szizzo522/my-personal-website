@@ -6,34 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Over 20,000 crypto fraud victims identified in international crackdown</title>
-        <link>https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/</link>
-        <description><![CDATA[An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]]]></description>
-        <pubDate>Sun, 12 Apr 2026 22:01:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Nearly 4,000 US industrial devices exposed to Iranian cyberattacks</title>
-        <link>https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/</link>
-        <description><![CDATA[The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]]]></description>
-        <pubDate>Sun, 12 Apr 2026 22:01:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Sun, 12 Apr 2026 22:01:00 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sun, 12 Apr 2026 22:01:00 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 22:17:52 GMT</pubDate>
     </item>
     
 
@@ -41,7 +17,23 @@
         <title>[threat-intel] Russia's 'Fancy Bear' APT Continues Its Global Onslaught</title>
         <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
         <description><![CDATA[Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.]]></description>
-        <pubDate>Sun, 12 Apr 2026 22:01:00 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 22:17:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Sun, 12 Apr 2026 22:17:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sun, 12 Apr 2026 22:17:52 GMT</pubDate>
     </item>
     
 </channel></rss>
