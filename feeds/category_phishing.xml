@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[phishing] New VENOM phishing attacks steal senior executives' Microsoft logins</title>
-        <link>https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/</link>
-        <description><![CDATA[Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called "VENOM" are targeting credentials of C-suite executives across multiple industries. [...]]]></description>
-        <pubDate>Sun, 12 Apr 2026 08:18:09 GMT</pubDate>
+        <title>[phishing] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
+        <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+        <description><![CDATA[Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.]]></description>
+        <pubDate>Sun, 12 Apr 2026 15:46:18 GMT</pubDate>
     </item>
     
 </channel></rss>
