@@ -6,11 +6,12 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[supply-chain] UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack</title>
-        <link>https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html</link>
-        <description><![CDATA[The&amp;nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&amp;nbsp;as UNC1069.
-Maintainer Jason Saayman said the attackers tailored their social engineering efforts "specifically to me" by first approaching him under the guise of the founder of a]]></description>
-        <pubDate>Mon, 06 Apr 2026 14:02:20 GMT</pubDate>
+        <title>[supply-chain] Python Supply-Chain Compromise</title>
+        <link>https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html</link>
+        <description><![CDATA[&lt;p&gt;This is &lt;a href="https://www.truesec.com/hub/blog/malicious-pypi-package-litellm-supply-chain-compromise"&gt;news&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;A malicious supply chain compromise has been identified in the Python Package Index package litellm version 1.82.8. The published wheel contains a malicious .pth file (litellm_init.pth, 34,628 bytes) which is automatically executed by the Python interpreter on every startup, without requiring any explicit import of the litellm module.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;There are a lot of really boring things we need to do to help secure all of these critical libraries: SBOMs, SLSA, SigStore. But we have to do them.&lt;/p&gt;]]></description>
+        <pubDate>Sun, 12 Apr 2026 05:43:13 GMT</pubDate>
     </item>
     
 </channel></rss>
