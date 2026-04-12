@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Over 20,000 crypto fraud victims identified in international crackdown</title>
-        <link>https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/</link>
-        <description><![CDATA[An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]]]></description>
-        <pubDate>Sun, 12 Apr 2026 17:27:44 GMT</pubDate>
+        <title>[threat-intel] Nearly 4,000 US industrial devices exposed to Iranian cyberattacks</title>
+        <link>https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/</link>
+        <description><![CDATA[The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]]]></description>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
     </item>
     
 
@@ -17,16 +25,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sun, 12 Apr 2026 17:27:44 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
-        <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
-        <description><![CDATA[Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&amp;nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&amp;nbsp;Webloc.
-The tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&amp;nbsp;the two firms merged in July&amp;nbsp;2023]]></description>
-        <pubDate>Sun, 12 Apr 2026 17:27:44 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
     </item>
     
 
@@ -34,7 +33,7 @@ The tool was developed by Israeli company Cobwebs Technologies and is now sold b
         <title>[threat-intel] Russia's 'Fancy Bear' APT Continues Its Global Onslaught</title>
         <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
         <description><![CDATA[Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.]]></description>
-        <pubDate>Sun, 12 Apr 2026 17:27:44 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
     </item>
     
 
@@ -42,7 +41,24 @@ The tool was developed by Israeli company Cobwebs Technologies and is now sold b
         <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Sun, 12 Apr 2026 17:27:44 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] What vibe hunting gets right about AI threat hunting, and where it breaks down</title>
+        <link>https://www.helpnetsecurity.com/2026/04/10/aqsa-taylor-exaforce-vibe-hunting/</link>
+        <description><![CDATA[&lt;p&gt;In this Help Net Security interview, Aqsa Taylor, Chief Security Evangelist, Exaforce, explains vibe hunting, an AI-driven approach to threat detection that inverts traditional hypothesis-driven methods. Instead of analysts defining attack vectors upfront, the AI scans datasets for anomalous patterns and surfaces potential threats. Taylor draws a firm line on responsibility: analysts must be able to explain their reasoning. When they cannot, the AI is steering the hunt. She also addresses enrichment, junior analyst development, &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/10/aqsa-taylor-exaforce-vibe-hunting/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/10/aqsa-taylor-exaforce-vibe-hunting/"&gt;What vibe hunting gets right about AI threat hunting, and where it breaks down&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
+        <pubDate>Sun, 12 Apr 2026 17:46:13 GMT</pubDate>
     </item>
     
 </channel></rss>
