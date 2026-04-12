@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Cyber Threat Intel Feed - theft</title>
+<link>https://isamuel.dev</link>
+<description>Aggregated cybersecurity news</description>
+
+    <item>
+        <title>[theft] Bitcoin Depot hack leads to $3.6M Bitcoin theft via stolen credentials</title>
+        <link>https://securityaffairs.com/190578/cyber-crime/bitcoin-depot-hack-leads-to-3-6m-bitcoin-theft-via-stolen-credentials.html</link>
+        <description><![CDATA[Hackers breached Bitcoin Depot, stole credentials, and took about 50 BTC worth $3.6M from its wallets after a March 23 intrusion. Hackers breached the largest US Bitcoin ATM operator, Bitcoin Depot, on March 23, stole login credentials, and drained about 50.9 BTC worth $3.6M from company wallets. Bitcoin Depot told the SEC that a hacker [&amp;#8230;]]]></description>
+        <pubDate>Sun, 12 Apr 2026 06:17:36 GMT</pubDate>
+    </item>
+    
+</channel></rss>
