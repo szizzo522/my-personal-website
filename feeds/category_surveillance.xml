@@ -6,11 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[surveillance] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
-        <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
-        <description><![CDATA[Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&amp;nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&amp;nbsp;Webloc.
-The tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&amp;nbsp;the two firms merged in July&amp;nbsp;2023]]></description>
-        <pubDate>Sun, 12 Apr 2026 21:11:20 GMT</pubDate>
+        <title>[surveillance] Citizen Lab: Webloc tracked 500M devices for global law enforcement</title>
+        <link>https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html</link>
+        <description><![CDATA[Citizen Lab reported that law enforcement used the surveillance tool Webloc to track up to 500M devices via ad data globally. A report by Citizen Lab revealed that law enforcement agencies in the U.S., Hungary, and El Salvador used a surveillance tool called Webloc to track devices via advertising data, potentially affecting up to 500 [&amp;#8230;]]]></description>
+        <pubDate>Mon, 13 Apr 2026 22:54:08 GMT</pubDate>
     </item>
     
 </channel></rss>
