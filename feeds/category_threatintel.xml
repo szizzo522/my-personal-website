@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
-        <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
-        <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Mon, 13 Apr 2026 22:04:23 GMT</pubDate>
+        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
+        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
+        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
+        <pubDate>Mon, 13 Apr 2026 22:33:01 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+        <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+        <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
+        <pubDate>Mon, 13 Apr 2026 22:33:01 GMT</pubDate>
     </item>
     
 
@@ -17,24 +25,15 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 13 Apr 2026 22:04:23 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 22:33:01 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts</title>
-        <link>https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html</link>
-        <description><![CDATA[The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&amp;nbsp;called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in&amp;nbsp;fraud.
-In tandem, authorities detained the alleged developer, who has&amp;]]></description>
-        <pubDate>Mon, 13 Apr 2026 22:04:23 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Citizen Lab: Webloc tracked 500M devices for global law enforcement</title>
-        <link>https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html</link>
-        <description><![CDATA[Citizen Lab reported that law enforcement used the surveillance tool Webloc to track up to 500M devices via ad data globally. A report by Citizen Lab revealed that law enforcement agencies in the U.S., Hungary, and El Salvador used a surveillance tool called Webloc to track devices via advertising data, potentially affecting up to 500 [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 22:04:23 GMT</pubDate>
+        <title>[threat-intel] APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials</title>
+        <link>https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials</link>
+        <description><![CDATA[The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.]]></description>
+        <pubDate>Mon, 13 Apr 2026 22:33:01 GMT</pubDate>
     </item>
     
 
@@ -42,7 +41,7 @@ In tandem, authorities detained the alleged developer, who has&amp;]]></descript
         <title>[threat-intel] Iran-linked group Handala claims to have breached three major UAE organizations</title>
         <link>https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html</link>
         <description><![CDATA[Iran-linked group Handala claims to have breached three major UAE organizations, Dubai Courts, Dubai Land Department, and Dubai Roads &amp;#38; Transport Authority The group Handala claimed a major cyberattack against the UAE, targeting Dubai Courts Department, Dubai Land Department, and Dubai Roads and Transport Authority. They alleged destroying 6 petabytes of data and stealing 149 TB [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 22:04:23 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 22:33:01 GMT</pubDate>
     </item>
     
 </channel></rss>
