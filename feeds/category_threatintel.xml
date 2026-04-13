@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Mon, 13 Apr 2026 12:52:41 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 13 Apr 2026 12:52:41 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 13:34:27 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[threat-intel] Russia's 'Fancy Bear' APT Continues Its Global Onslaught</title>
         <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
         <description><![CDATA[Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.]]></description>
-        <pubDate>Mon, 13 Apr 2026 12:52:41 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 13:34:27 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[threat-intel] Citizen Lab: Webloc tracked 500M devices for global law enforcement</title>
         <link>https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html</link>
         <description><![CDATA[Citizen Lab reported that law enforcement used the surveillance tool Webloc to track up to 500M devices via ad data globally. A report by Citizen Lab revealed that law enforcement agencies in the U.S., Hungary, and El Salvador used a surveillance tool called Webloc to track devices via advertising data, potentially affecting up to 500 [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 12:52:41 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 13:34:27 GMT</pubDate>
     </item>
     
 
@@ -41,7 +33,15 @@
         <title>[threat-intel] Iran-linked group Handala claims to have breached three major UAE organizations</title>
         <link>https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html</link>
         <description><![CDATA[Iran-linked group Handala claims to have breached three major UAE organizations, Dubai Courts, Dubai Land Department, and Dubai Roads &amp;#38; Transport Authority The group Handala claimed a major cyberattack against the UAE, targeting Dubai Courts Department, Dubai Land Department, and Dubai Roads and Transport Authority. They alleged destroying 6 petabytes of data and stealing 149 TB [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 12:52:41 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 13:34:27 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Mon, 13 Apr 2026 13:34:27 GMT</pubDate>
     </item>
     
 </channel></rss>
