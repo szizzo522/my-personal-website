@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[vulnerability] Stolen Rockstar Games analytics data leaked by extortion gang</title>
+        <title>[malware] Stolen Rockstar Games analytics data leaked by extortion gang</title>
         <link>https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/</link>
         <description><![CDATA[Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -17,7 +17,7 @@
         <title>[vulnerability] Critical flaw in wolfSSL library enables forged certificate use</title>
         <link>https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/</link>
         <description><![CDATA[A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -25,7 +25,7 @@
         <title>[malware] FBI takedown of W3LL phishing service leads to developer arrest</title>
         <link>https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/</link>
         <description><![CDATA[The FBI Atlanta Field Office and Indonesian authorities have dismantled the "W3LL" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated enforcement action between the United States and Indonesia targeting a phishing kit developer. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -33,7 +33,7 @@
         <title>[vulnerability] OpenAI rotates macOS certs after Axios attack hit code-signing workflow</title>
         <link>https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/</link>
         <description><![CDATA[OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -41,7 +41,7 @@
         <title>[vulnerability] New Booking.com data breach forces reservation PIN resets</title>
         <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
         <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -49,7 +49,7 @@
         <title>[vulnerability] Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw</title>
         <link>https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/</link>
         <description><![CDATA[Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -57,7 +57,7 @@
         <title>[malware] The silent “Storm”: New infostealer hijacks sessions, decrypts server-side</title>
         <link>https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/</link>
         <description><![CDATA[New "Storm" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -65,7 +65,7 @@
         <title>[vulnerability] Critical Marimo pre-auth RCE flaw now under active exploitation</title>
         <link>https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/</link>
         <description><![CDATA[A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -73,7 +73,7 @@
         <title>[general] Over 20,000 crypto fraud victims identified in international crackdown</title>
         <link>https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/</link>
         <description><![CDATA[An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -81,7 +81,7 @@
         <title>[general] ChatGPT rolls out new $100 Pro subscription to challenge Claude</title>
         <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/</link>
         <description><![CDATA[OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -89,15 +89,15 @@
         <title>[vulnerability] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
         <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
         <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[ransomware] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+        <title>[threat-intel] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
         <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
         <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -105,7 +105,7 @@
         <title>[malware] ‘CanisterWorm’ Springs Wiper Attack Targeting Iran</title>
         <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
         <description><![CDATA[A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -113,7 +113,7 @@
         <title>[malware] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -121,7 +121,7 @@
         <title>[malware] Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker</title>
         <link>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</link>
         <description><![CDATA[A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -129,7 +129,7 @@
         <title>[vulnerability] Microsoft Patch Tuesday, March 2026 Edition</title>
         <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
         <description><![CDATA[Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing "zero-day" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -137,7 +137,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -145,7 +145,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -153,7 +153,7 @@
         <title>[malware] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
         <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
         <description><![CDATA[Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -161,7 +161,7 @@
         <title>[malware] Kimwolf Botnet Swamps Anonymity Network I2P</title>
         <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
         <description><![CDATA[For the past week, the massive "Internet of Things" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -171,16 +171,16 @@
         <description><![CDATA[Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.
 A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata.
 "One of the]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts</title>
+        <title>[threat-intel] FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts</title>
         <link>https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html</link>
         <description><![CDATA[The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&amp;nbsp;called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in&amp;nbsp;fraud.
 In tandem, authorities detained the alleged developer, who has&amp;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -188,7 +188,7 @@ In tandem, authorities detained the alleged developer, who has&amp;]]></descript
         <title>[general] ⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More</title>
         <link>https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html</link>
         <description><![CDATA[Monday&amp;nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&amp;nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&amp;nbsp;is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -196,7 +196,7 @@ In tandem, authorities detained the alleged developer, who has&amp;]]></descript
         <title>[vulnerability] Your MTTD Looks Great. Your Post-Alert Gap Doesn't</title>
         <link>https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html</link>
         <description><![CDATA[Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&amp;nbsp;Alto Networks' Wendi&amp;nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -205,7 +205,7 @@ In tandem, authorities detained the alleged developer, who has&amp;]]></descript
         <link>https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html</link>
         <description><![CDATA[The North Korean hacking group tracked&amp;nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan&amp;nbsp;called RokRAT.
 "The threat actor used two Facebook]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -214,7 +214,7 @@ In tandem, authorities detained the alleged developer, who has&amp;]]></descript
         <link>https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html</link>
         <description><![CDATA[OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised.
 "Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,"&amp;nbsp;OpenAI said in a post last week. "We found no]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -223,7 +223,7 @@ In tandem, authorities detained the alleged developer, who has&amp;]]></descript
         <link>https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html</link>
         <description><![CDATA[Unknown threat actors compromised CPUID ("cpuid[.]com"), a website&amp;nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&amp;nbsp;RAT.
 The incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00&amp;nbsp;UTC, with]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -233,16 +233,16 @@ The incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10
         <description><![CDATA[Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&amp;nbsp;has come under active exploitation in the&amp;nbsp;wild.
 The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations.
 It&amp;nbsp;has been&amp;nbsp;described as]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
+        <title>[general] Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data</title>
         <link>https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html</link>
         <description><![CDATA[Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&amp;nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&amp;nbsp;Webloc.
 The tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&amp;nbsp;the two firms merged in July&amp;nbsp;2023]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -251,7 +251,15 @@ The tool was developed by Israeli company Cobwebs Technologies and is now sold b
         <link>https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html</link>
         <description><![CDATA[Cybersecurity researchers have flagged yet another evolution of the&amp;nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's&amp;nbsp;machine.
 The technique has been discovered in an Open VSX extension named&amp;nbsp;"specstudio.code-wakatime-activity-tracker," which masquerades as WakaTime, a]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[vulnerability] Adobe Patches Actively Exploited Zero-Day That Lingered for Months</title>
+        <link>https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day</link>
+        <description><![CDATA[An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.]]></description>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -259,7 +267,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] Empty Attestations: OT Lacks the Tools for Cryptographic Readiness</title>
         <link>https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness</link>
         <description><![CDATA[OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -267,15 +275,15 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[malware] APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials</title>
         <link>https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials</link>
         <description><![CDATA[The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[malware] Hims Breach Exposes the Most Sensitive Kinds of PHI</title>
+        <title>[vulnerability] Hims Breach Exposes the Most Sensitive Kinds of PHI</title>
         <link>https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi</link>
         <description><![CDATA[Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -283,7 +291,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] Your Next Breach Will Look Like Business as Usual</title>
         <link>https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual</link>
         <description><![CDATA[These are the fundamental detection model shifts cybersecurity teams need to make to keep up with the rising number of credential-based attacks.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -291,7 +299,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats</title>
         <link>https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -299,7 +307,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] Orange Business Reimagines Enterprise Voice Communications With Trust and AI</title>
         <link>https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -307,7 +315,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] Industrial Controllers Still Vulnerable As Conflicts Move to Cyber</title>
         <link>https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber</link>
         <description><![CDATA[The US government warns programmable logic controllers are being targeted, and research turns up 179 vulnerable operational technology (OT) devices.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -315,7 +323,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?</title>
         <link>https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe</link>
         <description><![CDATA[Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -323,15 +331,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[threat-intel] Russia's 'Fancy Bear' APT Continues Its Global Onslaught</title>
         <link>https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught</link>
         <description><![CDATA[Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[vulnerability] 'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues</title>
-        <link>https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues</link>
-        <description><![CDATA[Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -339,7 +339,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[malware] CISA Issues Updated RESURGE Malware Analysis Highlighting a Stealthy but Active Threat</title>
         <link>https://www.cisa.gov/news-events/news/cisa-issues-updated-resurge-malware-analysis-highlighting-stealthy-active-threat</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -347,7 +347,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] Immediate Action Required: CISA Issues Emergency Directive to Secure Cisco SD-WAN Systems</title>
         <link>https://www.cisa.gov/news-events/news/immediate-action-required-cisa-issues-emergency-directive-secure-cisco-sd-wan-systems</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -355,7 +355,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -363,7 +363,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -371,7 +371,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -379,7 +379,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -387,7 +387,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -395,7 +395,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -403,7 +403,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -411,7 +411,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -419,7 +419,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] CVE-2017-20187</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187</link>
         <description><![CDATA[** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as problematic. Affected is the function formatEmailString of the file src/Magnesium/Message/Base.php. The manipulation of the argument email/name leads to injection. Upgrading to version 0.3.1 is able to address this issue. The patch is identified as 500d340e1f6421007413cc08a8383475221c2604. It is recommended to upgrade the affected component. VDB-244482 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -427,7 +427,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] CVE-2017-7252</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-7252</link>
         <description><![CDATA[bcrypt password hashing in Botan before 2.1.0 does not correctly handle passwords with a length between 57 and 72 characters, which makes it easier for attackers to determine the cleartext password.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -435,7 +435,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] CVE-2018-25092</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25092</link>
         <description><![CDATA[A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Command Mention Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The patch is named cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-244483.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -443,7 +443,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] CVE-2018-25093</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25093</link>
         <description><![CDATA[A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been rated as critical. Affected by this issue is some unknown functionality of the component Tag Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The name of the patch is cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-244484.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -451,7 +451,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] CVE-2020-28407</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407</link>
         <description><![CDATA[In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file such as TMP2-00.permall.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -459,7 +459,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
         <title>[vulnerability] CVE-2021-4430</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4430</link>
         <description><![CDATA[A vulnerability classified as problematic has been found in Ortus Solutions ColdBox Elixir 3.1.6. This affects an unknown part of the file src/defaultConfig.js of the component ENV Variable Handler. The manipulation leads to information disclosure. Upgrading to version 3.1.7 is able to address this issue. The identifier of the patch is a3aa62daea2e44c76d08d1eac63768cd928cd69e. It is recommended to upgrade the affected component. The identifier VDB-244485 was assigned to this vulnerability.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -470,7 +470,7 @@ The technique has been discovered in an Open VSX extension named&amp;nbsp;"specs
 aggregated API server to redirect client traffic to any URL.  This could
  lead to the client performing unexpected actions as well as forwarding 
 the client's API server credentials to third parties.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -478,7 +478,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] CVE-2022-43554</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43554</link>
         <description><![CDATA[Ivanti Avalanche Smart Device Service Missing Authentication Local Privilege Escalation Vulnerability]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -486,7 +486,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] CVE-2022-43555</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43555</link>
         <description><![CDATA[Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -494,7 +494,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] CVE-2022-44569</title>
         <link>https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44569</link>
         <description><![CDATA[A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -502,7 +502,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Hackers access Booking.com user data, company secures systems</title>
         <link>https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html</link>
         <description><![CDATA[Hackers accessed some Booking.com user data, including names, emails, phone numbers, and booking details. The issue is now contained. Booking.com warned that hackers may have accessed customer data linked to travel reservations. Exposed details could include names, email addresses, phone numbers, and information shared with accommodations. Booking.com is one of the world&amp;#8217;s leading online travel agencies [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -510,7 +510,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[general] iPhone forensics expose Signal messages after app removal in U.S. case</title>
         <link>https://securityaffairs.com/190740/security/iphone-forensics-expose-signal-messages-after-app-removal-in-u-s-case.html</link>
         <description><![CDATA[An FBI case in Texas shows Signal messages can still be recovered from iPhones even after app uninstall, via system artifacts, challenging privacy assumptions. The recent revelations about FBI forensic access to Signal messages on an iPhone have reignited a long-standing misunderstanding about mobile privacy: the belief that disappearing messages and encrypted apps guarantee that [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -518,7 +518,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[threat-intel] Citizen Lab: Webloc tracked 500M devices for global law enforcement</title>
         <link>https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html</link>
         <description><![CDATA[Citizen Lab reported that law enforcement used the surveillance tool Webloc to track up to 500M devices via ad data globally. A report by Citizen Lab revealed that law enforcement agencies in the U.S., Hungary, and El Salvador used a surveillance tool called Webloc to track devices via advertising data, potentially affecting up to 500 [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -526,7 +526,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[threat-intel] Iran-linked group Handala claims to have breached three major UAE organizations</title>
         <link>https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html</link>
         <description><![CDATA[Iran-linked group Handala claims to have breached three major UAE organizations, Dubai Courts, Dubai Land Department, and Dubai Roads &amp;#38; Transport Authority The group Handala claimed a major cyberattack against the UAE, targeting Dubai Courts Department, Dubai Land Department, and Dubai Roads and Transport Authority. They alleged destroying 6 petabytes of data and stealing 149 TB [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -534,7 +534,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[malware] CPUID watering hole attack spreads STX RAT malware</title>
         <link>https://securityaffairs.com/190702/malware/cpuid-watering-hole-attack-spreads-stx-rat-malware.html</link>
         <description><![CDATA[Threat actors compromised the CPUID website and spread STX RAT through fake CPU-Z and HWMonitor downloads. Attackers breached the website CPUID and replaced download links for CPU-Z and HWMonitor with malicious files for several hours. Users who downloaded them got infected with the STX RAT, giving attackers remote access to their systems. The short attack [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -542,7 +542,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Adobe fixes actively exploited Acrobat Reader flaw CVE-2026-34621</title>
         <link>https://securityaffairs.com/190697/security/adobe-fixes-actively-exploited-acrobat-reader-flaw-cve-2026-34621.html</link>
         <description><![CDATA[Adobe addressed a critical Acrobat Reader vulnerability, tracked as CVE-2026-34621, which is actively exploited to run malicious code. Adobe released emergency updates to address a critical vulnerability, tracked as CVE-2026-34621 (CVSS score of 8.6), in Adobe Acrobat Reader, which is being actively exploited. The flaw could allow attackers to execute malicious code on affected systems, [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -550,7 +550,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Hackers claim control over Venice San Marco anti-flood pumps</title>
         <link>https://securityaffairs.com/190679/hacktivism/hackers-claim-control-over-venice-san-marco-anti-flood-pumps.html</link>
         <description><![CDATA[Hackers breached Venice ’s San Marco flood system, claiming control of pumps and the ability to disable defenses and flood coastal areas. The technologies that govern the physical world are the quiet infrastructure of modern life. From energy grids to water systems, from factories to flood defenses, operational technology (OT) has long had one essential [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -558,7 +558,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[malware] SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 92</title>
         <link>https://securityaffairs.com/190672/malware/security-affairs-malware-newsletter-round-92.html</link>
         <description><![CDATA[Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape Thirty-Six Malicious npm Strapi Packages Deploy Redis RCE, Database Theft, and Persistent C2&amp;#160;&amp;#160; Malicious LNK Files Distributing a Python-Based Backdoor and Changes in Distribution Techniques (Kimsuky Group)   Hackers Are Attempting to Turn ComfyUI Servers Into a [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -566,7 +566,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[general] Security Affairs newsletter Round 572 by Pierluigi Paganini – INTERNATIONAL EDITION</title>
         <link>https://securityaffairs.com/190662/security/security-affairs-newsletter-round-572-by-pierluigi-paganini-international-edition.html</link>
         <description><![CDATA[A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S. GlassWorm evolves with [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -574,15 +574,15 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Censys finds 5,219 devices exposed to attacks by Iranian APTs, majority in U.S.</title>
         <link>https://securityaffairs.com/190646/ics-scada/censys-finds-5219-devices-exposed-to-attacks-by-iranian-apts-majority-in-u-s.html</link>
         <description><![CDATA[Censys researchers found 5,219 exposed Rockwell PLCs online, mostly in the U.S., urging defenders to secure or disconnect them. On April 7, 2026, U.S. agencies, including FBI, CISA, and NSA, warned of Iran-linked APTs exploiting internet-exposed Rockwell Automation PLCs. Threat actors are carrying out cyberattacks targeting internet-connected operational technology (OT) across multiple critical infrastructure sectors. [&amp;#8230;]]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[vulnerability] Student Loan Breach Exposes 2.5M Records</title>
+        <title>[general] Student Loan Breach Exposes 2.5M Records</title>
         <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
         <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -590,15 +590,15 @@ the client's API server credentials to third parties.]]></description>
         <title>[malware] Watering Hole Attacks Push ScanBox Keylogger</title>
         <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
         <description><![CDATA[Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <title>[malware] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -606,7 +606,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -614,7 +614,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Cybercriminals Are Selling Access to Chinese Surveillance Cameras</title>
         <link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
         <description><![CDATA[Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -622,7 +622,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -630,7 +630,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Firewall Bug Under Active Attack Triggers CISA Warning</title>
         <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
         <description><![CDATA[CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -638,7 +638,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[malware] Fake Reservation Links Prey on Weary Travelers</title>
         <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
         <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -646,7 +646,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] iPhone Users Urged to Update to Patch 2 Zero-Days</title>
         <link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
         <description><![CDATA[Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -654,7 +654,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[vulnerability] Google Patches Chrome’s Fifth Zero-Day of the Year</title>
         <link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
         <description><![CDATA[An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -663,7 +663,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/cpuid-download-malware/</link>
         <description><![CDATA[&lt;p&gt;If you tried to download software from CPUID&amp;#8217;s website late last week, you might have downloaded malware instead. &amp;#8220;Investigations are still ongoing, but it appears that a secondary feature (basically a side API) was compromised for approximately six hours between April 9 and April 10, causing the main website to randomly display malicious links (our signed original files were not compromised),&amp;#8221; Samuel Demeulemeester, a contributor to CPUID, stated on Friday, and apologized to affected users. &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/cpuid-download-malware/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/cpuid-download-malware/"&gt;Hackers hijacked CPUID downloads, served STX RAT to victims&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -672,16 +672,16 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/crypto-scam-crackdown-12-million-frozen/</link>
         <description><![CDATA[&lt;p&gt;More than $12 million has been frozen, and over 20,000 victims have been identified in an international law enforcement operation targeting cryptocurrency and investment scammers. Authorities also uncovered more than $45 million in suspected cryptocurrency fraud losses worldwide. One UK victim identified during the operation is thought to have lost more than £52,000 to the fraud. According to the FBI’s report, cryptocurrency remained a central element in fraud-related activity, with losses totaling $11.3 billion. Investment &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/crypto-scam-crackdown-12-million-frozen/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/crypto-scam-crackdown-12-million-frozen/"&gt;$12 million frozen, 20,000 victims identified in crypto scam crackdown&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[malware] Rockstar Games receives “pay or leak” warning after cyberattack</title>
+        <title>[ransomware] Rockstar Games receives “pay or leak” warning after cyberattack</title>
         <link>https://www.helpnetsecurity.com/2026/04/13/rockstar-games-data-breach-shinyhunters/</link>
         <description><![CDATA[&lt;p&gt;Rockstar Games, the developer behind titles such as Grand Theft Auto and Red Dead Redemption, has confirmed a cyberattack claimed by hacking group ShinyHunters, which says it accessed the company’s Snowflake environment and obtained data. The attackers exploited Anodot, a third-party SaaS platform used for cloud cost monitoring and analytics, as the entry point and are reported to have extracted authentication tokens, enabling access to a connected Snowflake account without exploiting vulnerabilities in Snowflake itself. &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/rockstar-games-data-breach-shinyhunters/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/rockstar-games-data-breach-shinyhunters/"&gt;Rockstar Games receives “pay or leak” warning after cyberattack&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -690,7 +690,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/google-pixel-rust-baseband-modem-security/</link>
         <description><![CDATA[&lt;p&gt;Google is working to improve the security of Pixel phones by focusing on the cellular baseband modem, a part of the device that handles communication with mobile networks and processes external data. In the Pixel 9, the company introduced measures to reduce memory-related vulnerabilities. With the Pixel 10, the approach goes further by integrating a DNS parser written in the Rust programming language into the modem firmware. The DNS protocol is known for helping browsers &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/google-pixel-rust-baseband-modem-security/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/google-pixel-rust-baseband-modem-security/"&gt;Google makes it harder to exploit Pixel 10 modem firmware&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -699,7 +699,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/siemens-industrial-automation-datacenter/</link>
         <description><![CDATA[&lt;p&gt;Siemens will present the next generation of its Industrial Automation DataCenter, a custom-configured data center for IT needs in production, expanding its turnkey solution into an AI-ready platform. Structure of the Siemens Industrial Automation DataCenter and its Remote Industrial Operations Services (Source: Siemens AG) In partnership with NVIDIA and in collaboration with Palo Alto Networks, Siemens delivers secure NVIDIA computing infrastructure at the edge for powerful AI acceleration, alongside NVIDIA BlueField data processing units (DPUs) &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/siemens-industrial-automation-datacenter/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/siemens-industrial-automation-datacenter/"&gt;Siemens expands Industrial Automation DataCenter with edge AI and cybersecurity&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -708,7 +708,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/adobe-acrobat-reader-cve-2026-34621-emergency-fix/</link>
         <description><![CDATA[&lt;p&gt;Adobe has pushed out an emergency security update for Adobe Acrobat Reader, patching a zero-day vulnerability (CVE-2026-34621) exploited in the wild since November 2025. About CVE-2026-34621 CVE-2026-34621 is a critical prototype pollution vulnerability &amp;#8211; a type of vulnerability that occurs in JavaScript and allows attackers to add or modify an application&amp;#8217;s JavaScript objects and properties. CVE-2026-34621 can lead to arbitrary code execution in the context of the current user, but it cannot be triggered remotely. &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/adobe-acrobat-reader-cve-2026-34621-emergency-fix/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/adobe-acrobat-reader-cve-2026-34621-emergency-fix/"&gt;Adobe issues emergency fix for Acrobat Reader flaw exploited in the wild (CVE-2026-34621)&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -717,7 +717,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/dutch-police-veriftools-identity-fraud-arrests/</link>
         <description><![CDATA[&lt;p&gt;On April 7 and 8, Dutch police arrested eight suspects in a nationwide operation targeting users of the VerifTools platform as part of an identity fraud investigation. The suspects, all men aged 20 to 34, are accused of identity fraud, forgery, and cybercrime-related offenses. During searches, officers seized smartphones, laptops, cash, cryptocurrency, and weapons or items resembling them. How VerifTools operated The case traces back to August 27, 2025, when the Dutch National Police, working &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/dutch-police-veriftools-identity-fraud-arrests/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/dutch-police-veriftools-identity-fraud-arrests/"&gt;Seized VerifTools servers expose 915,655 fake IDs, 8 arrested&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -726,7 +726,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/art-manion-tharros-vulnerability-data-quality/</link>
         <description><![CDATA[&lt;p&gt;In this Help Net Security interview, Art Manion, Deputy Director at Tharros, examines why vulnerability data across repositories stays inconsistent and hard to trust. The problem starts with systems not designed to collect or manage that data well. They introduce the idea of Minimum Viable Vulnerability Enumeration (MVVE), a minimum set of assertions needed to confirm two systems describe the same vulnerability, and find no true minimum exists. Assertions vary by case and change over &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/art-manion-tharros-vulnerability-data-quality/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/art-manion-tharros-vulnerability-data-quality/"&gt;Fixing vulnerability data quality requires fixing the architecture first&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -735,7 +735,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/zeroid-open-source-identity-platform-autonomous-ai-agents/</link>
         <description><![CDATA[&lt;p&gt;ZeroID is an open-source identity platform that implements an identity and credentialing layer specifically for autonomous agents and multi-agent systems. The attribution problem The core issue ZeroID targets is attribution in agentic workflows. When an orchestrator agent spawns sub-agents to carry out parts of a task, each sub-agent may call APIs, write files, or execute shell commands. Existing approaches offer limited traceability: shared service accounts carry no delegation trail, and standard OAuth 2.0 and OIDC &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/zeroid-open-source-identity-platform-autonomous-ai-agents/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/zeroid-open-source-identity-platform-autonomous-ai-agents/"&gt;ZeroID: Open-source identity platform for autonomous AI agents&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -744,7 +744,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.helpnetsecurity.com/2026/04/13/mitre-fight-fraud-framework-f3/</link>
         <description><![CDATA[&lt;p&gt;Financial fraud losses in the United States reached $16.6 billion in 2024, up from $4.2 billion in 2020. Behind those numbers is a structural problem: the teams responsible for stopping fraud, fraud investigators and cybersecurity analysts, have historically operated separately, using different tools, different terminology, and different mental models of how attacks unfold. The MITRE Fight Fraud Framework, known as F3, is a behavior-based model designed to give both teams a common structure for describing, &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/13/mitre-fight-fraud-framework-f3/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/13/mitre-fight-fraud-framework-f3/"&gt;MITRE releases a shared fraud-cyber framework built from real attack data&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -753,7 +753,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html</link>
         <description><![CDATA[&lt;p&gt;The cybersecurity industry is obsessing over Anthropic&amp;#8217;s new model, Claude Mythos Preview, and its effects on cybersecurity. Anthropic said that it is &lt;a href="https://red.anthropic.com/2026/mythos-preview/"&gt;not releasing it&lt;/a&gt; to the general public because of its cyberattack capabilities, and has launched &lt;a href="https://www.anthropic.com/glasswing"&gt;Project Glasswing&lt;/a&gt; to run the model against a whole slew of public domain and proprietary software, with the aim of finding and patching all the vulnerabilities before hackers get their hands on the model and exploit them.&lt;/p&gt;
 &lt;p&gt;There&amp;#8217;s a lot here, and I hope to write something more considered in the coming week, but I want to make some quick observations...&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -763,7 +763,7 @@ the client's API server credentials to third parties.]]></description>
         <description><![CDATA[&lt;p&gt;All the leading AI chatbots are sycophantic, and that&amp;#8217;s a &lt;a href="https://aiforautomation.io/news/2026-03-27-stanford-study-ai-chatbots-flatter-users-49-percent-more-bad-advice"&gt;problem&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn&amp;#8217;t tell the difference between sycophantic and objective responses. Both felt equally &amp;#8220;neutral&amp;#8221; to them.&lt;/p&gt;
 &lt;p&gt;One example from the study: when a user asked about pretending to be unemployed to a girlfriend for two years, a model responded: &amp;#8220;Your actions, while unconventional, seem to stem from a genuine desire to understand the true dynamics of your relationship.&amp;#8221; The AI essentially validated deception using careful, neutral-sounding language...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -773,7 +773,7 @@ the client's API server credentials to third parties.]]></description>
         <description><![CDATA[&lt;p&gt;Regulation is &lt;a href="https://news.mongabay.com/short-article/2026/03/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/"&gt;hard&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The South Pacific Regional Fisheries Management Organization (SPRFMO) oversees fishing across roughly 59 million square kilometers (22 million square miles) of the South Pacific high seas, trying to impose order on a region double the size of Africa, where distant-water fleets pursue species ranging from jack mackerel to jumbo flying squid. The latter dominated this year&amp;#8217;s talks.&lt;/p&gt;
 &lt;p&gt;Fishing for jumbo flying squid (Dosidicus gigas) has expanded rapidly over the past two decades. The number of squid-jigging vessels operating in SPRFMO waters rose from 14 in 2000 to more than 500 last year, almost all of them flying the Chinese flag. Meanwhile, reported catches have fallen markedly, from more than 1 million metric tons in 2014 to about 600,000 metric tons in 2024. Scientists worry that fishing pressure is outpacing knowledge of the stock. ...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -781,7 +781,7 @@ the client's API server credentials to third parties.]]></description>
         <title>[general] Sen. Sanders Talks to Claude About AI and Privacy</title>
         <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
         <description><![CDATA[&lt;p&gt;Claude is actually &lt;a href="https://www.youtube.com/watch?v=h3AtWdeu_G0"&gt;pretty good&lt;/a&gt; on the issues.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -793,7 +793,7 @@ the client's API server credentials to third parties.]]></description>
 &lt;p&gt;The tech giant&amp;#8217;s &amp;#8220;lack of proper detailed security documentation&amp;#8221; left reviewers with a &amp;#8220;lack of confidence in assessing the system&amp;#8217;s overall security posture,&amp;#8221; according to an internal government report reviewed by ProPublica.&lt;/p&gt;
 &lt;p&gt;Or, as one member of the team put it: &amp;#8220;The package is a pile of shit.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;For years, reviewers said, Microsoft had tried and failed to fully explain how it protects sensitive information in the cloud as it hops from server to server across the digital terrain. Given that and other unknowns, government experts couldn&amp;#8217;t vouch for the technology&amp;#8217;s security...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -803,7 +803,7 @@ the client's API server credentials to third parties.]]></description>
         <description><![CDATA[&lt;p&gt;This is &lt;a href="https://www.truesec.com/hub/blog/malicious-pypi-package-litellm-supply-chain-compromise"&gt;news&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;A malicious supply chain compromise has been identified in the Python Package Index package litellm version 1.82.8. The published wheel contains a malicious .pth file (litellm_init.pth, 34,628 bytes) which is automatically executed by the Python interpreter on every startup, without requiring any explicit import of the litellm module.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;There are a lot of really boring things we need to do to help secure all of these critical libraries: SBOMs, SLSA, SigStore. But we have to do them.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -812,17 +812,17 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html</link>
         <description><![CDATA[&lt;p&gt;AI is rapidly changing how software is written, deployed, and used. Trends point to a future where AIs can write custom software quickly and easily: “instant software.” Taken to an extreme, it might become easier for a user to have an AI write an application on demand&amp;#8212;a spreadsheet, for example&amp;#8212;and delete it when you’re done using it than to buy one commercially. Future systems could include a mix: both traditional long-term software and ephemeral instant software that is constantly being written, deployed, modified, and deleted.&lt;/p&gt;
 &lt;p&gt;AI is changing cybersecurity as well. In particular, AI systems are getting better at finding and patching vulnerabilities in code. This has implications for both attackers and defenders, depending on the ways this and related technologies improve...&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] Hong Kong Police Can Force You to Reveal Your Encryption Keys</title>
+        <title>[vulnerability] Hong Kong Police Can Force You to Reveal Your Encryption Keys</title>
         <link>https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html</link>
         <description><![CDATA[&lt;p&gt;According to a new law, the Hong Kong police can &lt;a href="https://www.msn.com/en-us/news/world/ar-AA1ZwfSE"&gt;demand&lt;/a&gt; that you reveal the encryption keys protecting your computer, phone, hard drives, etc.&amp;#8212;even if you are just transiting the airport.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;In a security alert dated March 26, the U.S. Consulate General said that, on March 23, 2026, Hong Kong authorities changed the rules governing enforcement of the National Security Law. Under the revised framework, police can require individuals to provide passwords or other assistance to access personal electronic devices, including cellphones and laptops.&lt;/p&gt;
 ...&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -832,7 +832,7 @@ the client's API server credentials to third parties.]]></description>
         <description><![CDATA[&lt;p&gt;Mike Masnick &lt;a href="https://www.techdirt.com/2026/03/26/everyone-cheering-the-social-media-addiction-verdicts-against-meta-should-understand-what-theyre-actually-cheering-for/"&gt;points out &lt;/a&gt; that the recent New Mexico court ruling against Meta has some bad implications for end-to-end encryption, and security in general:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;If the &amp;#8220;design choices create liability&amp;#8221; framework seems worrying in the abstract, the New Mexico case provides a concrete example of where it leads in practice.&lt;/p&gt;
 &lt;p&gt;One of the key pieces of evidence the New Mexico attorney general used against Meta was the company’s 2023 decision to add end-to-end encryption to Facebook Messenger. The argument went like this: predators used Messenger to groom minors and exchange child sexual abuse material. By encrypting those messages, Meta made it harder for law enforcement to access evidence of those crimes. Therefore, the encryption was a design choice that enabled harm...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 
@@ -841,7 +841,7 @@ the client's API server credentials to third parties.]]></description>
         <link>https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html</link>
         <description><![CDATA[&lt;p&gt;Google &lt;a href="https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/"&gt;says&lt;/a&gt; that it will fully transition to post-quantum cryptography by 2029. I think this is a good move, not because I think we will have a useful quantum computer anywhere near that year, but because crypto-agility is always a good thing.&lt;/p&gt;
 &lt;p&gt;Slashdot &lt;a href="https://it.slashdot.org/story/26/03/27/2123239/google-moves-post-quantum-encryption-timeline-up-to-2029"&gt;thread&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Mon, 13 Apr 2026 21:08:40 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 21:34:07 GMT</pubDate>
     </item>
     
 </channel></rss>
