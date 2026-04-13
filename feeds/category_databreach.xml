@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] Hims Breach Exposes the Most Sensitive Kinds of PHI</title>
-        <link>https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi</link>
-        <description><![CDATA[Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?]]></description>
-        <pubDate>Mon, 13 Apr 2026 18:44:44 GMT</pubDate>
+        <title>[data-breach] New Booking.com data breach forces reservation PIN resets</title>
+        <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
+        <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
+        <pubDate>Mon, 13 Apr 2026 19:13:12 GMT</pubDate>
     </item>
     
 </channel></rss>
