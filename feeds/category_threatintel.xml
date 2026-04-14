@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
-        <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
-        <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
-        <pubDate>Tue, 14 Apr 2026 10:11:52 GMT</pubDate>
+        <title>[threat-intel] Over 20,000 crypto fraud victims identified in international crackdown</title>
+        <link>https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/</link>
+        <description><![CDATA[An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]]]></description>
+        <pubDate>Tue, 14 Apr 2026 10:45:43 GMT</pubDate>
     </item>
     
 
@@ -17,15 +17,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Tue, 14 Apr 2026 10:11:52 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Tue, 14 Apr 2026 10:11:52 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 10:45:43 GMT</pubDate>
     </item>
     
 
@@ -33,7 +25,7 @@
         <title>[threat-intel] Citizen Lab: Webloc tracked 500M devices for global law enforcement</title>
         <link>https://securityaffairs.com/190715/intelligence/citizen-lab-webloc-tracked-500m-devices-for-global-law-enforcement.html</link>
         <description><![CDATA[Citizen Lab reported that law enforcement used the surveillance tool Webloc to track up to 500M devices via ad data globally. A report by Citizen Lab revealed that law enforcement agencies in the U.S., Hungary, and El Salvador used a surveillance tool called Webloc to track devices via advertising data, potentially affecting up to 500 [&amp;#8230;]]]></description>
-        <pubDate>Tue, 14 Apr 2026 10:11:52 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 10:45:43 GMT</pubDate>
     </item>
     
 
@@ -41,7 +33,7 @@
         <title>[threat-intel] Iran-linked group Handala claims to have breached three major UAE organizations</title>
         <link>https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html</link>
         <description><![CDATA[Iran-linked group Handala claims to have breached three major UAE organizations, Dubai Courts, Dubai Land Department, and Dubai Roads &amp;#38; Transport Authority The group Handala claimed a major cyberattack against the UAE, targeting Dubai Courts Department, Dubai Land Department, and Dubai Roads and Transport Authority. They alleged destroying 6 petabytes of data and stealing 149 TB [&amp;#8230;]]]></description>
-        <pubDate>Tue, 14 Apr 2026 10:11:52 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 10:45:43 GMT</pubDate>
     </item>
     
 </channel></rss>
