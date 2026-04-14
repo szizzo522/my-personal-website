@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] European Gym giant Basic-Fit data breach affects 1 million members</title>
-        <link>https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/</link>
-        <description><![CDATA[Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]]]></description>
-        <pubDate>Tue, 14 Apr 2026 06:11:53 GMT</pubDate>
+        <title>[data-breach] New Booking.com data breach forces reservation PIN resets</title>
+        <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
+        <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
+        <pubDate>Tue, 14 Apr 2026 06:55:12 GMT</pubDate>
     </item>
     
 </channel></rss>
