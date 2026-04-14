@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] New Booking.com data breach forces reservation PIN resets</title>
-        <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
-        <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
-        <pubDate>Tue, 14 Apr 2026 03:04:44 GMT</pubDate>
+        <title>[data-breach] Stolen Rockstar Games analytics data leaked by extortion gang</title>
+        <link>https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/</link>
+        <description><![CDATA[Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]]]></description>
+        <pubDate>Tue, 14 Apr 2026 04:19:51 GMT</pubDate>
     </item>
     
 </channel></rss>
