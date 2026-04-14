@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
+        <title>[threat-intel] Stolen Rockstar Games analytics data leaked by extortion gang</title>
+        <link>https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/</link>
+        <description><![CDATA[Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]]]></description>
+        <pubDate>Tue, 14 Apr 2026 06:11:53 GMT</pubDate>
+    </item>
+    
+
+    <item>
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Tue, 14 Apr 2026 05:19:07 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 06:11:53 GMT</pubDate>
     </item>
     
 
@@ -17,7 +25,7 @@
         <title>[threat-intel] Iran-linked group Handala claims to have breached three major UAE organizations</title>
         <link>https://securityaffairs.com/190716/hacking/iran-linked-group-handala-claims-to-have-breached-three-major-uae-organizations.html</link>
         <description><![CDATA[Iran-linked group Handala claims to have breached three major UAE organizations, Dubai Courts, Dubai Land Department, and Dubai Roads &amp;#38; Transport Authority The group Handala claimed a major cyberattack against the UAE, targeting Dubai Courts Department, Dubai Land Department, and Dubai Roads and Transport Authority. They alleged destroying 6 petabytes of data and stealing 149 TB [&amp;#8230;]]]></description>
-        <pubDate>Tue, 14 Apr 2026 05:19:07 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 06:11:53 GMT</pubDate>
     </item>
     
 
@@ -25,7 +33,7 @@
         <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Tue, 14 Apr 2026 05:19:07 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 06:11:53 GMT</pubDate>
     </item>
     
 </channel></rss>
