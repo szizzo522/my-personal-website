@@ -6,11 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] Basic-Fit hack compromises data of up to 1 million members</title>
-        <link>https://www.helpnetsecurity.com/2026/04/14/basic-fit-data-breach-1-million-members-europe/</link>
-        <description><![CDATA[&lt;p&gt;Basic-Fit, a European gym chain, disclosed that hackers breached one of its internal systems, exposing members’ personal data in several countries. The company operates more than 2,150 clubs in 12 countries under two brands, with more than 5.8 million members. &amp;#8220;The unauthorised access was detected by our system monitoring processes and was stopped within minutes of discovery. The members whose data is involved have been informed,&amp;#8221; the company said in a statement. An investigation by &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/14/basic-fit-data-breach-1-million-members-europe/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/14/basic-fit-data-breach-1-million-members-europe/"&gt;Basic-Fit hack compromises data of up to 1 million members&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 14 Apr 2026 16:13:53 GMT</pubDate>
+        <title>[data-breach] New Booking.com data breach forces reservation PIN resets</title>
+        <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
+        <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
+        <pubDate>Tue, 14 Apr 2026 16:43:02 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[data-breach] Hims Breach Exposes the Most Sensitive Kinds of PHI</title>
+        <link>https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi</link>
+        <description><![CDATA[Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?]]></description>
+        <pubDate>Tue, 14 Apr 2026 16:43:02 GMT</pubDate>
     </item>
     
 
@@ -19,7 +26,7 @@
         <link>https://www.helpnetsecurity.com/2026/04/14/booking-com-data-breach-customer-reservation-data-exposed/</link>
         <description><![CDATA[&lt;p&gt;&amp;#8220;Unauthorized third parties may have been able to access certain booking information associated with your reservation,&amp;#8221; email alerts sent out by Booking.com over the weekend warn. The online travel agency did not say which system(s) were accessed by the unauthorized third parties nor explained the scope of the incident. They only said that they &amp;#8220;recently noticed suspicious activity affecting a number of reservations&amp;#8221; and that their investigation revealed that the attackers may have accessed name(s), &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/14/booking-com-data-breach-customer-reservation-data-exposed/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/14/booking-com-data-breach-customer-reservation-data-exposed/"&gt;Booking.com data breach: Customer reservation data exposed&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Tue, 14 Apr 2026 16:13:53 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 16:43:02 GMT</pubDate>
     </item>
     
 </channel></rss>
