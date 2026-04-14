@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[breach] Hims Breach Exposes the Most Sensitive Kinds of PHI</title>
-        <link>https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi</link>
-        <description><![CDATA[Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?]]></description>
-        <pubDate>Tue, 14 Apr 2026 00:05:30 GMT</pubDate>
+        <title>[breach] New Booking.com data breach forces reservation PIN resets</title>
+        <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
+        <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
+        <pubDate>Tue, 14 Apr 2026 08:55:43 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[breach] Hackers access Booking.com user data, company secures systems</title>
+        <link>https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html</link>
+        <description><![CDATA[Hackers accessed some Booking.com user data, including names, emails, phone numbers, and booking details. The issue is now contained. Booking.com warned that hackers may have accessed customer data linked to travel reservations. Exposed details could include names, email addresses, phone numbers, and information shared with accommodations. Booking.com is one of the world&amp;#8217;s leading online travel agencies [&amp;#8230;]]]></description>
+        <pubDate>Tue, 14 Apr 2026 08:55:43 GMT</pubDate>
     </item>
     
 </channel></rss>
