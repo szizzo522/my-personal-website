@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[breach] McGraw-Hill confirms data breach following extortion threat</title>
-        <link>https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/</link>
-        <description><![CDATA[Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]]]></description>
-        <pubDate>Tue, 14 Apr 2026 18:43:26 GMT</pubDate>
+        <title>[breach] Hims Breach Exposes the Most Sensitive Kinds of PHI</title>
+        <link>https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi</link>
+        <description><![CDATA[Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?]]></description>
+        <pubDate>Tue, 14 Apr 2026 20:36:41 GMT</pubDate>
     </item>
     
 </channel></rss>
