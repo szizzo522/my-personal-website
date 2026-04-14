@@ -6,10 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[breach] New Booking.com data breach forces reservation PIN resets</title>
-        <link>https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/</link>
-        <description><![CDATA[Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]]]></description>
-        <pubDate>Tue, 14 Apr 2026 11:40:24 GMT</pubDate>
+        <title>[breach] Hackers access Booking.com user data, company secures systems</title>
+        <link>https://securityaffairs.com/190757/data-breach/hackers-access-booking-com-user-data-company-secures-systems.html</link>
+        <description><![CDATA[Hackers accessed some Booking.com user data, including names, emails, phone numbers, and booking details. The issue is now contained. Booking.com warned that hackers may have accessed customer data linked to travel reservations. Exposed details could include names, email addresses, phone numbers, and information shared with accommodations. Booking.com is one of the world&amp;#8217;s leading online travel agencies [&amp;#8230;]]]></description>
+        <pubDate>Tue, 14 Apr 2026 12:07:59 GMT</pubDate>
     </item>
     
 </channel></rss>
