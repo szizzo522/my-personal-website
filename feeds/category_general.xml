@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[general] Microsoft fixes bug behind Windows Server 2025 automatic upgrades</title>
-        <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/</link>
-        <description><![CDATA[Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to "unexpectedly" upgrade to Windows Server 2025. [...]]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[general] Microsoft rolls out fast-track to reinstate Windows hardware dev accounts</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/</link>
         <description><![CDATA[Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out without warning. [...]]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -25,7 +17,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -34,7 +26,16 @@
         <link>https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html</link>
         <description><![CDATA[OpenAI on Tuesday&amp;nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&amp;nbsp;model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier&amp;nbsp;model, Mythos.
 "The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security</title>
+        <link>https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html</link>
+        <description><![CDATA[Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&amp;nbsp;level.
+"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying]]></description>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -42,7 +43,7 @@
         <title>[general] Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity</title>
         <link>https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity</link>
         <description><![CDATA[The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships — the latest move by a hyperscaler to compete for sovereign AI and data centers.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -50,7 +51,7 @@
         <title>[general] War Game Exercise Demonstrates How Social Media Manipulation Works</title>
         <link>https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation</link>
         <description><![CDATA[In an educational game called &amp;quot;Capture the Narrative,&amp;quot; students created bots to sway a fictional election, simulating influence in real-world political scenarios.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -58,15 +59,7 @@
         <title>[general] Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads</title>
         <link>https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads</link>
         <description><![CDATA[Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Empty Attestations: OT Lacks the Tools for Cryptographic Readiness</title>
-        <link>https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness</link>
-        <description><![CDATA[OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -74,7 +67,7 @@
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -82,7 +75,7 @@
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -90,15 +83,7 @@
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -106,7 +91,7 @@
         <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -114,7 +99,7 @@
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -122,7 +107,7 @@
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -130,7 +115,7 @@
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -138,7 +123,7 @@
         <title>[general] iPhone forensics expose Signal messages after app removal in U.S. case</title>
         <link>https://securityaffairs.com/190740/security/iphone-forensics-expose-signal-messages-after-app-removal-in-u-s-case.html</link>
         <description><![CDATA[An FBI case in Texas shows Signal messages can still be recovered from iPhones even after app uninstall, via system artifacts, challenging privacy assumptions. The recent revelations about FBI forensic access to Signal messages on an iPhone have reignited a long-standing misunderstanding about mobile privacy: the belief that disappearing messages and encrypted apps guarantee that [&amp;#8230;]]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -146,15 +131,7 @@
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Fake Reservation Links Prey on Weary Travelers</title>
-        <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
-        <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -163,7 +140,7 @@
         <link>https://www.helpnetsecurity.com/2026/04/15/sitehop-safecore-edge-pqc-device/</link>
         <description><![CDATA[&lt;p&gt;Sitehop has launched SAFEcore Edge, a post-quantum encryption device, bringing quantum-resistant security to critical national infrastructure, financial services, and government networks at every point, however remote. From oil platforms and far-flung bank branches to autonomous vehicles, retail sites and official communications, the pocket-sized device is designed to operate where conventional security infrastructure cannot reach. SAFEcore Edge delivers hardware-enforced post-quantum encryption to the network edge, with up to 1,000 times lower latency than software-only solutions. This &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/15/sitehop-safecore-edge-pqc-device/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/15/sitehop-safecore-edge-pqc-device/"&gt;Sitehop’s SAFEcore Edge enables ultra-low-latency, hardware-enforced post-quantum encryption&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -172,7 +149,7 @@
         <link>https://www.helpnetsecurity.com/2026/04/15/nginx-1-30-0-released/</link>
         <description><![CDATA[&lt;p&gt;nginx 1.30.0 brings together features accumulated across the 1.29.x mainline series. The release covers a broad range of changes, from protocol support additions to security-relevant fixes and new configuration options. Keepalive to upstreams is now on by default One of the more operationally significant changes is that keepalive connections to upstream servers are now enabled by default, with the proxy HTTP version set to 1.1. Previously, operators had to configure this explicitly. The change affects &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/15/nginx-1-30-0-released/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/15/nginx-1-30-0-released/"&gt;What changed in nginx 1.30.0 and what it means for your upstream config&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -181,7 +158,7 @@
         <link>https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/</link>
         <description><![CDATA[&lt;p&gt;Defending critical software has long depended on the ability to find and fix vulnerabilities faster than attackers can exploit them. OpenAI is expanding a program designed to give professional defenders prioritized access to AI tools built for that purpose. The company is scaling its Trusted Access for Cyber (TAC) program to thousands of verified individual defenders and hundreds of teams responsible for defending critical software. Alongside that expansion, OpenAI is releasing GPT-5.4-Cyber, a version of &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/"&gt;OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -196,7 +173,7 @@
 &lt;li&gt;The outer wall, 8 meters tall and 2.8 meters thick, with 82 projecting towers.
 &lt;li&gt;The main wall&amp;#8212;a towering 12 meters high and 5 meters thick&amp;#8212;with 96 massive towers offset from those of the outer wall for maximum coverage.&lt;/ul&gt;
 &lt;p&gt;Behind the walls lay broad terraces: the parateichion, 18 meters wide, ideal for repelling enemies who crossed the moat, and the peribolos, 15–­20 meters wide between the inner and outer walls. From the moat&amp;#8217;s bottom to the highest tower top, the defences reached nearly 30 meters&amp;#8212;a nearly unscalable barrier of stone and ingenuity...&lt;/p&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -211,7 +188,16 @@
 &lt;li&gt;I’m speaking at the &lt;a href="https://nemertes.com/nemertes-next-virtual-spring-2026/"&gt;Nemertes [Next] Virtual Conference Spring 2026&lt;/a&gt;, a virtual event, on April 29, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rightscon.org/"&gt;RightsCon 2026&lt;/a&gt; in Lusaka, Zambia, on May 6 and 7, 2026.&lt;/li&gt;
 ...&lt;/ul&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[general] On Anthropic’s Mythos Preview and Project Glasswing</title>
+        <link>https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html</link>
+        <description><![CDATA[&lt;p&gt;The cybersecurity industry is obsessing over Anthropic&amp;#8217;s new model, Claude Mythos Preview, and its effects on cybersecurity. Anthropic said that it is &lt;a href="https://red.anthropic.com/2026/mythos-preview/"&gt;not releasing it&lt;/a&gt; to the general public because of its cyberattack capabilities, and has launched &lt;a href="https://www.anthropic.com/glasswing"&gt;Project Glasswing&lt;/a&gt; to run the model against a whole slew of public domain and proprietary software, with the aim of finding and patching all the vulnerabilities before hackers get their hands on the model and exploit them.&lt;/p&gt;
+&lt;p&gt;There&amp;#8217;s a lot here, and I hope to write something more considered in the coming week, but I want to make some quick observations...&lt;/p&gt;]]></description>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -221,7 +207,7 @@
         <description><![CDATA[&lt;p&gt;All the leading AI chatbots are sycophantic, and that&amp;#8217;s a &lt;a href="https://aiforautomation.io/news/2026-03-27-stanford-study-ai-chatbots-flatter-users-49-percent-more-bad-advice"&gt;problem&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn&amp;#8217;t tell the difference between sycophantic and objective responses. Both felt equally &amp;#8220;neutral&amp;#8221; to them.&lt;/p&gt;
 &lt;p&gt;One example from the study: when a user asked about pretending to be unemployed to a girlfriend for two years, a model responded: &amp;#8220;Your actions, while unconventional, seem to stem from a genuine desire to understand the true dynamics of your relationship.&amp;#8221; The AI essentially validated deception using careful, neutral-sounding language...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -231,7 +217,7 @@
         <description><![CDATA[&lt;p&gt;Regulation is &lt;a href="https://news.mongabay.com/short-article/2026/03/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/"&gt;hard&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The South Pacific Regional Fisheries Management Organization (SPRFMO) oversees fishing across roughly 59 million square kilometers (22 million square miles) of the South Pacific high seas, trying to impose order on a region double the size of Africa, where distant-water fleets pursue species ranging from jack mackerel to jumbo flying squid. The latter dominated this year&amp;#8217;s talks.&lt;/p&gt;
 &lt;p&gt;Fishing for jumbo flying squid (Dosidicus gigas) has expanded rapidly over the past two decades. The number of squid-jigging vessels operating in SPRFMO waters rose from 14 in 2000 to more than 500 last year, almost all of them flying the Chinese flag. Meanwhile, reported catches have fallen markedly, from more than 1 million metric tons in 2014 to about 600,000 metric tons in 2024. Scientists worry that fishing pressure is outpacing knowledge of the stock. ...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -239,7 +225,7 @@
         <title>[general] Sen. Sanders Talks to Claude About AI and Privacy</title>
         <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
         <description><![CDATA[&lt;p&gt;Claude is actually &lt;a href="https://www.youtube.com/watch?v=h3AtWdeu_G0"&gt;pretty good&lt;/a&gt; on the issues.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -251,7 +237,7 @@
 &lt;p&gt;The tech giant&amp;#8217;s &amp;#8220;lack of proper detailed security documentation&amp;#8221; left reviewers with a &amp;#8220;lack of confidence in assessing the system&amp;#8217;s overall security posture,&amp;#8221; according to an internal government report reviewed by ProPublica.&lt;/p&gt;
 &lt;p&gt;Or, as one member of the team put it: &amp;#8220;The package is a pile of shit.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;For years, reviewers said, Microsoft had tried and failed to fully explain how it protects sensitive information in the cloud as it hops from server to server across the digital terrain. Given that and other unknowns, government experts couldn&amp;#8217;t vouch for the technology&amp;#8217;s security...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 
@@ -260,7 +246,7 @@
         <link>https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html</link>
         <description><![CDATA[&lt;p&gt;AI is rapidly changing how software is written, deployed, and used. Trends point to a future where AIs can write custom software quickly and easily: "instant software." Taken to an extreme, it might become easier for a user to have an AI write an application on demand&amp;#8212;a spreadsheet, for example&amp;#8212;and delete it when you&amp;#8217;re done using it than to buy one commercially. Future systems could include a mix: both traditional long-term software and ephemeral instant software that is constantly being written, deployed, modified, and deleted.&lt;/p&gt;
 &lt;p&gt;AI is changing cybersecurity as well. In particular, AI systems are getting better at finding and patching vulnerabilities in code. This has implications for both attackers and defenders, depending on the ways this and related technologies improve...&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 10:52:37 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:23:55 GMT</pubDate>
     </item>
     
 </channel></rss>
