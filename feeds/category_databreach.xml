@@ -6,11 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[data-breach] Basic-Fit hack compromises data of up to 1 million members</title>
-        <link>https://www.helpnetsecurity.com/2026/04/14/basic-fit-data-breach-1-million-members-europe/</link>
-        <description><![CDATA[&lt;p&gt;Basic-Fit, a European gym chain, disclosed that hackers breached one of its internal systems, exposing members’ personal data in several countries. The company operates more than 2,150 clubs in 12 countries under two brands, with more than 5.8 million members. &amp;#8220;The unauthorised access was detected by our system monitoring processes and was stopped within minutes of discovery. The members whose data is involved have been informed,&amp;#8221; the company said in a statement. An investigation by &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/14/basic-fit-data-breach-1-million-members-europe/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/14/basic-fit-data-breach-1-million-members-europe/"&gt;Basic-Fit hack compromises data of up to 1 million members&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 01:06:03 GMT</pubDate>
+        <title>[data-breach] McGraw-Hill confirms data breach following extortion threat</title>
+        <link>https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/</link>
+        <description><![CDATA[Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]]]></description>
+        <pubDate>Wed, 15 Apr 2026 01:56:40 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[data-breach] ShinyHunters claim the hack of Rockstar Games breach and started leaking data</title>
+        <link>https://securityaffairs.com/190796/data-breach/shinyhunters-claim-the-hack-of-rockstar-games-breach-and-started-leaking-data.html</link>
+        <description><![CDATA[Leak of 8.1GB data tied to Rockstar Games includes anti-cheat code, game data, analytics and more, reportedly exposed by ShinyHunters. An 8.1GB data leak reportedly linked to Rockstar Games has surfaced, with files shared by ShinyHunters after being obtained via Anodot. The dataset includes anti-cheat source code, player analytics, game assets, Zendesk support tickets and [&amp;#8230;]]]></description>
+        <pubDate>Wed, 15 Apr 2026 01:56:40 GMT</pubDate>
     </item>
     
 
@@ -19,7 +26,7 @@
         <link>https://www.helpnetsecurity.com/2026/04/14/booking-com-data-breach-customer-reservation-data-exposed/</link>
         <description><![CDATA[&lt;p&gt;&amp;#8220;Unauthorized third parties may have been able to access certain booking information associated with your reservation,&amp;#8221; email alerts sent out by Booking.com over the weekend warn. The online travel agency did not say which system(s) were accessed by the unauthorized third parties nor explained the scope of the incident. They only said that they &amp;#8220;recently noticed suspicious activity affecting a number of reservations&amp;#8221; and that their investigation revealed that the attackers may have accessed name(s), &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/14/booking-com-data-breach-customer-reservation-data-exposed/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/14/booking-com-data-breach-customer-reservation-data-exposed/"&gt;Booking.com data breach: Customer reservation data exposed&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 01:06:03 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 01:56:40 GMT</pubDate>
     </item>
     
 </channel></rss>
