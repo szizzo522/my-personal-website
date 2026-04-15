@@ -10,7 +10,7 @@
         <link>https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html</link>
         <description><![CDATA[Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&amp;nbsp;level.
 "The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying]]></description>
-        <pubDate>Wed, 15 Apr 2026 16:50:38 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 17:25:27 GMT</pubDate>
     </item>
     
 </channel></rss>
