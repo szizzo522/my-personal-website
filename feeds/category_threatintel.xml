@@ -6,18 +6,26 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
-        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 15 Apr 2026 22:33:22 GMT</pubDate>
+        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
+        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
+        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
+        <pubDate>Wed, 15 Apr 2026 23:03:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] US, UK and Canada disrupt $45M crypto theft in Operation Atlantic</title>
-        <link>https://securityaffairs.com/190805/cyber-crime/us-uk-and-canada-disrupt-45m-crypto-theft-in-operation-atlantic.html</link>
-        <description><![CDATA[US, UK and Canada ran Operation Atlantic, uncovering $45M in crypto theft and freezing $12M to return to victims. An international law enforcement operation from the US, UK and Canada, codenamed Operation Atlantic, has targeted large-scale cryptocurrency theft schemes. Authorities identified more than $45 million in stolen digital assets and successfully froze around $12 million. [&amp;#8230;]]]></description>
-        <pubDate>Wed, 15 Apr 2026 22:33:22 GMT</pubDate>
+        <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
+        <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
+        <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
+        <pubDate>Wed, 15 Apr 2026 23:03:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
+        <description><![CDATA[]]></description>
+        <pubDate>Wed, 15 Apr 2026 23:03:52 GMT</pubDate>
     </item>
     
 
@@ -25,7 +33,7 @@
         <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Wed, 15 Apr 2026 22:33:22 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 23:03:52 GMT</pubDate>
     </item>
     
 
@@ -34,7 +42,7 @@
         <link>https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html</link>
         <description><![CDATA[&lt;p&gt;Interesting paper: &amp;#8220;&lt;a href="https://arxiv.org/abs/2602.14783"&gt;What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.&lt;/a&gt;&amp;#8221;&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relationship between cybercriminals and AI using a unique dataset from a cyber threat intelligence platform. Analyzing more than 160 cybercrime forum conversations collected over seven months, our research reveals how cybercriminals understand AI and discuss how they can exploit its capabilities. Their exchanges reflect growing curiosity about AI&amp;#8217;s criminal applications through legal tools and dedicated criminal tools, but also doubts and anxieties about AI&amp;#8217;s effectiveness and its effects on their business models and operational security. The study documents attempts to misuse legitimate AI tools and develop bespoke models tailored for illicit purposes. Combining the diffusion of innovation framework with thematic analysis, the paper provides an in-depth view of emerging AI-enabled cybercrime and offers practical insights for law enforcement and policymakers...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Wed, 15 Apr 2026 22:33:22 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 23:03:52 GMT</pubDate>
     </item>
     
 </channel></rss>
