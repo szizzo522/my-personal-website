@@ -6,18 +6,10 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Crypto-exchange Kraken extorted by hackers after insider breach</title>
-        <link>https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/</link>
-        <description><![CDATA[The Kraken cryptocurrency exchange announced that a cybercrime group is trying to extort the company by threatening to release videos showing internal systems that host client data. [...]]]></description>
-        <pubDate>Wed, 15 Apr 2026 12:52:11 GMT</pubDate>
-    </item>
-    
-
-    <item>
         <title>[threat-intel] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Wed, 15 Apr 2026 12:52:11 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 13:34:46 GMT</pubDate>
     </item>
     
 
@@ -25,15 +17,23 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Wed, 15 Apr 2026 12:52:11 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 13:34:46 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] US, UK and Canada disrupt $45M crypto theft in Operation Atlantic</title>
-        <link>https://securityaffairs.com/190805/cyber-crime/us-uk-and-canada-disrupt-45m-crypto-theft-in-operation-atlantic.html</link>
-        <description><![CDATA[US, UK and Canada ran Operation Atlantic, uncovering $45M in crypto theft and freezing $12M to return to victims. An international law enforcement operation from the US, UK and Canada, codenamed Operation Atlantic, has targeted large-scale cryptocurrency theft schemes. Authorities identified more than $45 million in stolen digital assets and successfully froze around $12 million. [&amp;#8230;]]]></description>
-        <pubDate>Wed, 15 Apr 2026 12:52:11 GMT</pubDate>
+        <title>[threat-intel] ShinyHunters claim the hack of Rockstar Games breach and started leaking data</title>
+        <link>https://securityaffairs.com/190796/data-breach/shinyhunters-claim-the-hack-of-rockstar-games-breach-and-started-leaking-data.html</link>
+        <description><![CDATA[Leak of 8.1GB data tied to Rockstar Games includes anti-cheat code, game data, analytics and more, reportedly exposed by ShinyHunters. An 8.1GB data leak reportedly linked to Rockstar Games has surfaced, with files shared by ShinyHunters after being obtained via Anodot. The dataset includes anti-cheat source code, player analytics, game assets, Zendesk support tickets and [&amp;#8230;]]]></description>
+        <pubDate>Wed, 15 Apr 2026 13:34:46 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Wed, 15 Apr 2026 13:34:46 GMT</pubDate>
     </item>
     
 </channel></rss>
