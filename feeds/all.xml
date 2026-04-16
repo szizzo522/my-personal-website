@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[vulnerability] Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face</title>
+        <title>[vulnerability] New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges</title>
+        <link>https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/</link>
+        <description><![CDATA[A researcher known as "Chaotic Eclipse" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed "RedSun," in the past two weeks, protesting how the company works with cybersecurity researchers. [...]]]></description>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[malware] Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face</title>
         <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/</link>
         <description><![CDATA[Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -17,7 +25,7 @@
         <title>[malware] Google expands Gemini AI use to fight malicious ads on its platform</title>
         <link>https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/</link>
         <description><![CDATA[Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors continue to evolve their tactics to evade detection. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -25,7 +33,7 @@
         <title>[malware] New ATHR vishing platform uses AI voice agents for automated attacks</title>
         <link>https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/</link>
         <description><![CDATA[A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -33,7 +41,7 @@
         <title>[general] Most "AI SOCs" Are Just Faster Triage. That's Not Enough.</title>
         <link>https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/</link>
         <description><![CDATA[AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across systems, not just summarize alerts. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -41,7 +49,7 @@
         <title>[vulnerability] Cisco says critical Webex Services flaw requires customer action</title>
         <link>https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/</link>
         <description><![CDATA[Cisco has released security updates to patch four critical vulnerabilities, including a fixed improper certificate validation flaw in the company's cloud-based Webex Services platform that requires further customer action. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -49,7 +57,7 @@
         <title>[data-breach] Data breach at edtech giant McGraw Hill affects 13.5 million accounts</title>
         <link>https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/</link>
         <description><![CDATA[The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environment earlier this month. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -57,7 +65,7 @@
         <title>[general] US nationals behind DPRK IT worker 'laptop farm' sent to prison</title>
         <link>https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/</link>
         <description><![CDATA[Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune 500 firms. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -65,7 +73,7 @@
         <title>[vulnerability] Microsoft: April Windows Server 2025 update may fail to install</title>
         <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/</link>
         <description><![CDATA[Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -73,15 +81,7 @@
         <title>[vulnerability] Critical Nginx UI auth bypass flaw now actively exploited in the wild</title>
         <link>https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/</link>
         <description><![CDATA[A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[malware] New AgingFly malware used in attacks on Ukraine govt, hospitals</title>
-        <link>https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/</link>
-        <description><![CDATA[A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -89,23 +89,23 @@
         <title>[vulnerability] Patch Tuesday, April 2026 Edition</title>
         <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
         <description><![CDATA[Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed "BlueHammer." Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
+        <title>[vulnerability] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
         <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
         <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[ransomware] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+        <title>[threat-intel] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
         <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
         <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -113,7 +113,7 @@
         <title>[malware] ‘CanisterWorm’ Springs Wiper Attack Targeting Iran</title>
         <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
         <description><![CDATA[A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -121,7 +121,7 @@
         <title>[malware] Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
         <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
         <description><![CDATA[The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -129,7 +129,7 @@
         <title>[malware] Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker</title>
         <link>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</link>
         <description><![CDATA[A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -137,7 +137,7 @@
         <title>[vulnerability] Microsoft Patch Tuesday, March 2026 Edition</title>
         <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
         <description><![CDATA[Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing "zero-day" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -145,7 +145,7 @@
         <title>[general] How AI Assistants are Moving the Security Goalposts</title>
         <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
         <description><![CDATA[AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -153,7 +153,7 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -161,7 +161,7 @@
         <title>[malware] ‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
         <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
         <description><![CDATA[Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -170,7 +170,7 @@
         <link>https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html</link>
         <description><![CDATA[Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&amp;nbsp;dubbed PowMix since at least December&amp;nbsp;2025.
 "PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections," Cisco Talos]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -179,7 +179,7 @@
         <link>https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html</link>
         <description><![CDATA[You&amp;nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&amp;nbsp;lot? Yeah. This&amp;nbsp;week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole "crime" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked&amp;nbsp;for.
 Not&amp;nbsp;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -188,7 +188,7 @@ Not&amp;nbsp;]]></description>
         <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
         <description><![CDATA[In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&amp;nbsp;phishing. Not&amp;nbsp;weak passwords. Unmanaged non-human identities that nobody was&amp;nbsp;watching.
 For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&amp;nbsp;andOAuth grants. When&amp;nbsp;projects end or employees leave, most]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -199,19 +199,19 @@ For every employee in your org, there are 40 to 50 automated credentials: servic
 The details of the vulnerabilities are below&amp;nbsp;-
 
 CVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[vulnerability] Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu</title>
+        <title>[general] Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu</title>
         <link>https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html</link>
         <description><![CDATA[A&amp;nbsp;bank approved a Taboola pixel. That&amp;nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&amp;nbsp;occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation.
 
 Read the full technical breakdown in the Security Intelligence&amp;nbsp;Brief.&amp;nbsp;Download now&amp;nbsp;→
 The "First-Hop Bias" Blind&amp;nbsp;Spot
 Most&amp;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -220,7 +220,7 @@ Most&amp;]]></description>
         <link>https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html</link>
         <description><![CDATA[A "novel" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency&amp;nbsp;sectors.
 Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -229,7 +229,7 @@ Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage
         <link>https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html</link>
         <description><![CDATA[The Computer Emergencies Response Team of Ukraine (CERT-UA)&amp;nbsp;has disclosed details of a new&amp;nbsp;campaign that has&amp;nbsp;targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based web browsers and&amp;nbsp;WhatsApp.
 The activity,&amp;nbsp;which was&amp;nbsp;observed between March and April]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -238,7 +238,7 @@ The activity,&amp;nbsp;which was&amp;nbsp;observed between March and April]]></d
         <link>https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html</link>
         <description><![CDATA[Threat actors&amp;nbsp;have been&amp;nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated&amp;nbsp;emails.
 "By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -248,7 +248,7 @@ The activity,&amp;nbsp;which was&amp;nbsp;observed between March and April]]></d
         <description><![CDATA[A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&amp;nbsp;wild.
 The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It&amp;nbsp;has been codenamed MCPwn by Pluto&amp;nbsp;Security.
 "]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -257,7 +257,15 @@ The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentica
         <link>https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html</link>
         <description><![CDATA[A number&amp;nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&amp;nbsp;releases.
 Topping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse&amp;nbsp;(CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database&amp;nbsp;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[malware] North Korea Uses ClickFix to Target macOS Users' Data</title>
+        <link>https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data</link>
+        <description><![CDATA[Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.]]></description>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -265,7 +273,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] 'Harmless' Global Adware Transforms Into an AV Killer</title>
         <link>https://www.darkreading.com/cyberattacks-data-breaches/harmless-global-adware-av-killer</link>
         <description><![CDATA[A benign looking update Dragon Boss pushed out in March 2025 established persistence via scheduled tasks and arranged for future payloads to be excluded from Windows Defender.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -273,7 +281,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Two-Factor Authentication Breaks Free from the Desktop</title>
         <link>https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop</link>
         <description><![CDATA[Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -281,7 +289,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Microsoft's Original Windows Secure Boot Certificate Is Expiring</title>
         <link>https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire</link>
         <description><![CDATA[The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -289,7 +297,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[ransomware] 6-Year Ransomware Campaign Targets Turkish Homes &amp;amp; SMBs</title>
         <link>https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs</link>
         <description><![CDATA[While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -297,7 +305,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Critical MCP Integration Flaw Puts NGINX at Risk</title>
         <link>https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk</link>
         <description><![CDATA[Attackers can abuse the near-maximum severity flaw in nginx-ui to restart, create, modify, and delete NGINX configuration files.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -305,7 +313,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Navigating the Unique Security Risks of Asia's Digital Supply Chain</title>
         <link>https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain</link>
         <description><![CDATA[Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -313,7 +321,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now</title>
         <link>https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management</link>
         <description><![CDATA[Quantum computers are coming and may impact systems in unexpected ways, and it will &amp;quot;take years to be fully quantum-safe, if ever,&amp;quot; cryptography expert warns.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -321,7 +329,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests</title>
         <link>https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests</link>
         <description><![CDATA[Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -329,15 +337,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Microsoft, Salesforce Patch AI Agent Data Leak Flaws</title>
         <link>https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws</link>
         <description><![CDATA[Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[general] Microsoft Bets $10B to Boost Japan's AI, Cybersecurity</title>
-        <link>https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity</link>
-        <description><![CDATA[The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships — the latest move by a hyperscaler to compete for sovereign AI and data centers.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -345,7 +345,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] CISA Issues Updated RESURGE Malware Analysis Highlighting a Stealthy but Active Threat</title>
         <link>https://www.cisa.gov/news-events/news/cisa-issues-updated-resurge-malware-analysis-highlighting-stealthy-active-threat</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -353,7 +353,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Immediate Action Required: CISA Issues Emergency Directive to Secure Cisco SD-WAN Systems</title>
         <link>https://www.cisa.gov/news-events/news/immediate-action-required-cisa-issues-emergency-directive-secure-cisco-sd-wan-systems</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -361,7 +361,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] CISA Announces New Town Halls to Engage with Stakeholders on Cyber Incident Reporting for Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisa-announces-new-town-halls-engage-stakeholders-cyber-incident-reporting-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -369,7 +369,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] CISA’s 2025 Year in Review: Driving Security and Resilience Across Critical Infrastructure</title>
         <link>https://www.cisa.gov/news-events/news/cisas-2025-year-review-driving-security-and-resilience-across-critical-infrastructure</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -377,7 +377,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] CISA Releases Guide to Help Critical Infrastructure Users Adopt More Secure Communication</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-guide-help-critical-infrastructure-users-adopt-more-secure-communication</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -385,15 +385,15 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] CISA Orders Federal Agencies to Strengthen Edge Device Security Amid Rising Cyber Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-orders-federal-agencies-strengthen-edge-device-security-amid-rising-cyber-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
+        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
         <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -401,7 +401,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306</title>
         <link>https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -409,7 +409,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT</title>
         <link>https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -417,7 +417,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity</title>
         <link>https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity</link>
         <description><![CDATA[]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -425,7 +425,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Cisco fixed four critical flaws in Identity Services and Webex</title>
         <link>https://securityaffairs.com/190909/security/cisco-fixed-four-critical-flaws-in-identity-services-and-webex.html</link>
         <description><![CDATA[Cisco fixed four critical flaws in Identity Services and Webex that could allow code execution and user impersonation. Cisco has addressed four critical vulnerabilities affecting its Identity Services and Webex platforms. The flaws could allow attackers to execute arbitrary code and impersonate any user within the affected services. The issues pose serious security risks, prompting [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -433,7 +433,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[ransomware] Cookeville Regional Medical Center hospital data breach impacts 337,917 people</title>
         <link>https://securityaffairs.com/190898/cyber-crime/cookeville-regional-medical-center-hospital-data-breach-impacts-337917-people.html</link>
         <description><![CDATA[A ransomware attack on Cookeville Regional Medical Center hospital (Tennessee) exposed data of 337,000 people after hackers stole 500GB of sensitive information from its systems. A ransomware attack on Cookeville Regional Medical Center (CRMC) in Tennessee led to a major data breach affecting about 337,000 people. The attack, carried out by the Rhysida group, involved [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -441,7 +441,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] AI platform n8n abused for stealthy phishing and malware delivery</title>
         <link>https://securityaffairs.com/190887/hacking/ai-platform-n8n-abused-for-stealthy-phishing-and-malware-delivery.html</link>
         <description><![CDATA[Attackers abuse AI automation platform n8n to run phishing campaigns, deliver malware, and evade security by using trusted infrastructure. Threat actors are exploiting the popular AI workflow automation platform n8n to launch advanced phishing campaigns, deliver malware, and collect device data through automated emails. By using trusted infrastructure, they can bypass traditional security controls and [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -449,7 +449,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] From clinics to government: UAC-0247 expands cyber campaign across Ukraine</title>
         <link>https://securityaffairs.com/190875/apt/from-clinics-to-government-uac-0247-expands-cyber-campaign-across-ukraine.html</link>
         <description><![CDATA[CERT-UA reports UAC-0247 targeting Ukrainian clinics and government bodies with malware stealing data from Chromium browsers and WhatsApp. CERT-UA has revealed a cyber campaign by the threat actor UAC-0247 targeting Ukrainian government entities and municipal healthcare facilities, including clinics and emergency hospitals. The operation between March and April 2026, used malware designed to steal sensitive [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -457,7 +457,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[threat-intel] Sweden reports cyberattack attempt on heating plant amid rising energy threats</title>
         <link>https://securityaffairs.com/190869/intelligence/sweden-reports-cyberattack-attempt-on-heating-plant-amid-rising-energy-threats.html</link>
         <description><![CDATA[Sweden says a pro-Russian group attacked a heating plant in 2025. The failed cyberattack highlights growing threats to Europe’s energy infrastructure. Sweden has blamed a pro-Russian group linked to Russian intelligence for a failed cyberattack on a heating plant in 2025. Officials say the incident is part of a broader wave of attacks targeting critical [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -465,7 +465,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] CVE-2026-33032: severe nginx-ui bug grants unauthenticated server access</title>
         <link>https://securityaffairs.com/190841/hacking/cve-2026-33032-severe-nginx-ui-bug-grants-unauthenticated-server-access.html</link>
         <description><![CDATA[An actively exploited critical nginx-ui flaw (CVE-2026-33032) lets attackers bypass authentication and take full control of Nginx servers. A critical vulnerability in nginx-ui, tracked as CVE-2026-33032 (CVSS score of 9.8), is being actively exploited, allowing attackers to bypass authentication and fully take over Nginx servers. The issue stems from improper protection of the /mcp_message endpoint, [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -473,7 +473,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] U.S. CISA adds Microsoft SharePoint Server, and Microsoft Office Excel flaws to its Known Exploited Vulnerabilities catalog</title>
         <link>https://securityaffairs.com/190852/hacking/u-s-cisa-adds-microsoft-sharepoint-server-and-microsoft-office-excel-flaws-to-its-known-exploited-vulnerabilities-catalog.html</link>
         <description><![CDATA[U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Microsoft SharePoint Server, and Microsoft Office Excel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)&amp;#160;added Apple, Laravel Livewire and Craft CMS flaws to its Known Exploited Vulnerabilities (KEV) catalog. Below are the flaws added to the catalog: The first vulnerability [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -481,7 +481,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] Mirax malware campaign hits 220K accounts, enables full remote control</title>
         <link>https://securityaffairs.com/190842/uncategorized/mirax-malware-campaign-hits-220k-accounts-enables-full-remote-control.html</link>
         <description><![CDATA[Mirax, a new Android RAT, spread via Meta ads, infected 220,000 users and turns devices into SOCKS5 proxies, giving attackers full remote control. Mirax is a new Android remote access trojan spreading through ads on Meta platforms, targeting mainly Spanish-speaking users and reaching over 220,000 accounts. The malicious code lets attackers fully control infected devices [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -489,7 +489,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] PHP Composer flaws enable remote command execution via Perforce VCS</title>
         <link>https://securityaffairs.com/190824/security/php-composer-flaws-enable-remote-command-execution-via-perforce-vcs.html</link>
         <description><![CDATA[Two high-severity flaws in PHP Composer could let attackers run arbitrary commands via malicious repository configs and crafted inputs affecting Perforce VCS. Two high-severity vulnerabilities in PHP Composer could allow attackers to execute arbitrary commands. PHP Composer is a dependency manager for PHP that helps developers install and manage libraries their projects need. By defining [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -497,15 +497,15 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Microsoft Patch Tuesday for April 2026 fixed actively exploited SharePoint zero-day</title>
         <link>https://securityaffairs.com/190831/security/microsoft-patch-tuesday-for-april-2026-fixed-actively-exploited-sharepoint-zero-day.html</link>
         <description><![CDATA[Microsoft Patch Tuesday security updates for April 2026 fixed 165 vulnerabilities, including an actively exploited SharePoint zero-day. Microsoft Patch Tuesday security updates addressed 165 vulnerabilities, making it one of the largest updates by CVE count. One of the most interesting flaws fixed by the IT giant is a critical SharePoint zero-day, tracked as CVE-2026-32201, already [&amp;#8230;]]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[vulnerability] Student Loan Breach Exposes 2.5M Records</title>
+        <title>[general] Student Loan Breach Exposes 2.5M Records</title>
         <link>https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/</link>
         <description><![CDATA[2.5 million people were affected, in a breach that could spell more trouble down the line.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -513,7 +513,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] Watering Hole Attacks Push ScanBox Keylogger</title>
         <link>https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/</link>
         <description><![CDATA[Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -521,7 +521,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
         <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
         <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -529,7 +529,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[ransomware] Ransomware Attacks are on the Rise</title>
         <link>https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/</link>
         <description><![CDATA[Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -537,7 +537,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Cybercriminals Are Selling Access to Chinese Surveillance Cameras</title>
         <link>https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/</link>
         <description><![CDATA[Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -545,7 +545,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Twitter Whistleblower Complaint: The TL;DR Version</title>
         <link>https://threatpost.com/twitter-whistleblower-tldr-version/180472/</link>
         <description><![CDATA[Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -553,7 +553,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Firewall Bug Under Active Attack Triggers CISA Warning</title>
         <link>https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/</link>
         <description><![CDATA[CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -561,7 +561,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[malware] Fake Reservation Links Prey on Weary Travelers</title>
         <link>https://threatpost.com/reservation-links-prey-on-travelers/180462/</link>
         <description><![CDATA[Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -569,7 +569,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] iPhone Users Urged to Update to Patch 2 Zero-Days</title>
         <link>https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/</link>
         <description><![CDATA[Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -577,7 +577,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[vulnerability] Google Patches Chrome’s Fifth Zero-Day of the Year</title>
         <link>https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/</link>
         <description><![CDATA[An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -586,7 +586,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <link>https://www.helpnetsecurity.com/2026/04/16/nist-national-vulnerability-database-nvd-enrichment/</link>
         <description><![CDATA[&lt;p&gt;NIST is overhauling how it manages the National Vulnerability Database (NVD) and switching to a risk-based model that prioritizes &amp;#8220;enrichment&amp;#8221; of only the most critical CVE-numbered security vulnerabilities. &amp;#8220;This change is driven by a surge in CVE submissions, which increased 263% between 2020 and 2025,&amp;#8221; the National Institute of Standards and Technology said. &amp;#8220;We don’t expect this trend to let up anytime soon.&amp;#8221; A two-year struggle and a new approach NIST has been struggling to &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/16/nist-national-vulnerability-database-nvd-enrichment/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/16/nist-national-vulnerability-database-nvd-enrichment/"&gt;NIST admits defeat on NVD backlog, will enrich only highest-risk CVEs going forward&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -595,7 +595,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <link>https://www.helpnetsecurity.com/2026/04/16/claude-opus-4-7-released/</link>
         <description><![CDATA[&lt;p&gt;Software teams building agentic AI workflows have been pushing frontier models toward longer, unsupervised task runs. Claude Opus 4.7, now generally available from Anthropic, is aimed squarely at that demand, with particular gains in software engineering, multimodal processing, and the kind of instruction fidelity that matters when a model is running tasks autonomously over multiple steps. Opus 4.7 is available across all Claude products and the API, Amazon Bedrock, Google Cloud&amp;#8217;s Vertex AI, and Microsoft &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/16/claude-opus-4-7-released/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/16/claude-opus-4-7-released/"&gt;Anthropic releases Claude Opus 4.7 with automated cybersecurity safeguards&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -604,7 +604,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <link>https://www.helpnetsecurity.com/2026/04/16/fortinet-fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808/</link>
         <description><![CDATA[&lt;p&gt;Two vulnerabilities (CVE-2026-39813, CVE-2026-39808) in FortiSandbox could be leveraged by unauthenticated attackers to bypass authentication and execute unauthorized code or commands on vulnerable systems. Both vulnerabilities can be triggered with a specially crafted HTTP request, putting unpatched FortiSandbox deployments at risk. About FortiSandbox FortiSandbox is Fortinet&amp;#8217;s security solution for detecting and analyzing advanced threats. It does so by detonating suspicious files and URLs in an isolated environment and returning verdicts. Other Fortinet products &amp;#8211; firewalls, &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/16/fortinet-fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/16/fortinet-fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808/"&gt;Fortinet fixes critical FortiSandbox vulnerabilities (CVE-2026-39813, CVE-2026-39808)&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -613,7 +613,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <link>https://www.helpnetsecurity.com/2026/04/16/google-play-store-policy-updates/</link>
         <description><![CDATA[&lt;p&gt;Google’s new set of Google Play policy updates and account transfer feature strengthen user privacy and protect businesses from fraud. Google is also expanding features for managing new contact and location policy changes to support a smoother, more predictable app review experience. By October, Play policy insights in Android Studio can help developers identify if their apps should use new features and will guide them on the steps to take. From October 27, new pre-review &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/16/google-play-store-policy-updates/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/16/google-play-store-policy-updates/"&gt;Google Play is changing how Android apps access your contacts and location&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -622,7 +622,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <link>https://www.helpnetsecurity.com/2026/04/16/tails-vulnerability-expose-saved-files/</link>
         <description><![CDATA[&lt;p&gt;The Tails Project released Tails v7.6.2, an emergency release of the popular open source secure portable operating system. What is Tails? Tails, which is based on Debian GNU/Linux, is aimed at users who want to preserve their online privacy and anonymity. The OS is installed on a dedicated USB stick and when plugged into a computer, it allows users to read and edit documents and images, watch videos, brows the web via the Tor internet &amp;#8230; &lt;a href="https://www.helpnetsecurity.com/2026/04/16/tails-vulnerability-expose-saved-files/" rel="nofollow"&gt;More &lt;span class="meta-nav"&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.helpnetsecurity.com/2026/04/16/tails-vulnerability-expose-saved-files/"&gt;Tails 7.6.2 patches vulnerability that could expose saved files&lt;/a&gt; appeared first on &lt;a href="https://www.helpnetsecurity.com"&gt;Help Net Security&lt;/a&gt;.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -631,7 +631,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <link>https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html</link>
         <description><![CDATA[&lt;p&gt;Interesting research: &amp;#8220;&lt;a href="https://arxiv.org/pdf/2505.11011"&gt;Humans expect rationality and cooperation from LLM opponents in strategic games&lt;/a&gt;.&amp;#8221;&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; As Large Language Models (LLMs) integrate into our social and economic interactions, we need to deepen our understanding of how humans respond to LLMs opponents in strategic settings. We present the results of the first controlled monetarily-incentivised laboratory experiment looking at differences in human behaviour in a multi-player p-beauty contest against other humans and LLMs. We use a within-subject design in order to compare behaviour at the individual level. We show that, in this environment, human subjects choose significantly lower numbers when playing against LLMs than humans, which is mainly driven by the increased prevalence of &amp;#8216;zero&amp;#8217; Nash-equilibrium choices. This shift is mainly driven by subjects with high strategic reasoning ability. Subjects who play the zero Nash-equilibrium choice motivate their strategy by appealing to perceived LLM&amp;#8217;s reasoning ability and, unexpectedly, propensity towards cooperation. Our findings provide foundational insights into the multi-player human-LLM interaction in simultaneous choice games, uncover heterogeneities in both subjects&amp;#8217; behaviour and beliefs about LLM&amp;#8217;s play when playing against them, and suggest important implications for mechanism design in mixed human-LLM systems...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -646,7 +646,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
 &lt;li&gt;The outer wall, 8 meters tall and 2.8 meters thick, with 82 projecting towers.
 &lt;li&gt;The main wall&amp;#8212;a towering 12 meters high and 5 meters thick&amp;#8212;with 96 massive towers offset from those of the outer wall for maximum coverage.&lt;/ul&gt;
 ...&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -661,25 +661,25 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
 &lt;li&gt;I’m speaking at the &lt;a href="https://nemertes.com/nemertes-next-virtual-spring-2026/"&gt;Nemertes [Next] Virtual Conference Spring 2026&lt;/a&gt;, a virtual event, on April 29, 2026.&lt;/li&gt;
 &lt;li&gt;I’m speaking at &lt;a href="https://www.rightscon.org/"&gt;RightsCon 2026&lt;/a&gt; in Lusaka, Zambia, on May 6 and 7, 2026.&lt;/li&gt;
 ...&lt;/ul&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] How Hackers Are Thinking About AI</title>
+        <title>[general] How Hackers Are Thinking About AI</title>
         <link>https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html</link>
         <description><![CDATA[&lt;p&gt;Interesting paper: &amp;#8220;&lt;a href="https://arxiv.org/abs/2602.14783"&gt;What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.&lt;/a&gt;&amp;#8221;&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relationship between cybercriminals and AI using a unique dataset from a cyber threat intelligence platform. Analyzing more than 160 cybercrime forum conversations collected over seven months, our research reveals how cybercriminals understand AI and discuss how they can exploit its capabilities. Their exchanges reflect growing curiosity about AI&amp;#8217;s criminal applications through legal tools and dedicated criminal tools, but also doubts and anxieties about AI&amp;#8217;s effectiveness and its effects on their business models and operational security. The study documents attempts to misuse legitimate AI tools and develop bespoke models tailored for illicit purposes. Combining the diffusion of innovation framework with thematic analysis, the paper provides an in-depth view of emerging AI-enabled cybercrime and offers practical insights for law enforcement and policymakers...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[general] On Anthropic’s Mythos Preview and Project Glasswing</title>
+        <title>[vulnerability] On Anthropic’s Mythos Preview and Project Glasswing</title>
         <link>https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html</link>
         <description><![CDATA[&lt;p&gt;The cybersecurity industry is obsessing over Anthropic&amp;#8217;s new model, Claude Mythos Preview, and its effects on cybersecurity. Anthropic said that it is &lt;a href="https://red.anthropic.com/2026/mythos-preview/"&gt;not releasing it&lt;/a&gt; to the general public because of its cyberattack capabilities, and has launched &lt;a href="https://www.anthropic.com/glasswing"&gt;Project Glasswing&lt;/a&gt; to run the model against a whole slew of public domain and proprietary software, with the aim of finding and patching all the vulnerabilities before hackers get their hands on the model and exploit them.&lt;/p&gt;
 &lt;p&gt;There&amp;#8217;s a lot here, and I hope to write something more considered in the coming week, but I want to make some quick observations...&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -689,7 +689,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <description><![CDATA[&lt;p&gt;All the leading AI chatbots are sycophantic, and that&amp;#8217;s a &lt;a href="https://aiforautomation.io/news/2026-03-27-stanford-study-ai-chatbots-flatter-users-49-percent-more-bad-advice"&gt;problem&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn&amp;#8217;t tell the difference between sycophantic and objective responses. Both felt equally &amp;#8220;neutral&amp;#8221; to them.&lt;/p&gt;
 &lt;p&gt;One example from the study: when a user asked about pretending to be unemployed to a girlfriend for two years, a model responded: &amp;#8220;Your actions, while unconventional, seem to stem from a genuine desire to understand the true dynamics of your relationship.&amp;#8221; The AI essentially validated deception using careful, neutral-sounding language...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -699,7 +699,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <description><![CDATA[&lt;p&gt;Regulation is &lt;a href="https://news.mongabay.com/short-article/2026/03/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/"&gt;hard&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The South Pacific Regional Fisheries Management Organization (SPRFMO) oversees fishing across roughly 59 million square kilometers (22 million square miles) of the South Pacific high seas, trying to impose order on a region double the size of Africa, where distant-water fleets pursue species ranging from jack mackerel to jumbo flying squid. The latter dominated this year&amp;#8217;s talks.&lt;/p&gt;
 &lt;p&gt;Fishing for jumbo flying squid (Dosidicus gigas) has expanded rapidly over the past two decades. The number of squid-jigging vessels operating in SPRFMO waters rose from 14 in 2000 to more than 500 last year, almost all of them flying the Chinese flag. Meanwhile, reported catches have fallen markedly, from more than 1 million metric tons in 2014 to about 600,000 metric tons in 2024. Scientists worry that fishing pressure is outpacing knowledge of the stock. ...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -707,7 +707,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <title>[general] Sen. Sanders Talks to Claude About AI and Privacy</title>
         <link>https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html</link>
         <description><![CDATA[&lt;p&gt;Claude is actually &lt;a href="https://www.youtube.com/watch?v=h3AtWdeu_G0"&gt;pretty good&lt;/a&gt; on the issues.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -719,7 +719,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
 &lt;p&gt;The tech giant&amp;#8217;s &amp;#8220;lack of proper detailed security documentation&amp;#8221; left reviewers with a &amp;#8220;lack of confidence in assessing the system&amp;#8217;s overall security posture,&amp;#8221; according to an internal government report reviewed by ProPublica.&lt;/p&gt;
 &lt;p&gt;Or, as one member of the team put it: &amp;#8220;The package is a pile of shit.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;For years, reviewers said, Microsoft had tried and failed to fully explain how it protects sensitive information in the cloud as it hops from server to server across the digital terrain. Given that and other unknowns, government experts couldn&amp;#8217;t vouch for the technology&amp;#8217;s security...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 
@@ -729,7 +729,7 @@ Topping the list is an SQL injection vulnerability impacting SAP Business Planni
         <description><![CDATA[&lt;p&gt;This is &lt;a href="https://www.truesec.com/hub/blog/malicious-pypi-package-litellm-supply-chain-compromise"&gt;news&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;A malicious supply chain compromise has been identified in the Python Package Index package litellm version 1.82.8. The published wheel contains a malicious .pth file (litellm_init.pth, 34,628 bytes) which is automatically executed by the Python interpreter on every startup, without requiring any explicit import of the litellm module.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;There are a lot of really boring things we need to do to help secure all of these critical libraries: SBOMs, SLSA, SigStore. But we have to do them.&lt;/p&gt;]]></description>
-        <pubDate>Thu, 16 Apr 2026 20:07:17 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:32:52 GMT</pubDate>
     </item>
     
 </channel></rss>
