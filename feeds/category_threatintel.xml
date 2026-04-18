@@ -6,10 +6,18 @@
 <description>Aggregated cybersecurity news</description>
 
     <item>
-        <title>[threat-intel] Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-        <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-        <description><![CDATA[Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
+        <title>[threat-intel] Grinex exchange blames "Western intelligence" for $13.7M crypto hack</title>
+        <link>https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/</link>
+        <description><![CDATA[Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]]]></description>
+        <pubDate>Sat, 18 Apr 2026 09:47:58 GMT</pubDate>
+    </item>
+    
+
+    <item>
+        <title>[threat-intel] Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+        <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+        <description><![CDATA[An elusive hacker who went by the handle "UNKN" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.]]></description>
+        <pubDate>Sat, 18 Apr 2026 09:47:58 GMT</pubDate>
     </item>
     
 
@@ -17,41 +25,15 @@
         <title>[threat-intel] Who is the Kimwolf Botmaster “Dort”?</title>
         <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
         <description><![CDATA[In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle "Dort" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 09:47:58 GMT</pubDate>
     </item>
     
 
     <item>
-        <title>[threat-intel] $13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims</title>
-        <link>https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html</link>
-        <description><![CDATA[Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.
-The exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts</title>
-        <link>https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html</link>
-        <description><![CDATA[An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals.
-The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] CISA Urges Critical Infrastructure Organizations to Take Action Against Insider Threats</title>
-        <link>https://www.cisa.gov/news-events/news/cisa-urges-critical-infrastructure-organizations-take-action-against-insider-threats</link>
-        <description><![CDATA[]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
-    </item>
-    
-
-    <item>
-        <title>[threat-intel] Operation PowerOFF: 53 DDoS domains seized and 3 Million criminal accounts uncovered</title>
-        <link>https://securityaffairs.com/190932/cyber-crime/operation-poweroff-53-ddos-domains-seized-and-3-million-criminal-accounts-uncovered.html</link>
-        <description><![CDATA[Operation PowerOFF shut down 53 DDoS-for-hire domains, arrested four suspects, and exposed data on over 3 million criminal user accounts. Operation PowerOFF is an international law enforcement action that dismantled 53 domains linked to DDoS-for-hire services used by over 75,000 cybercriminals. Authorities arrested four suspects, seized infrastructure, and gained access to databases containing more than [&amp;#8230;]]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
+        <title>[threat-intel] Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</title>
+        <link>https://threatpost.com/0ktapus-victimize-130-firms/180487/</link>
+        <description><![CDATA[Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.]]></description>
+        <pubDate>Sat, 18 Apr 2026 09:47:58 GMT</pubDate>
     </item>
     
 
@@ -60,7 +42,7 @@ The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-
         <link>https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html</link>
         <description><![CDATA[&lt;p&gt;Interesting paper: &amp;#8220;&lt;a href="https://arxiv.org/abs/2602.14783"&gt;What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.&lt;/a&gt;&amp;#8221;&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relationship between cybercriminals and AI using a unique dataset from a cyber threat intelligence platform. Analyzing more than 160 cybercrime forum conversations collected over seven months, our research reveals how cybercriminals understand AI and discuss how they can exploit its capabilities. Their exchanges reflect growing curiosity about AI&amp;#8217;s criminal applications through legal tools and dedicated criminal tools, but also doubts and anxieties about AI&amp;#8217;s effectiveness and its effects on their business models and operational security. The study documents attempts to misuse legitimate AI tools and develop bespoke models tailored for illicit purposes. Combining the diffusion of innovation framework with thematic analysis, the paper provides an in-depth view of emerging AI-enabled cybercrime and offers practical insights for law enforcement and policymakers...&lt;/p&gt;&lt;/blockquote&gt;]]></description>
-        <pubDate>Sat, 18 Apr 2026 09:18:04 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 09:47:58 GMT</pubDate>
     </item>
     
 </channel></rss>
